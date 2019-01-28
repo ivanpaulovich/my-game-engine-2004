@@ -1,0 +1,300 @@
+(*******************************************************)
+(*                                                     *)
+(*       Engine Paulovich DirectX                      *)
+(*       Win32-DirectX API Unit                        *)
+(*                                                     *)
+(*       Copyright (c) 2003-2004, Ivan Paulovich       *)
+(*                                                     *)
+(*       iskatrek@hotmail.com  uin#89160524            *)
+(*                                                     *)
+(*       Unit: gl3DGraphics                            *)
+(*                                                     *)
+(*******************************************************)
+
+unit gl3DGraphics;
+
+interface
+
+uses
+  Windows, SysUtils, Classes, glError, glConst, glWindow,
+  D3DX8, {$IFDEF DXG_COMPAT}DirectXGraphics{$ELSE}Direct3D8{$ENDIF};
+
+type
+
+  (* TReferer *)
+
+  PGraphicsReferer = ^TGraphicsReferer;
+  TGraphicsReferer = class of TGraphics;
+
+  (* TVertex *)
+
+  TVertex = record
+    Pos: TD3DXVector3;
+    Normal: TD3DXVector3;
+    Tu, Tv: Single;
+  end;
+  PVertex = array[0..0] of TVertex;
+
+  (* TGraphics *)
+
+  PGraphics = ^TGraphics;
+  TGraphics = class
+  private
+    FHandle: HWND;
+    FClient: TRect;
+    FD3D: IDirect3D8;
+    FDevice: IDirect3DDevice8;
+    FVertexBuffer: IDirect3DVertexBuffer8;
+    FD3DDM: TD3DDisplayMode;
+    FD3DPP: TD3DPresent_Parameters;
+    FBackSurface: IDirect3DSurface8;
+    FBpp: Integer;
+    FWindowed: Boolean;
+    FOnInitialize: TNotifyEvent;
+    FOnFinalize: TNotifyEvent;
+    procedure DestroyAll;
+  protected
+    procedure DoInitialize; virtual;
+    procedure DoFinalize; virtual;
+  public
+    constructor Create;
+    destructor Destroy;
+    procedure Run;
+    procedure Clear;
+    procedure BeginScene;
+    procedure EndScene;
+    procedure Flip;
+    procedure Restore;
+    property OnInitialize: TNotifyEvent read FOnInitialize write FOnInitialize;
+    property OnFinalize: TNotifyEvent read FOnFinalize write FOnFinalize;
+    property Handle: HWND read FHandle write FHandle;
+    property D3D: IDirect3D8 read FD3D write FD3D;
+    property Device: IDirect3DDevice8 read FDevice write FDevice;
+    property VertexBuffer: IDirect3DVertexBuffer8 read FVertexBuffer write FVertexBuffer;
+    property BackBuffer: IDirect3DSurface8 read FBackSurface write FBackSurface;
+    property Parameters: TD3DPresent_Parameters read FD3DPP write FD3DPP;
+    property DisplayMode: TD3DDisplayMode read FD3DDM write FD3DDM;
+    property Width: Integer read FClient.Right write FClient.Right;
+    property Height: Integer read FClient.Bottom write FClient.Bottom;
+    property Bpp: Integer read FBpp write FBpp;
+    property Windowed: Boolean read FWindowed write FWindowed;
+  end;
+
+const
+  D3DFVFVERTEX = D3DFVF_XYZ or D3DFVF_NORMAL or D3DFVF_TEX1;
+
+function Vertex(Pos: TD3DXVector3; Normal: TD3DXVector3; Tu, Tv: Single): TVertex;
+
+var
+  Graphics: TGraphics;
+
+implementation
+
+uses
+  glCanvas;
+
+function Vertex(Pos: TD3DXVector3; Normal: TD3DXVector3; Tu, Tv: Single): TVertex;
+begin
+  Result.Pos := Pos;
+  Result.Normal := Normal;
+  Result.tu := tu;
+  Result.tv := tv;
+end;
+
+  (* TGraphics *)
+
+constructor TGraphics.Create;
+begin
+  SaveLog(Format(EVENT_TALK, ['TGraphics.Create']));
+
+  if Assigned(Graphics) then
+    raise ELogError.Create(Format(ERROR_EXISTS, ['TGraphics']))
+  else
+    SaveLog(Format(EVENT_CREATE, ['TGraphics']));
+  Graphics := Self;
+
+  FHandle := 0;
+  FD3D := nil;
+  FDevice := nil;
+  FBackSurface := nil;
+  SetRect(FClient, 0, 0, Window.Width, Window.Height);
+  FBpp := 32;
+  FWindowed := True;
+end;
+
+procedure TGraphics.DestroyAll;
+begin
+  if Assigned(FBackSurface) then
+  begin
+    FBackSurface._Release;
+    FBackSurface := nil;
+  end;
+  if Assigned(FDevice) then
+  begin
+    FDevice._Release;
+    FDevice := nil;
+  end;
+  if Assigned(FD3D) then
+  begin
+    FD3D._Release;
+    FD3D := nil;
+  end;
+end;
+
+destructor TGraphics.Destroy;
+begin
+  DoFinalize;
+  DestroyAll;
+end;
+
+procedure TGraphics.Flip;
+begin
+  FDevice.Present(nil, nil, 0, nil);
+end;
+
+procedure TGraphics.Restore;
+var
+  MatProj, MatView: TD3DXMatrix;
+begin
+  SetRect(FClient, 0, 0, Window.Width, Window.Height);
+
+  D3DXMatrixIdentity(MatView);
+  FDevice.SetTransform(D3DTS_VIEW, MatView);
+
+  D3DXMatrixOrthoLH(MatProj, Width, Height, 0, 1);
+end;
+
+procedure TGraphics.Run;
+var
+  Hr: HResult;
+  MatProj, MatView: TD3DXMatrix;
+  pVertices: ^PVertex;
+  K: Integer;
+begin
+  SaveLog(Format(EVENT_TALK, ['TWindow.Create']));
+
+  FD3D := Direct3DCreate8(D3D_SDK_VERSION);
+  if FD3D = nil then
+    raise EError.Create(Format(ERROR_EXISTS, ['Direct3D8']))
+  else
+    SaveLog(Format(EVENT_CREATE, ['Direct3D8']));
+
+  Fillchar(FD3DPP, SizeOf(FD3DPP), 0);
+
+  FD3DPP.Windowed := Windowed;
+  FD3DPP.hDeviceWindow := FHandle;
+  FD3DPP.EnableAutoDepthStencil := False;
+  FD3DPP.BackBufferCount := 1;
+  FD3DPP.Flags := D3DPRESENTFLAG_LOCKABLE_BACKBUFFER;
+
+  if not Windowed then
+  begin
+    FD3DPP.BackBufferWidth := Width;
+    FD3DPP.BackBufferHeight := Height;
+    case Bpp of
+      8: FD3DPP.BackBufferFormat := D3DFMT_R3G3B2;
+      15: FD3DPP.BackBufferFormat := D3DFMT_X1R5G5B5;
+      16: FD3DPP.BackBufferFormat := D3DFMT_R5G6B5;
+      24: FD3DPP.BackBufferFormat := D3DFMT_X8R8G8B8;
+      32: FD3DPP.BackBufferFormat := D3DFMT_A8R8G8B8;
+    else
+      FD3DPP.BackBufferFormat := D3DFMT_A8R8G8B8;
+    end;
+    FD3DPP.SwapEffect := D3DSWAPEFFECT_COPY;
+    FD3DPP.MultiSampleType := D3DMULTISAMPLE_NONE;
+    FD3DPP.EnableAutoDepthStencil := False;
+    FD3DPP.AutoDepthStencilFormat := D3DFMT_D16;
+    FD3DPP.FullScreen_RefreshRateInHz := D3DPRESENT_RATE_DEFAULT;
+    FD3DPP.FullScreen_PresentationInterval := D3DPRESENT_INTERVAL_IMMEDIATE;
+  end
+  else
+  begin
+    if Failed(FD3D.GetAdapterDisplayMode(D3DADAPTER_DEFAULT, FD3DDM)) then
+      raise EError.Create(Format(ERROR_SITE, ['TGraphics.Initialize']))
+    else
+      SaveLog(EVENT_DISPLAYMODE);
+    FD3DPP.BackBufferFormat := FD3DDM.Format;
+    FD3DPP.SwapEffect := D3DSWAPEFFECT_DISCARD;
+  end;
+
+  Hr := FD3D.CreateDevice(D3DADAPTER_DEFAULT, D3DDEVTYPE_HAL, FHandle,
+    D3DCREATE_HARDWARE_VERTEXPROCESSING, FD3DPP, FDevice);
+  if Failed(hr) then
+  begin
+    Hr := FD3D.CreateDevice(D3DADAPTER_DEFAULT, D3DDEVTYPE_HAL, FHandle,
+      D3DCREATE_MIXED_VERTEXPROCESSING, FD3DPP, FDevice);
+    if Failed(Hr) then
+    begin
+      Hr := FD3D.CreateDevice(D3DADAPTER_DEFAULT, D3DDEVTYPE_HAL, FHandle,
+        D3DCREATE_SOFTWARE_VERTEXPROCESSING, FD3DPP, FDevice);
+      if FAILED(Hr) then
+        Hr := FD3D.CreateDevice(D3DADAPTER_DEFAULT, D3DDEVTYPE_REF, FHandle,
+          D3DCREATE_SOFTWARE_VERTEXPROCESSING, FD3DPP, FDevice);
+    end;
+  end;
+
+  SetRect(FClient, 0, 0, Width, Height);
+
+  D3DXMatrixIdentity(MatView);
+  FDevice.SetTransform(D3DTS_VIEW, MatView);
+
+  D3DXMatrixOrthoLH(MatProj, Width, Height, 0, 1);
+  FDevice.SetTransform(D3DTS_PROJECTION, MatProj);
+  FDevice.SetRenderState(D3DRS_CULLMODE, D3DCULL_CW);
+  FDevice.SetRenderState(D3DRS_LIGHTING, iFalse);
+  FDevice.SetRenderState(D3DRS_ZENABLE, iFalse);
+  FDevice.SetRenderState(D3DRS_ZWRITEENABLE, iFalse);
+
+  if Failed(FDevice.CreateVertexBuffer(4 * Sizeof(TVertex), 0, D3DFVFVERTEX,
+    D3DPOOL_DEFAULT, FVertexBuffer)) then
+    Exit;
+
+  if FAILED(FVertexBuffer.Lock(0, 0, PByte(pVertices), 0)) then
+    Exit;
+
+  K := 1;
+
+  pVertices[0 * K] := Vertex(D3DXVECTOR3(0.0, 0.0, 0.0), D3DXVECTOR3(0.0, 0.0, 1.0), 0.0, 1.0);
+
+  pVertices[1 * K] := Vertex(D3DXVECTOR3(0.0, 1.0, 0.0), D3DXVECTOR3(0.0, 0.0, 1.0), 0.0, 0.0);
+
+  pVertices[2 * K] := Vertex(D3DXVECTOR3(1.0, 0.0, 0.0), D3DXVECTOR3(0.0, 0.0, 1.0), 1.0, 1.0);
+
+  pVertices[3 * K] := Vertex(D3DXVECTOR3(1.0, 1.0, 0.0), D3DXVECTOR3(0.0, 0.0, 1.0), 1.0, 0.0);
+
+  FVertexBuffer.Unlock;
+
+  FDevice.GetBackBuffer(0, D3DBACKBUFFER_TYPE_MONO, FBackSurface);
+
+  Canvas := TCanvas.Create(Self);
+
+  DoInitialize;
+end;
+
+procedure TGraphics.Clear;
+begin
+  FDevice.Clear(0, nil, D3DCLEAR_TARGET, Canvas.Brush.Color, 1.0, 0);
+end;
+
+procedure TGraphics.BeginScene;
+begin
+  FDevice.BeginScene;
+end;
+
+procedure TGraphics.EndScene;
+begin
+  FDevice.EndScene;
+end;
+
+procedure TGraphics.DoInitialize;
+begin
+  if Assigned(FOnInitialize) then FOnInitialize(Self);
+end;
+
+procedure TGraphics.DoFinalize;
+begin
+  if Assigned(FOnFinalize) then FOnFinalize(Self);
+end;
+
+end.
+ 

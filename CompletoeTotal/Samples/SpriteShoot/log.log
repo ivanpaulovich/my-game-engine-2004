@@ -1,0 +1,38 @@
+2/4/2004 15:58:07: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\SpriteShoot\SpriteShoot.exe" ---
+2/4/2004 15:58:07: Chamando: [TApplication.Create]
+2/4/2004 15:58:07: TApplication criado com sucesso.
+2/4/2004 15:58:07: Chamando: [TSoundList.Create]
+2/4/2004 15:58:07: TSoundList criado com sucesso.
+2/4/2004 15:58:08: Chamando: [TWindow.Create]
+2/4/2004 15:58:08: Resolução da janela: 640x480.
+2/4/2004 15:58:08: Chamando: [TWindow.Run]
+2/4/2004 15:58:08: Classe TWindow registrada com sucesso.
+2/4/2004 15:58:08: TWindow instanciado com sucesso.
+2/4/2004 15:58:08: Chamando: [TGraphics.Create]
+2/4/2004 15:58:08: TGraphics criado com sucesso.
+2/4/2004 15:58:08: Chamando: [TWindow.Create]
+2/4/2004 15:58:08: Direct3D8 criado com sucesso.
+2/4/2004 15:58:08: Adaptador de modo de display encontrado.
+2/4/2004 15:58:18: Ocorreu o seguinte erro: Impossível carregar audio
+2/4/2004 15:58:18: Chamando: [TWindow.Create]
+2/4/2004 15:58:09: Ocorreu o seguinte erro: Access violation at address 0041A626 in module 'SpriteShoot.exe'. Read of address 00000094
+3/4/2004 13:59:04: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\SpriteShoot\SpriteShoot.exe" ---
+3/4/2004 13:59:04: Chamando: [TApplication.Create]
+3/4/2004 13:59:04: TApplication criado com sucesso.
+3/4/2004 13:59:04: Chamando: [TSoundList.Create]
+3/4/2004 13:59:04: TSoundList criado com sucesso.
+3/4/2004 13:59:05: Chamando: [TWindow.Create]
+3/4/2004 13:59:05: Resolução da janela: 640x480.
+3/4/2004 13:59:05: Chamando: [TWindow.Run]
+3/4/2004 13:59:05: Classe TWindow registrada com sucesso.
+3/4/2004 13:59:05: TWindow instanciado com sucesso.
+3/4/2004 13:59:05: Chamando: [TGraphics.Create]
+3/4/2004 13:59:05: TGraphics criado com sucesso.
+3/4/2004 13:59:05: Chamando: [TWindow.Create]
+3/4/2004 13:59:06: Direct3D8 criado com sucesso.
+3/4/2004 13:59:06: Adaptador de modo de display encontrado.
+3/4/2004 13:57:46: Ocorreu o seguinte erro: Impossível carregar audio
+3/4/2004 13:57:46: Chamando: [TWindow.Create]
+3/4/2004 13:59:06: Ocorreu o seguinte erro: Access violation at address 0041A626 in module 'SpriteShoot.exe'. Read of address 00000094

@@ -1,0 +1,20 @@
+(*******************************************************)
+(*                                                     *)
+(*       Engine Paulovich DirectX                      *)
+(*       Win32-DirectX API Unit                        *)
+(*                                                     *)
+(*       Copyright (c) 2003-2004, Ivan Paulovich       *)
+(*                                                     *)
+(*       iskatrek@hotmail.com  uin#89160524            *)
+(*                                                     *)
+(*       Unit: brSound                                 *)
+(*                                                     *)
+(*******************************************************)
+
+unit brSound;
+
+interface
+
+implementation
+
+end.

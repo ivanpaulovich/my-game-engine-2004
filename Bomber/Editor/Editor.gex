@@ -1,0 +1,10 @@
+[General]
+Name=Editor
+Project=1
+[Classes]
+Count=5
+Class0="TEditMap","TControl","brMain","0","C:\Arquivos de programas\Borland\Delphi7\Projects\Bomber\Editor\brMain.pas"
+Class1="TBtnTile","TControl","brMain","0","C:\Arquivos de programas\Borland\Delphi7\Projects\Bomber\Editor\brMain.pas"
+Class2="TBtnSprite","TControl","brMain","0","C:\Arquivos de programas\Borland\Delphi7\Projects\Bomber\Editor\brMain.pas"
+Class3="TWindow1","TWindow","brMain","0","C:\Arquivos de programas\Borland\Delphi7\Projects\Bomber\Editor\brMain.pas"
+Class4="TGraphics1","TGraphics","brMain","0","C:\Arquivos de programas\Borland\Delphi7\Projects\Bomber\Editor\brMain.pas"

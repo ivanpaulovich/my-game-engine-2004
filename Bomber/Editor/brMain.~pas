@@ -1,0 +1,999 @@
+unit brMain;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, MMSystem,
+  brForms, brGraphics, brSound, brInput, brSprite, brUtils, brControls,
+  D3DX8, {$IFDEF DXG_COMPAT}DirectXGraphics{$ELSE}Direct3D8{$ENDIF}, brActors;
+
+type
+
+  THeader = record
+    Version: Integer;
+    Description: array[0..255] of Char;
+    Background: Integer;
+    Width, Height: Integer;
+  end;
+
+  TTile = record
+    IndexTile: Integer;
+    IndexSprite: Integer;
+    Collide: Boolean;
+  end;
+
+  TPnlMap = class(TControl)
+  private
+    Index: Integer;
+  public
+    procedure DoDraw;
+    procedure DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+      X, Y: Integer); override;
+  end;
+
+  TPnlTile = class(TControl)
+  private
+    Index: Integer;
+  public
+    procedure DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+      X, Y: Integer); override;
+  end;
+
+  TPnlSprite = class(TControl)
+  private
+    Index: Integer;
+  public
+    procedure DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+      X, Y: Integer); override;
+  end;
+
+  TPnlActor = class(TControl)
+  private
+    Index: Integer;
+  public
+    procedure DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+      X, Y: Integer); override;
+  end;
+
+  TWindow1 = class(TWindow)
+    Index: Integer;
+    FileWork: string;
+    Header: THeader;
+    BtnInc: TButton;
+    BtnDec: TButton;
+    BtnSet: TButton;
+    BtnLoad: TButton;
+    BtnSave: TButton;
+    BtnMin: TButton;
+    BtnClose: TButton;
+    PnlMap: TPnlMap;
+    PnlTile: TPnlTile;
+    PnlSprite: TPnlSprite;
+    PnlActor: TPnlActor;
+    Pictures: TPictures;
+    Engine: TSpriteEngine;
+    EngineSprite: TSpriteEngine;
+    EngineBg: TSpriteEngine;
+  private
+    procedure IncClick(Sender: TObject);
+    procedure DecClick(Sender: TObject);
+    procedure SetClick(Sender: TObject);
+    procedure LoadClick(Sender: TObject);
+    procedure SaveClick(Sender: TObject);
+    procedure MinClick(Sender: TObject);
+    procedure CloseClick(Sender: TObject);
+    procedure LoadFromFile(const FileName: string);
+    procedure SaveToFile(const FileName: string);
+    procedure CreateAnimation(XPos, YPos: Single; Index: Integer);
+    procedure CreateSprite(XPos, YPos: Single; Index: Integer);
+    procedure CreatePlayer(XPos, YPos: Single; Index: Integer);
+  public
+    procedure DoCreate; override;
+    procedure DoInitialize; override;
+    procedure DoPaint; override;
+    procedure DoFrame(Sender: TObject; TimeDelta: Single);
+    procedure DoIdleFrame(Sender: TObject; TimeDelta: Single);
+  end;
+
+  TGraphics1 = class(TGraphics)
+  private
+
+  public
+    procedure DoInitialize; override;
+  end;
+
+var
+  Window1: TWindow1;
+  Graphics1: TGraphics1;
+
+implementation
+
+const
+  PATH_IMG = 'Media\Img\';
+  PATH_SOUND = 'Media\Sound\';
+
+  TILE_SIZE = 16;
+  TILE_WIDTH = 13;
+  TILE_HEIGHT = 11;
+
+procedure TPnlMap.DoDraw;
+begin
+  Canvas.Draw(0, 0, Window1.Pictures.Find('Background'), Index);
+end;
+
+procedure TPnlMap.DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+  X, Y: Integer);
+var
+  Sprite: TSprite;
+  TileX, TileY: Integer;
+  PosX, PosY: Integer;
+begin
+  Sprite := Window1.Engine.GetSpriteAt(X, Y);
+  if Sprite <> nil then
+  begin
+    if not (Sprite is TBackground) then
+      Sprite.Dead;
+  end;
+
+  PosX := X - Left;
+  PosY := Y - Top;
+  TileX := PosX div TILE_SIZE;
+  TileY := PosY div TILE_SIZE;
+
+  case Window1.Index of
+    0:
+      begin
+        if (Window1.PnlTile.Index mod 11) > 0 then
+        begin
+          Background.CollisionMap[TileX, TileY] := True;
+          Background.Chips[TileX, TileY] := Window1.PnlTile.Index;
+          if (Window1.PnlTile.Index mod 11) = 2 then
+            Window1.CreateAnimation(TileX * TILE_SIZE + Left, TileY * TILE_SIZE + Top, Window1.PnlTile.Index);
+        end
+        else
+        begin
+          Background.CollisionMap[TileX, TileY] := False;
+          Background.Chips[TileX, TileY] := Window1.PnlTile.Index;
+        end;
+      end;
+    1:
+      begin
+        if not Background.CollisionMap[TileX, TileY] then
+        begin
+          Background.ChipsExtra[TileX, TileY] := Window1.PnlSprite.Index;
+          Window1.CreateSprite(TileX * TILE_SIZE + Left, TileY * TILE_SIZE + Top, Window1.PnlSprite.Index);
+        end;
+      end;
+    2:
+      begin
+        if not Background.CollisionMap[TileX, TileY] then
+        begin
+          Background.ChipsExtra[TileX, TileY] := Window1.PnlActor.Index;
+          Window1.Createplayer(TileX * TILE_SIZE + Left, TileY * TILE_SIZE + Top, Window1.PnlActor.Index);
+        end;
+      end;
+
+  end;
+end;
+
+procedure TPnlTile.DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+  X, Y: Integer);
+begin
+  Index := ((X - Left) div TILE_SIZE) + (((Y - Top) div TILE_SIZE) * 11);
+  Window1.Index := 0;
+end;
+
+procedure TPnlSprite.DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+  X, Y: Integer);
+begin
+  Index := (((X - Left) div TILE_SIZE) * 18) + (((Y - Top) div 24) * 18);
+  Window1.Index := 1;
+end;
+
+procedure TPnlActor.DoMouseDown(Button: TMouseButton; Shift: TShiftState;
+  X, Y: Integer);
+begin
+  Index := (((X - Left) div TILE_SIZE) * 18) + (((Y - Top) div 24) * 18);
+  Window1.Index := 2;
+end;
+
+procedure TWindow1.DoCreate;
+begin
+  Position := poCenter;
+  BorderStyle := bsNone;
+  Width := 512;
+  Height := 224;
+
+  with Header do
+  begin
+    Background := 0;
+    Version := 1;
+    Description := 'X Bomber';
+    Width := TILE_WIDTH;
+    Height := TILE_HEIGHT;
+  end;
+
+  BtnDec := TButton.Create;
+  with BtnDec do
+  begin
+    Left := 268;
+    Top := 192;
+    Width := 23;
+    Height := 22;
+    OnClick := DecClick;
+  end;
+
+  BtnInc := TButton.Create;
+  with BtnInc do
+  begin
+    Left := 268 + 25;
+    Top := 192;
+    Width := 23;
+    Height := 22;
+    OnClick := IncClick;
+  end;
+
+  BtnSet := TButton.Create;
+  with BtnSet do
+  begin
+    Left := 268 + 25 + 42;
+    Top := 192;
+    Width := 46;
+    Height := 22;
+    OnClick := SetClick;
+  end;
+
+  BtnLoad := TButton.Create;
+  with BtnLoad do
+  begin
+    Left := 405;
+    Top := 192;
+    Width := 46;
+    Height := 22;
+    OnClick := LoadClick;
+  end;
+
+  BtnSave := TButton.Create;
+  with BtnSave do
+  begin
+    Left := 454;
+    Top := 192;
+    Width := 46;
+    Height := 22;
+    OnClick := SaveClick;
+  end;
+
+  BtnClose := TButton.Create;
+  with BtnClose do
+  begin
+    Left := 493;
+    Top := 3;
+    Width := 16;
+    Height := 14;
+    OnClick := CloseClick;
+  end;
+
+  BtnMin := TButton.Create;
+  with BtnMin do
+  begin
+    Left := 474;
+    Top := 3;
+    Width := 16;
+    Height := 14;
+    OnClick := MinClick;
+  end;
+
+  PnlMap := TPnlMap.Create;
+  with PnlMap do
+  begin
+    Left := 24;
+    Top := 35;
+    Width := 208;
+    Height := 176;
+    Index := 0;
+  end;
+
+  PnlTile := TPnlTile.Create;
+  with PnlTile do
+  begin
+    Left := 271;
+    Top := 15;
+    Width := 3 * TILE_SIZE;
+    Height := 2 * TILE_SIZE;
+  end;
+
+  PnlSprite := TPnlSprite.Create;
+  with PnlSprite do
+  begin
+    Left := 271;
+    Top := 50;
+    Width := 2 * TILE_SIZE;
+    Height := 24;
+  end;
+
+  PnlActor := TPnlActor.Create;
+  with PnlActor do
+  begin
+    Left := 271;
+    Top := 85;
+    Width := TILE_SIZE;
+    Height := 24;
+  end;
+end;
+
+procedure TWindow1.DoInitialize;
+begin
+  Application.OnDoFrame := DoFrame;
+  Application.OnDoIdleFrame := DoIdleFrame;
+end;
+
+procedure TWindow1.DoPaint;
+var
+  S: TD3DXVector2;
+begin
+  if Assigned(Graphics1) then
+    if Graphics1.Initialized then
+    begin
+      //Caption := IntToStr(Application.Fps);
+
+      if Window1.Key[VK_F2] then
+        Application.Pause;
+
+      if Window1.Key[VK_ESCAPE] then
+        Application.Terminate;
+
+      Graphics1.Clear;
+
+      Graphics1.BeginScene;
+
+      Canvas.SpriteBegin;
+
+      PnlMap.DoDraw;
+
+      EngineBg.Draw;
+
+      S.X := 232;
+      S.Y := 176;
+
+      Canvas.DrawExp(268, 12, nil, @S, nil, 0.0, 100, clWhite, PictureList.Item[0].PatternTextures[0].Image);
+
+      EngineSprite.Draw;
+      Engine.Draw;
+
+      BtnDec.DoDraw;
+      BtnInc.DoDraw;
+      BtnSet.DoDraw;
+      BtnLoad.DoDraw;
+      BtnSave.DoDraw;
+      BtnClose.DoDraw;
+      BtnMin.DoDraw;
+
+      Canvas.SpriteEnd;
+
+      Graphics1.EndScene;
+
+      Graphics1.Flip;
+    end;
+end;
+
+procedure TWindow1.DoFrame(Sender: TObject; TimeDelta: Single);
+var
+  P: TPoint;
+  S: TD3DXVector2;
+begin
+  Caption := IntToStr(Application.Fps);
+
+  if Window1.Key[VK_F2] then
+    Application.Pause;
+
+  if Window1.Key[VK_ESCAPE] then
+    Application.Terminate;
+
+  Engine.Move(1000 div 60);
+  Engine.Dead;
+
+  EngineSprite.Move(1000 div 60);
+
+  EngineBg.Move(1000 div 60);
+
+  Graphics1.Clear;
+
+  Graphics1.BeginScene;
+
+  Canvas.SpriteBegin;
+
+  PnlMap.DoDraw;
+  EngineBg.Draw;
+
+  S.X := 232;
+  S.Y := 176;
+
+  Canvas.DrawExp(268, 12, nil, @S, nil, 0.0, 100, clWhite, PictureList.Item[0].PatternTextures[0].Image);
+
+  EngineSprite.Draw;
+
+  Engine.Draw;
+
+  BtnDec.DoDraw;
+  BtnInc.DoDraw;
+  BtnSet.DoDraw;
+  BtnLoad.DoDraw;
+  BtnSave.DoDraw;
+  BtnClose.DoDraw;
+  BtnMin.DoDraw;
+
+  GetCursorPos(P);
+
+  if PnlMap.MouseIn then
+  begin
+    case Index of
+      0: Canvas.Draw(P.X - Left, P.Y - Top, Pictures.Find('Tile'), PnlTile.Index);
+      1: Canvas.Draw(P.X - Left, P.Y - Top, Pictures.Find('Sprite'), PnlSprite.Index);
+      2: Canvas.Draw(P.X - Left, P.Y - Top, Pictures.Find('Bomberman'), 30);
+    end;
+  end;
+
+  Canvas.Draw(P.X - Left, P.Y - Top, Pictures.Find('Cursor'), 0);
+
+
+  Canvas.SpriteEnd;
+
+  Graphics1.EndScene;
+
+  Graphics1.Flip;
+end;
+
+procedure TWindow1.DoIdleFrame(Sender: TObject; TimeDelta: Single);
+begin
+  DoPaint;
+end;
+
+procedure TWindow1.IncClick(Sender: TObject);
+begin
+  Inc(PnlMap.Index);
+  if PnlMap.Index > Pictures.Find('Bg').PatternCount then
+    PnlMap.Index := 0;
+  Header.Background := PnlMap.Index;
+end;
+
+procedure TWindow1.DecClick(Sender: TObject);
+begin
+  Dec(PnlMap.Index);
+  if PnlMap.Index < 0 then
+    PnlMap.Index := Pictures.Find('Bg').PatternCount;
+  Header.Background := PnlMap.Index;
+end;
+
+var
+  EditHandle: HWnd;
+
+function DlgProc(hWnd: HWND; uMsg: UINT; wParam: WPARAM; lParam: LPARAM): LRESULT; stdcall;
+begin
+  case uMsg of
+
+    WM_INITDIALOG:
+      begin
+        EditHandle := CreateWindow('Edit', Window1.Header.Description,
+          WS_VISIBLE or WS_CHILD or ES_AUTOHSCROLL or WS_BORDER, 11, 25, 126, 21, hWnd, 0, hInstance, nil);
+      end;
+
+    WM_COMMAND:
+      begin
+        case HiWord(wParam) of
+          BN_CLICKED:
+            case LoWord(wParam) of
+              1002:
+                begin
+                  SendMessage(EditHandle, WM_GETTEXT, 256, Integer(@Window1.Header.Description));
+                  EndDialog(hWnd, 0);
+                  SetFocus(Window1.Handle);
+                end;
+            end;
+        end;
+      end;
+
+    WM_CLOSE:
+      begin
+        EndDialog(hWnd, 0);
+      end;
+
+  else
+    Result := 0;
+    Exit;
+  end;
+
+  Result := 0;
+end;
+
+procedure TWindow1.SetClick(Sender: TObject);
+begin
+  DialogBox(hInstance, MAKEINTRESOURCE(100), Handle, @Dlgproc);
+end;
+
+procedure TWindow1.LoadClick(Sender: TObject);
+var
+  FileName: string;
+begin
+  BtnLoad.Clicked := False;
+  FileName := OpenFile(Handle);
+  if Length(FileName) > 0 then
+    LoadFromFile(FileName);
+end;
+
+procedure TWindow1.SaveClick(Sender: TObject);
+var
+  FileName: string;
+begin
+  BtnSave.Clicked := False;
+  FileName := SaveFile(Handle);
+  if Length(FileName) > 0 then
+    SaveToFile(FileName);
+end;
+
+procedure TWindow1.MinClick(Sender: TObject);
+begin
+  BtnMin.Clicked := False;
+  DefWindowProc(Handle, WM_SYSCOMMAND, SC_MINIMIZE, 0);
+end;
+
+procedure TWindow1.CloseClick(Sender: TObject);
+begin
+  BtnClose.Clicked := False;
+  if MsgBox(Handle, 'Você realmente deseja sair?', 'Sair', MB_YESNOCANCEL + MB_ICONEXCLAMATION) = IDYES then
+    Application.Terminate;
+end;
+
+procedure TWindow1.LoadFromFile(const FileName: string);
+var
+  FileHeader: file of THeader;
+  FileTile: file of TTile;
+  Tile: TTile;
+  I, J: Integer;
+begin
+  if Length(FileName) = 0 then
+    Exit;
+
+  FileWork := FileName;
+
+  AssignFile(FileHeader, FileName);
+{$I-}
+  Reset(FileHeader);
+{$I+}
+  if IORESULT <> 0 then
+  begin
+    CloseFile(FileHeader);
+    Exit;
+  end;
+  Read(FileHeader, Header);
+  CloseFile(FileHeader);
+
+  Background.SetMapSize(0, 0);
+  Background.SetMapSize(TILE_WIDTH, TILE_HEIGHT);
+  PnlMap.Index := Header.Background;
+
+  AssignFile(FileTile, FileName);
+{$I-}
+  Reset(FileTile);
+{$I+}
+  if IORESULT <> 0 then
+  begin
+    CloseFile(FileTile);
+    Exit;
+  end;
+  Seek(FileTile, SizeOf(FileHeader));
+
+  Window1.Engine := TSpriteEngine.Create(nil);
+  Window1.Engine.SurfaceRect := Bounds(Window1.PnlMap.Left, Window1.PnlMap.Top,
+    Window1.PnlMap.Width, Window1.PnlMap.Height);
+
+  Background := TBackground.Create(Window1.Engine);
+  with Background do
+  begin
+    Image := Window1.Pictures.Find('Tile');
+    SetMapSize(TILE_WIDTH, TILE_HEIGHT);
+    X := Window1.PnlMap.Left;
+    Y := Window1.PnlMap.Top;
+    Z := -1;
+    Width := Image.Width;
+    Height := Image.Height;
+    Tile := False;
+    Collisioned := True;
+    for I := 0 to MapWidth - 1 do
+      for J := 0 to MapHeight - 1 do
+      begin
+        Chips[I, J] := 0;
+        ChipsExtra[I, J] := -1;
+        CollisionMap[I, J] := False;
+      end;
+  end;
+
+  try
+    for I := 0 to Background.MapWidth - 1 do
+      for J := 0 to Background.MapHeight - 1 do
+      begin
+        Read(FileTile, Tile);
+
+        Background.Chips[I, J] := Tile.IndexTile;
+
+        if (Tile.IndexTile mod 11) = 2 then
+          CreateAnimation(TILE_SIZE * I + PnlMap.Left, TILE_SIZE * J + PnlMap.Top, Tile.IndexTile);
+
+        Background.ChipsExtra[I, J] := Tile.IndexSprite;
+
+        if Tile.IndexSprite >= 0 then
+          CreateSprite(TILE_SIZE * I + PnlMap.Left, TILE_SIZE * J + PnlMap.Top, Tile.IndexSprite);
+
+        Background.CollisionMap[I, J] := Tile.Collide;
+      end;
+  finally
+    CloseFile(FileTile);
+  end;
+
+  Caption := Format('%s - XBomber', [ExtractFileName(FileWork)]);
+end;
+
+procedure TWindow1.SaveToFile(const FileName: string);
+var
+  FileHeader: file of THeader;
+  FileTile: file of TTile;
+  Tile: TTile;
+  Header: THeader;
+  I, J: Integer;
+begin
+  if Length(FileName) = 0 then
+    Exit;
+
+  if Pos('.map', FileName) = 0 then
+    FileWork := FileName + '.map'
+  else
+    FileWork := FileName;
+
+  AssignFile(FileHeader, FileWork);
+  if FileExists(FileWork) then
+    Reset(FileHeader)
+  else
+    Rewrite(FileHeader);
+
+  write(FileHeader, Header);
+  CloseFile(FileHeader);
+
+  AssignFile(FileTile, FileWork);
+  if FileExists(FileWork) then
+    Reset(FileTile)
+  else
+    Rewrite(FileTile);
+  Seek(FileTile, SizeOf(FileHeader));
+
+  try
+    for I := 0 to Background.MapWidth - 1 do
+      for J := 0 to Background.MapHeight - 1 do
+      begin
+        Tile.IndexTile := Background.Chips[I, J];
+        Tile.IndexSprite := -1;
+        Tile.IndexSprite := Background.ChipsExtra[I, J];
+        Tile.Collide := Background.CollisionMap[I, J];
+
+        Write(FileTile, Tile);
+      end;
+  finally
+    CloseFile(FileTile);
+  end;
+
+  Caption := Format('%s - XBomber', [ExtractFileName(FileWork)]);
+end;
+
+procedure TWindow1.CreateAnimation(XPos, YPos: Single; Index: Integer);
+begin
+  with TImageSprite.Create(Engine) do
+  begin
+    Image := Pictures.Find('Tile');
+    X := XPos;
+    Y := YPos;
+    Z := 2;
+    Width := Image.Width;
+    Height := Image.Height;
+    AnimStart := Index;
+    AnimCount := 4;
+    AnimLooped := True;
+    AnimSpeed := 15 / 1000;
+    AnimPos := 1;
+  end;
+end;
+
+procedure TWindow1.CreateSprite(XPos, YPos: Single; Index: Integer);
+begin
+  case Index div 18 of
+    0:
+      begin
+        with TActor1.Create(Engine) do
+        begin
+          Image := Pictures.Find('Sprite');
+          X := XPos;
+          Y := YPos;
+          ImagePosX := 0;
+          ImagePosY := -4;
+          Z := 2;
+          Width := TILE_SIZE;
+          Height := TILE_SIZE;
+          AnimStart := Index;
+          AnimCount := 4;
+          AnimLooped := True;
+          AnimSpeed := 10 / 1000;
+          AnimPos := 0;
+          Direction := drDown;
+          StartPt := Point((Trunc(X) - PnlMap.Left) div 16, (Trunc(Y) - PnlMap.Top) div 16);
+          EndPt := Point(5, 5);
+          SetStart := True;
+          PathQueue := TList.Create;
+          Calculate;
+          Variation := 0.0;
+          I := 0;
+        end;
+      end;
+    1:
+      begin
+        with TActor2.Create(Engine) do
+        begin
+          Image := Window1.Pictures.Find('Sprite');
+          X := XPos;
+          Y := YPos;
+          ImagePosX := 0;
+          ImagePosY := -4;
+          Z := 2;
+          Width := TILE_SIZE;
+          Height := TILE_SIZE;
+          AnimStart := Index;
+          AnimCount := 18;
+          AnimLooped := True;
+          AnimSpeed := 5 / 1000;
+          AnimPos := 0;
+          Direction := drDown;
+          StartPt := Point(2, 2);
+          EndPt := Point(10, 10);
+          SetStart := True;
+          PathQueue := TList.Create;
+        end;
+      end;
+  end;
+end;
+
+procedure TWindow1.CreatePlayer(XPos, YPos: Single; Index: Integer);
+begin
+  if Assigned(Player) then
+    Player.Dead;
+  Player := TPlayer1.Create(Engine);
+  with Player do
+  begin
+    Image := Pictures.Find('Bomberman');
+    X := XPos;
+    Y := YPos;
+    ImagePosX := 0;
+    ImagePosY := -4;
+    Z := 3;
+    Width := 16;
+    Height := 16;
+    AnimStart := Index;
+    AnimCount := 10;
+    AnimLooped := True;
+    AnimSpeed := 10 / 1000;
+    AnimPos := 0;
+  end;
+end;
+
+procedure TGraphics1.DoInitialize;
+var
+  I, J: Integer;
+begin
+  Canvas.Brush.Color := clGray;
+
+  Window1.Engine := TSpriteEngine.Create(nil);
+  Window1.Engine.SurfaceRect := Bounds(Window1.PnlMap.Left, Window1.PnlMap.Top,
+    Window1.PnlMap.Width, Window1.PnlMap.Height);
+
+  Window1.EngineSprite := TSpriteEngine.Create(nil);
+  Window1.EngineSprite.SurfaceRect := Bounds(0, 0, Window1.Width, Window1.Height);
+
+  Window1.EngineBg := TSpriteEngine.Create(nil);
+  Window1.EngineBg.SurfaceRect := Bounds(0, 0, Window1.Width, Window1.Height);
+
+  Window1.Pictures := TPictures.Create(TPicture);
+  with Window1.Pictures.Add do
+  begin
+    Name := 'Background';
+    PatternWidth := 256;
+    PatternHeight := 224;
+    SkipWidth := 0;
+    SkipHeight := 0;
+    TransparentColor := 0;
+    FileName := PATH_IMG + 'Background.bmp';
+  end;
+
+  with Window1.Pictures.Add do
+  begin
+    Name := 'Cursor';
+    PatternWidth := 8;
+    PatternHeight := 8;
+    SkipWidth := 0;
+    SkipHeight := 0;
+    TransparentColor := clFuchsia;
+    FileName := PATH_IMG + 'Cursor.bmp';
+  end;
+
+  with Window1.Pictures.Add do
+  begin
+    Name := 'Tile';
+    PatternWidth := TILE_SIZE;
+    PatternHeight := TILE_SIZE;
+    SkipWidth := 0;
+    SkipHeight := 0;
+    TransparentColor := 0;
+    FileName := PATH_IMG + 'Tile.bmp';
+  end;
+
+  with Window1.Pictures.Add do
+  begin
+    Name := 'Sprite';
+    PatternWidth := TILE_SIZE;
+    PatternHeight := 24;
+    SkipWidth := 0;
+    SkipHeight := 0;
+    TransparentColor := clFuchsia;
+    FileName := PATH_IMG + 'Sprite.bmp';
+  end;
+
+  with Window1.Pictures.Add do
+  begin
+    Name := 'Bomberman';
+    PatternWidth := 17;
+    PatternHeight := 24;
+    SkipWidth := 0;
+    SkipHeight := 0;
+    TransparentColor := clBlack;
+    FileName := PATH_IMG + 'Bomberman.bmp';
+  end;
+
+  with Window1.Pictures.Add do
+  begin
+    Name := 'Bg';
+    PatternWidth := 256;
+    PatternHeight := 224;
+    SkipWidth := 0;
+    SkipHeight := 0;
+    TransparentColor := 0;
+    FileName := PATH_IMG + 'Bg.bmp';
+  end;
+
+  Background := TBackground.Create(Window1.Engine);
+  with Background do
+  begin
+    Image := Window1.Pictures.Find('Tile');
+    SetMapSize(TILE_WIDTH, TILE_HEIGHT);
+    X := Window1.PnlMap.Left;
+    Y := Window1.PnlMap.Top;
+    Z := -1;
+    Width := Image.Width;
+    Height := Image.Height;
+    Tile := False;
+    Collisioned := True;
+    for I := 0 to MapWidth - 1 do
+      for J := 0 to MapHeight - 1 do
+      begin
+        Chips[I, J] := 0;
+        ChipsExtra[I, J] := -1;
+        CollisionMap[I, J] := False;
+      end;
+  end;
+
+  with TImageSprite.Create(Window1.EngineBg) do
+  begin
+    Image := Window1.Pictures.Find('Bg');
+    X := Window1.PnlMap.Width + 48;
+    Y := 0;
+    Z := -1;
+    Width := Image.Width;
+    Height := Image.Height;
+    AnimStart := 0;
+    AnimCount := 2;
+    AnimLooped := True;
+    AnimSpeed := 2 / 1000;
+    AnimPos := 0;
+  end;
+
+  for I := 0 to 2 do
+    for J := 0 to 1 do
+      with TImageSprite.Create(Window1.EngineSprite) do
+      begin
+        case I of
+          0:
+            begin
+              Image := Window1.Pictures.Find('Tile');
+              X := Window1.PnlTile.Left + (I * Image.Width);
+              Y := Window1.PnlTile.Top + (J * Image.Height);
+              Z := 3;
+              Width := Image.Width;
+              Height := Image.Height;
+              AnimStart := 0 + (J * 11);
+            end;
+
+          1:
+            begin
+              Image := Window1.Pictures.Find('Tile');
+              X := Window1.PnlTile.Left + (I * Image.Width);
+              Y := Window1.PnlTile.Top + (J * Image.Height);
+              Z := 3;
+              Width := Image.Width;
+              Height := Image.Height;
+              AnimStart := 1 + (J * 11);
+            end;
+
+          2:
+            begin
+              Image := Window1.Pictures.Find('Tile');
+              X := Window1.PnlTile.Left + (I * Image.Width);
+              Y := Window1.PnlTile.Top + (J * Image.Height);
+              Z := 3;
+              Width := Image.Width;
+              Height := Image.Height;
+              AnimStart := 2 + (J * 11);
+              AnimCount := 4;
+              AnimLooped := True;
+              AnimSpeed := 15 / 1000;
+              AnimPos := 2;
+            end;
+        end;
+      end;
+
+  for I := 0 to 1 do
+    with TImageSprite.Create(Window1.EngineSprite) do
+    begin
+      case I of
+        0:
+          begin
+            Image := Window1.Pictures.Find('Sprite');
+            X := Window1.PnlSprite.Left + (I * Image.Width);
+            Y := Window1.PnlSprite.Top;
+            Z := 3;
+            Width := Image.Width;
+            Height := Image.Height;
+            AnimStart := (I * 18);
+            AnimCount := 16;
+            AnimLooped := True;
+            AnimSpeed := 10 / 1000;
+            AnimPos := 0;
+          end;
+
+        1:
+          begin
+            Image := Window1.Pictures.Find('Sprite');
+            X := Window1.PnlSprite.Left + (I * Image.Width);
+            Y := Window1.PnlSprite.Top;
+            Z := 3;
+            Width := Image.Width;
+            Height := Image.Height;
+            AnimStart := (I * 18);
+            AnimCount := 18;
+            AnimLooped := True;
+            AnimSpeed := 5 / 1000;
+            AnimPos := 0;
+          end;
+      end;
+    end;
+
+  with TImageSprite.Create(Window1.EngineSprite) do
+  begin
+    Image := Window1.Pictures.Find('Bomberman');
+    X := Window1.PnlActor.Left;
+    Y := Window1.PnlActor.Top;
+    Z := 3;
+    Width := 16;
+    Height := Image.Height;
+    AnimStart := 0;
+    AnimCount := 40;
+    AnimLooped := True;
+    AnimSpeed := 10 / 1000;
+    AnimPos := 0;
+  end;
+end;
+
+end.
+

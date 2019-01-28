@@ -1,0 +1,164 @@
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+14/09/04 18:08:57: Objeto da classe TApplication criado.
+14/09/04 18:08:57: Objeto da classe TWindow criado.
+14/09/04 18:08:57: Chamando função: TWindow.Run
+14/09/04 18:08:57: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+14/09/04 18:08:57: Objeto da classe TGraphics criado.
+14/09/04 18:08:57: Chamando função: TGraphics.Run
+14/09/04 18:08:57: Ocorreu um erro dentro de: Objeto IDirect3D8 já existente.
+14/09/04 18:08:57: Chamando função: TApplication.Run
+14/09/04 18:08:57: [Aplicação] :: Arquivo: EDITOR.EXE
+14/09/04 18:08:57: Ocorreu um erro dentro de: Access violation at address 0041FFB8 in module 'EDITOR.EXE'. Read of address FFFFFFFF
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+14/09/04 18:50:18: Objeto da classe TApplication criado.
+14/09/04 18:50:18: Objeto da classe TWindow criado.
+14/09/04 18:50:18: Chamando função: TWindow.Run
+14/09/04 18:50:18: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+14/09/04 18:50:18: Objeto da classe TGraphics criado.
+14/09/04 18:50:18: Chamando função: TGraphics.Run
+14/09/04 18:50:18: Objeto da classe IDirect3D8 criado.
+14/09/04 18:51:39: Objeto da classe IDirect3DDevice8 criado.
+14/09/04 18:51:39: Arquivo encontrado: Media\Img\Background.bmp
+14/09/04 18:51:39: Arquivo encontrado: Media\Img\Cursor.bmp
+14/09/04 18:51:39: Arquivo encontrado: Media\Img\Tile.bmp
+14/09/04 18:51:39: Arquivo encontrado: Media\Img\Sprite.bmp
+14/09/04 18:51:39: Arquivo encontrado: Media\Img\Bomberman.bmp
+14/09/04 18:51:39: Arquivo encontrado: Media\Img\Bg.bmp
+14/09/04 18:51:39: Arquivo encontrado: Colors.bmp
+14/09/04 18:51:39: Chamando função: TApplication.Run
+14/09/04 18:51:39: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+05/12/04 13:04:55: Objeto da classe TApplication criado.
+05/12/04 13:04:55: Objeto da classe TWindow criado.
+05/12/04 13:04:55: Chamando função: TWindow.Run
+05/12/04 13:04:55: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+05/12/04 13:04:55: Objeto da classe TGraphics criado.
+05/12/04 13:04:55: Chamando função: TGraphics.Run
+05/12/04 13:04:58: Objeto da classe IDirect3D8 criado.
+05/12/04 13:09:15: Objeto da classe IDirect3DDevice8 criado.
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Background.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Cursor.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Tile.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Sprite.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bomberman.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bg.bmp
+05/12/04 13:09:15: Arquivo encontrado: Colors.bmp
+05/12/04 13:09:15: Chamando função: TApplication.Run
+05/12/04 13:09:15: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+05/12/04 13:05:21: Objeto da classe TApplication criado.
+05/12/04 13:05:21: Objeto da classe TWindow criado.
+05/12/04 13:05:21: Chamando função: TWindow.Run
+05/12/04 13:05:21: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+05/12/04 13:05:21: Objeto da classe TGraphics criado.
+05/12/04 13:05:21: Chamando função: TGraphics.Run
+05/12/04 13:05:22: Objeto da classe IDirect3D8 criado.
+05/12/04 13:09:15: Objeto da classe IDirect3DDevice8 criado.
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Background.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Cursor.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Tile.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Sprite.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bomberman.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bg.bmp
+05/12/04 13:09:15: Arquivo encontrado: Colors.bmp
+05/12/04 13:09:15: Chamando função: TApplication.Run
+05/12/04 13:09:15: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+05/12/04 13:05:56: Objeto da classe TApplication criado.
+05/12/04 13:05:56: Objeto da classe TWindow criado.
+05/12/04 13:05:56: Chamando função: TWindow.Run
+05/12/04 13:05:56: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+05/12/04 13:05:56: Objeto da classe TGraphics criado.
+05/12/04 13:05:56: Chamando função: TGraphics.Run
+05/12/04 13:05:56: Objeto da classe IDirect3D8 criado.
+05/12/04 13:09:15: Objeto da classe IDirect3DDevice8 criado.
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Background.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Cursor.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Tile.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Sprite.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bomberman.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bg.bmp
+05/12/04 13:09:15: Arquivo encontrado: Colors.bmp
+05/12/04 13:09:15: Chamando função: TApplication.Run
+05/12/04 13:09:15: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+05/12/04 13:06:31: Objeto da classe TApplication criado.
+05/12/04 13:06:31: Objeto da classe TWindow criado.
+05/12/04 13:06:31: Chamando função: TWindow.Run
+05/12/04 13:06:31: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+05/12/04 13:06:31: Objeto da classe TGraphics criado.
+05/12/04 13:06:31: Chamando função: TGraphics.Run
+05/12/04 13:06:31: Objeto da classe IDirect3D8 criado.
+05/12/04 13:09:15: Objeto da classe IDirect3DDevice8 criado.
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Background.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Cursor.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Tile.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Sprite.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bomberman.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bg.bmp
+05/12/04 13:09:15: Arquivo encontrado: Colors.bmp
+05/12/04 13:09:15: Chamando função: TApplication.Run
+05/12/04 13:09:15: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+05/12/04 13:07:10: Objeto da classe TApplication criado.
+05/12/04 13:07:10: Objeto da classe TWindow criado.
+05/12/04 13:07:10: Chamando função: TWindow.Run
+05/12/04 13:07:10: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+05/12/04 13:07:10: Objeto da classe TGraphics criado.
+05/12/04 13:07:10: Chamando função: TGraphics.Run
+05/12/04 13:07:10: Objeto da classe IDirect3D8 criado.
+05/12/04 13:09:15: Objeto da classe IDirect3DDevice8 criado.
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Background.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Cursor.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Tile.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Sprite.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bomberman.bmp
+05/12/04 13:09:15: Arquivo encontrado: Media\Img\Bg.bmp
+05/12/04 13:09:15: Arquivo encontrado: Colors.bmp
+05/12/04 13:09:15: Chamando função: TApplication.Run
+05/12/04 13:09:15: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+12/12/04 20:46:35: Objeto da classe TApplication criado.
+12/12/04 20:46:35: Objeto da classe TWindow criado.
+12/12/04 20:46:35: Chamando função: TWindow.Run
+12/12/04 20:46:35: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+12/12/04 20:46:35: Objeto da classe TGraphics criado.
+12/12/04 20:46:35: Chamando função: TGraphics.Run
+12/12/04 20:46:36: Objeto da classe IDirect3D8 criado.
+12/12/04 20:47:27: Objeto da classe IDirect3DDevice8 criado.
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Background.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Cursor.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Tile.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Sprite.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Bomberman.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Bg.bmp
+12/12/04 20:47:27: Arquivo encontrado: Colors.bmp
+12/12/04 20:47:27: Chamando função: TApplication.Run
+12/12/04 20:47:27: [Aplicação] :: Arquivo: EDITOR.EXE
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+12/12/04 20:47:40: Objeto da classe TApplication criado.
+12/12/04 20:47:40: Objeto da classe TWindow criado.
+12/12/04 20:47:40: Chamando função: TWindow.Run
+12/12/04 20:47:40: [Janela] :: Posição: 384x400. Resolução: 512x224. Título: Window
+12/12/04 20:47:40: Objeto da classe TGraphics criado.
+12/12/04 20:47:40: Chamando função: TGraphics.Run
+12/12/04 20:47:40: Objeto da classe IDirect3D8 criado.
+12/12/04 20:47:27: Objeto da classe IDirect3DDevice8 criado.
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Background.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Cursor.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Tile.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Sprite.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Bomberman.bmp
+12/12/04 20:47:27: Arquivo encontrado: Media\Img\Bg.bmp
+12/12/04 20:47:27: Arquivo encontrado: Colors.bmp
+12/12/04 20:47:27: Chamando função: TApplication.Run
+12/12/04 20:47:27: [Aplicação] :: Arquivo: EDITOR.EXE

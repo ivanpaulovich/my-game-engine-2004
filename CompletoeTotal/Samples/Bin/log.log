@@ -1,0 +1,769 @@
+2/4/2004 10:48:18: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:48:18: Chamando: [TApplication.Create]
+2/4/2004 10:48:18: TApplication criado com sucesso.
+2/4/2004 10:48:18: Chamando: [TSoundList.Create]
+2/4/2004 10:48:18: TSoundList criado com sucesso.
+2/4/2004 10:48:20: Chamando: [TWindow.Create]
+2/4/2004 10:48:20: Resolução da janela: 640x480.
+2/4/2004 10:48:20: Chamando: [TWindow.Run]
+2/4/2004 10:48:20: Classe TWindow registrada com sucesso.
+2/4/2004 10:48:20: TWindow instanciado com sucesso.
+2/4/2004 10:48:20: Chamando: [TGraphics.Create]
+2/4/2004 10:48:20: TGraphics criado com sucesso.
+2/4/2004 10:48:20: Chamando: [TWindow.Create]
+2/4/2004 10:48:20: Direct3D8 criado com sucesso.
+2/4/2004 10:48:20: Adaptador de modo de display encontrado.
+2/4/2004 10:48:06: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:48:06: Chamando: [TWindow.Create]
+2/4/2004 10:48:38: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:48:38: Chamando: [TApplication.Create]
+2/4/2004 10:48:38: TApplication criado com sucesso.
+2/4/2004 10:48:38: Chamando: [TSoundList.Create]
+2/4/2004 10:48:38: TSoundList criado com sucesso.
+2/4/2004 10:48:39: Chamando: [TWindow.Create]
+2/4/2004 10:48:39: Resolução da janela: 640x480.
+2/4/2004 10:48:39: Chamando: [TWindow.Run]
+2/4/2004 10:48:39: Classe TWindow registrada com sucesso.
+2/4/2004 10:48:39: TWindow instanciado com sucesso.
+2/4/2004 10:48:39: Chamando: [TGraphics.Create]
+2/4/2004 10:48:39: TGraphics criado com sucesso.
+2/4/2004 10:48:39: Chamando: [TWindow.Create]
+2/4/2004 10:48:40: Direct3D8 criado com sucesso.
+2/4/2004 10:48:40: Adaptador de modo de display encontrado.
+2/4/2004 10:48:06: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:48:06: Chamando: [TWindow.Create]
+2/4/2004 10:50:19: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:50:19: Chamando: [TApplication.Create]
+2/4/2004 10:50:19: TApplication criado com sucesso.
+2/4/2004 10:50:19: Chamando: [TSoundList.Create]
+2/4/2004 10:50:19: TSoundList criado com sucesso.
+2/4/2004 10:50:20: Chamando: [TWindow.Create]
+2/4/2004 10:50:20: Resolução da janela: 640x480.
+2/4/2004 10:50:20: Chamando: [TWindow.Run]
+2/4/2004 10:50:20: Classe TWindow registrada com sucesso.
+2/4/2004 10:50:20: TWindow instanciado com sucesso.
+2/4/2004 10:50:20: Chamando: [TGraphics.Create]
+2/4/2004 10:50:20: TGraphics criado com sucesso.
+2/4/2004 10:50:20: Chamando: [TWindow.Create]
+2/4/2004 10:50:21: Direct3D8 criado com sucesso.
+2/4/2004 10:50:21: Adaptador de modo de display encontrado.
+2/4/2004 10:52:28: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:52:28: Chamando: [TWindow.Create]
+2/4/2004 10:50:21: Ocorreu o seguinte erro: Access violation at address 003063ED in module 'd3d8.dll'. Read of address 000001FE
+2/4/2004 10:52:54: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:52:54: Chamando: [TApplication.Create]
+2/4/2004 10:52:54: TApplication criado com sucesso.
+2/4/2004 10:52:54: Chamando: [TSoundList.Create]
+2/4/2004 10:52:54: TSoundList criado com sucesso.
+2/4/2004 10:52:55: Chamando: [TWindow.Create]
+2/4/2004 10:52:55: Resolução da janela: 640x480.
+2/4/2004 10:52:55: Chamando: [TWindow.Run]
+2/4/2004 10:52:55: Classe TWindow registrada com sucesso.
+2/4/2004 10:52:55: TWindow instanciado com sucesso.
+2/4/2004 10:52:55: Chamando: [TGraphics.Create]
+2/4/2004 10:52:55: TGraphics criado com sucesso.
+2/4/2004 10:52:55: Chamando: [TWindow.Create]
+2/4/2004 10:52:55: Direct3D8 criado com sucesso.
+2/4/2004 10:52:55: Adaptador de modo de display encontrado.
+2/4/2004 10:52:28: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:52:28: Chamando: [TWindow.Create]
+2/4/2004 10:53:42: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:53:42: Chamando: [TApplication.Create]
+2/4/2004 10:53:42: TApplication criado com sucesso.
+2/4/2004 10:53:42: Chamando: [TSoundList.Create]
+2/4/2004 10:53:42: TSoundList criado com sucesso.
+2/4/2004 10:53:43: Chamando: [TWindow.Create]
+2/4/2004 10:53:43: Resolução da janela: 640x480.
+2/4/2004 10:53:43: Chamando: [TWindow.Run]
+2/4/2004 10:53:43: Classe TWindow registrada com sucesso.
+2/4/2004 10:53:43: TWindow instanciado com sucesso.
+2/4/2004 10:53:43: Chamando: [TGraphics.Create]
+2/4/2004 10:53:43: TGraphics criado com sucesso.
+2/4/2004 10:53:43: Chamando: [TWindow.Create]
+2/4/2004 10:53:43: Direct3D8 criado com sucesso.
+2/4/2004 10:53:43: Adaptador de modo de display encontrado.
+2/4/2004 10:52:28: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:52:28: Chamando: [TWindow.Create]
+2/4/2004 10:54:33: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:54:34: Chamando: [TApplication.Create]
+2/4/2004 10:54:34: TApplication criado com sucesso.
+2/4/2004 10:54:34: Chamando: [TSoundList.Create]
+2/4/2004 10:54:34: TSoundList criado com sucesso.
+2/4/2004 10:54:35: Chamando: [TWindow.Create]
+2/4/2004 10:54:35: Resolução da janela: 640x480.
+2/4/2004 10:54:35: Chamando: [TWindow.Run]
+2/4/2004 10:54:35: Classe TWindow registrada com sucesso.
+2/4/2004 10:54:35: TWindow instanciado com sucesso.
+2/4/2004 10:54:35: Chamando: [TGraphics.Create]
+2/4/2004 10:54:35: TGraphics criado com sucesso.
+2/4/2004 10:54:35: Chamando: [TWindow.Create]
+2/4/2004 10:54:35: Direct3D8 criado com sucesso.
+2/4/2004 10:54:35: Adaptador de modo de display encontrado.
+2/4/2004 10:52:28: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:52:28: Chamando: [TWindow.Create]
+2/4/2004 10:55:29: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:55:29: Chamando: [TApplication.Create]
+2/4/2004 10:55:29: TApplication criado com sucesso.
+2/4/2004 10:55:29: Chamando: [TSoundList.Create]
+2/4/2004 10:55:29: TSoundList criado com sucesso.
+2/4/2004 10:55:30: Chamando: [TWindow.Create]
+2/4/2004 10:55:30: Resolução da janela: 640x480.
+2/4/2004 10:55:30: Chamando: [TWindow.Run]
+2/4/2004 10:55:30: Classe TWindow registrada com sucesso.
+2/4/2004 10:55:30: TWindow instanciado com sucesso.
+2/4/2004 10:55:30: Chamando: [TGraphics.Create]
+2/4/2004 10:55:30: TGraphics criado com sucesso.
+2/4/2004 10:55:30: Chamando: [TWindow.Create]
+2/4/2004 10:55:30: Direct3D8 criado com sucesso.
+2/4/2004 10:55:30: Adaptador de modo de display encontrado.
+2/4/2004 10:56:50: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:56:50: Chamando: [TWindow.Create]
+2/4/2004 10:56:45: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 10:56:45: Chamando: [TApplication.Create]
+2/4/2004 10:56:45: TApplication criado com sucesso.
+2/4/2004 10:56:45: Chamando: [TSoundList.Create]
+2/4/2004 10:56:45: TSoundList criado com sucesso.
+2/4/2004 10:56:46: Chamando: [TWindow.Create]
+2/4/2004 10:56:46: Resolução da janela: 640x480.
+2/4/2004 10:56:46: Chamando: [TWindow.Run]
+2/4/2004 10:56:46: Classe TWindow registrada com sucesso.
+2/4/2004 10:56:46: TWindow instanciado com sucesso.
+2/4/2004 10:56:46: Chamando: [TGraphics.Create]
+2/4/2004 10:56:46: TGraphics criado com sucesso.
+2/4/2004 10:56:46: Chamando: [TWindow.Create]
+2/4/2004 10:56:46: Direct3D8 criado com sucesso.
+2/4/2004 10:56:46: Adaptador de modo de display encontrado.
+2/4/2004 10:56:50: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 10:56:50: Chamando: [TWindow.Create]
+2/4/2004 11:02:12: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 11:02:12: Chamando: [TApplication.Create]
+2/4/2004 11:02:12: TApplication criado com sucesso.
+2/4/2004 11:02:12: Chamando: [TSoundList.Create]
+2/4/2004 11:02:12: TSoundList criado com sucesso.
+2/4/2004 11:02:13: Chamando: [TWindow.Create]
+2/4/2004 11:02:13: Resolução da janela: 640x480.
+2/4/2004 11:02:13: Chamando: [TWindow.Run]
+2/4/2004 11:02:13: Classe TWindow registrada com sucesso.
+2/4/2004 11:02:13: TWindow instanciado com sucesso.
+2/4/2004 11:02:13: Chamando: [TGraphics.Create]
+2/4/2004 11:02:13: TGraphics criado com sucesso.
+2/4/2004 11:02:13: Chamando: [TWindow.Create]
+2/4/2004 11:02:13: Direct3D8 criado com sucesso.
+2/4/2004 11:02:13: Adaptador de modo de display encontrado.
+2/4/2004 11:05:34: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 11:05:34: Chamando: [TWindow.Create]
+2/4/2004 11:02:23: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+2/4/2004 11:02:23: Chamando: [TApplication.Create]
+2/4/2004 11:02:23: TApplication criado com sucesso.
+2/4/2004 11:02:23: Chamando: [TSoundList.Create]
+2/4/2004 11:02:23: TSoundList criado com sucesso.
+2/4/2004 11:02:24: Chamando: [TWindow.Create]
+2/4/2004 11:02:24: Resolução da janela: 640x480.
+2/4/2004 11:02:24: Chamando: [TWindow.Run]
+2/4/2004 11:02:24: Classe TWindow registrada com sucesso.
+2/4/2004 11:02:24: TWindow instanciado com sucesso.
+2/4/2004 11:02:24: Chamando: [TGraphics.Create]
+2/4/2004 11:02:24: TGraphics criado com sucesso.
+2/4/2004 11:02:24: Chamando: [TWindow.Create]
+2/4/2004 11:02:25: Direct3D8 criado com sucesso.
+2/4/2004 11:02:25: Adaptador de modo de display encontrado.
+2/4/2004 11:05:34: Arquivo encontrado: "Media\Plane.bmp"
+2/4/2004 11:05:34: Chamando: [TWindow.Create]
+2/4/2004 11:02:25: Ocorreu o seguinte erro: Access violation at address 003063ED in module 'd3d8.dll'. Read of address 00000000
+2/4/2004 11:03:33: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:03:33: Chamando: [TApplication.Create]
+2/4/2004 11:03:33: TApplication criado com sucesso.
+2/4/2004 11:03:33: Chamando: [TSoundList.Create]
+2/4/2004 11:03:33: TSoundList criado com sucesso.
+2/4/2004 11:03:34: Chamando: [TWindow.Create]
+2/4/2004 11:03:34: Resolução da janela: 640x480.
+2/4/2004 11:03:34: Chamando: [TWindow.Run]
+2/4/2004 11:03:34: Classe TWindow registrada com sucesso.
+2/4/2004 11:03:34: TWindow instanciado com sucesso.
+2/4/2004 11:03:34: Chamando: [TGraphics.Create]
+2/4/2004 11:03:34: TGraphics criado com sucesso.
+2/4/2004 11:03:34: Chamando: [TWindow.Create]
+2/4/2004 11:03:34: Direct3D8 criado com sucesso.
+2/4/2004 11:03:34: Adaptador de modo de display encontrado.
+2/4/2004 11:05:34: Arquivo encontrado: "Media\3.bmp"
+2/4/2004 11:05:34: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:05:34: Chamando: [TWindow.Create]
+2/4/2004 11:07:00: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:07:00: Chamando: [TApplication.Create]
+2/4/2004 11:07:00: TApplication criado com sucesso.
+2/4/2004 11:07:00: Chamando: [TSoundList.Create]
+2/4/2004 11:07:00: TSoundList criado com sucesso.
+2/4/2004 11:07:01: Chamando: [TWindow.Create]
+2/4/2004 11:07:01: Resolução da janela: 640x480.
+2/4/2004 11:07:01: Chamando: [TWindow.Run]
+2/4/2004 11:07:01: Classe TWindow registrada com sucesso.
+2/4/2004 11:07:01: TWindow instanciado com sucesso.
+2/4/2004 11:07:01: Chamando: [TGraphics.Create]
+2/4/2004 11:07:01: TGraphics criado com sucesso.
+2/4/2004 11:07:01: Chamando: [TWindow.Create]
+2/4/2004 11:07:01: Direct3D8 criado com sucesso.
+2/4/2004 11:07:01: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:07:32: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:07:32: Chamando: [TApplication.Create]
+2/4/2004 11:07:32: TApplication criado com sucesso.
+2/4/2004 11:07:32: Chamando: [TSoundList.Create]
+2/4/2004 11:07:32: TSoundList criado com sucesso.
+2/4/2004 11:07:34: Chamando: [TWindow.Create]
+2/4/2004 11:07:34: Resolução da janela: 640x480.
+2/4/2004 11:07:34: Chamando: [TWindow.Run]
+2/4/2004 11:07:34: Classe TWindow registrada com sucesso.
+2/4/2004 11:07:34: TWindow instanciado com sucesso.
+2/4/2004 11:07:34: Chamando: [TGraphics.Create]
+2/4/2004 11:07:34: TGraphics criado com sucesso.
+2/4/2004 11:07:34: Chamando: [TWindow.Create]
+2/4/2004 11:07:34: Direct3D8 criado com sucesso.
+2/4/2004 11:07:34: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:08:01: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:08:01: Chamando: [TApplication.Create]
+2/4/2004 11:08:01: TApplication criado com sucesso.
+2/4/2004 11:08:01: Chamando: [TSoundList.Create]
+2/4/2004 11:08:01: TSoundList criado com sucesso.
+2/4/2004 11:08:03: Chamando: [TWindow.Create]
+2/4/2004 11:08:03: Resolução da janela: 640x480.
+2/4/2004 11:08:03: Chamando: [TWindow.Run]
+2/4/2004 11:08:03: Classe TWindow registrada com sucesso.
+2/4/2004 11:08:03: TWindow instanciado com sucesso.
+2/4/2004 11:08:03: Chamando: [TGraphics.Create]
+2/4/2004 11:08:03: TGraphics criado com sucesso.
+2/4/2004 11:08:03: Chamando: [TWindow.Create]
+2/4/2004 11:08:03: Direct3D8 criado com sucesso.
+2/4/2004 11:08:03: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:08:36: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:08:36: Chamando: [TApplication.Create]
+2/4/2004 11:08:36: TApplication criado com sucesso.
+2/4/2004 11:08:36: Chamando: [TSoundList.Create]
+2/4/2004 11:08:36: TSoundList criado com sucesso.
+2/4/2004 11:08:37: Chamando: [TWindow.Create]
+2/4/2004 11:08:37: Resolução da janela: 640x480.
+2/4/2004 11:08:37: Chamando: [TWindow.Run]
+2/4/2004 11:08:37: Classe TWindow registrada com sucesso.
+2/4/2004 11:08:37: TWindow instanciado com sucesso.
+2/4/2004 11:08:37: Chamando: [TGraphics.Create]
+2/4/2004 11:08:37: TGraphics criado com sucesso.
+2/4/2004 11:08:37: Chamando: [TWindow.Create]
+2/4/2004 11:08:37: Direct3D8 criado com sucesso.
+2/4/2004 11:08:37: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:09:19: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:09:19: Chamando: [TApplication.Create]
+2/4/2004 11:09:19: TApplication criado com sucesso.
+2/4/2004 11:09:19: Chamando: [TSoundList.Create]
+2/4/2004 11:09:19: TSoundList criado com sucesso.
+2/4/2004 11:09:20: Chamando: [TWindow.Create]
+2/4/2004 11:09:20: Resolução da janela: 640x480.
+2/4/2004 11:09:21: Chamando: [TWindow.Run]
+2/4/2004 11:09:21: Classe TWindow registrada com sucesso.
+2/4/2004 11:09:21: TWindow instanciado com sucesso.
+2/4/2004 11:09:21: Chamando: [TGraphics.Create]
+2/4/2004 11:09:21: TGraphics criado com sucesso.
+2/4/2004 11:09:21: Chamando: [TWindow.Create]
+2/4/2004 11:09:21: Direct3D8 criado com sucesso.
+2/4/2004 11:09:21: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:09:54: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteShoot.exe" ---
+2/4/2004 11:09:54: Chamando: [TApplication.Create]
+2/4/2004 11:09:54: TApplication criado com sucesso.
+2/4/2004 11:09:54: Chamando: [TSoundList.Create]
+2/4/2004 11:09:54: TSoundList criado com sucesso.
+2/4/2004 11:09:55: Chamando: [TWindow.Create]
+2/4/2004 11:09:55: Resolução da janela: 640x480.
+2/4/2004 11:09:55: Chamando: [TWindow.Run]
+2/4/2004 11:09:55: Classe TWindow registrada com sucesso.
+2/4/2004 11:09:55: TWindow instanciado com sucesso.
+2/4/2004 11:09:55: Chamando: [TGraphics.Create]
+2/4/2004 11:09:55: TGraphics criado com sucesso.
+2/4/2004 11:09:55: Chamando: [TWindow.Create]
+2/4/2004 11:09:55: Direct3D8 criado com sucesso.
+2/4/2004 11:09:55: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Deserto.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\F22.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bala.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Explosão.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Explosão2.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Helicoptero.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Metranca.wav"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Boom.wav"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:10:16: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteBasic.exe" ---
+2/4/2004 11:10:16: Chamando: [TApplication.Create]
+2/4/2004 11:10:16: TApplication criado com sucesso.
+2/4/2004 11:10:16: Chamando: [TSoundList.Create]
+2/4/2004 11:10:16: TSoundList criado com sucesso.
+2/4/2004 11:10:17: Chamando: [TWindow.Create]
+2/4/2004 11:10:17: Resolução da janela: 640x480.
+2/4/2004 11:10:17: Chamando: [TWindow.Run]
+2/4/2004 11:10:17: Classe TWindow registrada com sucesso.
+2/4/2004 11:10:17: TWindow instanciado com sucesso.
+2/4/2004 11:10:17: Chamando: [TGraphics.Create]
+2/4/2004 11:10:17: TGraphics criado com sucesso.
+2/4/2004 11:10:17: Chamando: [TWindow.Create]
+2/4/2004 11:10:17: Direct3D8 criado com sucesso.
+2/4/2004 11:10:17: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:10:46: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteBasic.exe" ---
+2/4/2004 11:10:46: Chamando: [TApplication.Create]
+2/4/2004 11:10:46: TApplication criado com sucesso.
+2/4/2004 11:10:46: Chamando: [TSoundList.Create]
+2/4/2004 11:10:46: TSoundList criado com sucesso.
+2/4/2004 11:10:47: Chamando: [TWindow.Create]
+2/4/2004 11:10:47: Resolução da janela: 640x480.
+2/4/2004 11:10:47: Chamando: [TWindow.Run]
+2/4/2004 11:10:47: Classe TWindow registrada com sucesso.
+2/4/2004 11:10:47: TWindow instanciado com sucesso.
+2/4/2004 11:10:47: Chamando: [TGraphics.Create]
+2/4/2004 11:10:47: TGraphics criado com sucesso.
+2/4/2004 11:10:47: Chamando: [TWindow.Create]
+2/4/2004 11:10:47: Direct3D8 criado com sucesso.
+2/4/2004 11:10:47: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:10:50: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:10:50: Chamando: [TApplication.Create]
+2/4/2004 11:10:50: TApplication criado com sucesso.
+2/4/2004 11:10:50: Chamando: [TSoundList.Create]
+2/4/2004 11:10:50: TSoundList criado com sucesso.
+2/4/2004 11:10:51: Chamando: [TWindow.Create]
+2/4/2004 11:10:51: Resolução da janela: 640x480.
+2/4/2004 11:10:51: Chamando: [TWindow.Run]
+2/4/2004 11:10:51: Classe TWindow registrada com sucesso.
+2/4/2004 11:10:51: TWindow instanciado com sucesso.
+2/4/2004 11:10:51: Chamando: [TGraphics.Create]
+2/4/2004 11:10:51: TGraphics criado com sucesso.
+2/4/2004 11:10:51: Chamando: [TWindow.Create]
+2/4/2004 11:10:51: Direct3D8 criado com sucesso.
+2/4/2004 11:10:51: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:11:39: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:11:39: Chamando: [TApplication.Create]
+2/4/2004 11:11:39: TApplication criado com sucesso.
+2/4/2004 11:11:39: Chamando: [TSoundList.Create]
+2/4/2004 11:11:39: TSoundList criado com sucesso.
+2/4/2004 11:11:40: Chamando: [TWindow.Create]
+2/4/2004 11:11:40: Resolução da janela: 640x480.
+2/4/2004 11:11:40: Chamando: [TWindow.Run]
+2/4/2004 11:11:40: Classe TWindow registrada com sucesso.
+2/4/2004 11:11:40: TWindow instanciado com sucesso.
+2/4/2004 11:11:40: Chamando: [TGraphics.Create]
+2/4/2004 11:11:40: TGraphics criado com sucesso.
+2/4/2004 11:11:40: Chamando: [TWindow.Create]
+2/4/2004 11:11:40: Direct3D8 criado com sucesso.
+2/4/2004 11:11:40: Adaptador de modo de display encontrado.
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:09:57: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:09:57: Chamando: [TWindow.Create]
+2/4/2004 11:14:48: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Window.exe" ---
+2/4/2004 11:14:48: Chamando: [TApplication.Create]
+2/4/2004 11:14:48: TApplication criado com sucesso.
+2/4/2004 11:14:48: Chamando: [TSoundList.Create]
+2/4/2004 11:14:48: TSoundList criado com sucesso.
+2/4/2004 11:14:49: Chamando: [TWindow.Create]
+2/4/2004 11:14:49: Resolução da janela: 640x480.
+2/4/2004 11:14:49: Chamando: [TWindow.Run]
+2/4/2004 11:14:49: Classe TWindow registrada com sucesso.
+2/4/2004 11:14:49: TWindow instanciado com sucesso.
+2/4/2004 11:14:49: Chamando: [TGraphics.Create]
+2/4/2004 11:14:49: TGraphics criado com sucesso.
+2/4/2004 11:14:49: Chamando: [TWindow.Create]
+2/4/2004 11:14:49: Direct3D8 criado com sucesso.
+2/4/2004 11:14:49: Adaptador de modo de display encontrado.
+2/4/2004 11:14:19: Chamando: [TWindow.Create]
+2/4/2004 11:43:32: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+2/4/2004 11:43:32: Chamando: [TApplication.Create]
+2/4/2004 11:43:32: TApplication criado com sucesso.
+2/4/2004 11:43:32: Chamando: [TSoundList.Create]
+2/4/2004 11:43:32: TSoundList criado com sucesso.
+2/4/2004 11:43:34: Chamando: [TWindow.Create]
+2/4/2004 11:43:34: Resolução da janela: 640x480.
+2/4/2004 11:43:34: Chamando: [TWindow.Run]
+2/4/2004 11:43:34: Classe TWindow registrada com sucesso.
+2/4/2004 11:43:34: TWindow instanciado com sucesso.
+2/4/2004 11:43:34: Chamando: [TGraphics.Create]
+2/4/2004 11:43:34: TGraphics criado com sucesso.
+2/4/2004 11:43:34: Chamando: [TWindow.Create]
+2/4/2004 11:43:34: Direct3D8 criado com sucesso.
+2/4/2004 11:43:34: Adaptador de modo de display encontrado.
+2/4/2004 11:44:54: Arquivo encontrado: "Media\Textura0.bmp"
+2/4/2004 11:44:54: Arquivo encontrado: "Media\Bomberman.bmp"
+2/4/2004 11:44:54: Chamando: [TWindow.Create]
+3/4/2004 13:36:34: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Button.exe" ---
+3/4/2004 13:36:34: Chamando: [TApplication.Create]
+3/4/2004 13:36:34: TApplication criado com sucesso.
+3/4/2004 13:36:34: Chamando: [TSoundList.Create]
+3/4/2004 13:36:34: TSoundList criado com sucesso.
+3/4/2004 13:36:37: Chamando: [TWindow.Create]
+3/4/2004 13:36:37: Resolução da janela: 640x480.
+3/4/2004 13:36:37: Chamando: [TWindow.Run]
+3/4/2004 13:36:37: Classe TWindow registrada com sucesso.
+3/4/2004 13:36:37: TWindow instanciado com sucesso.
+3/4/2004 13:36:37: Chamando: [TGraphics.Create]
+3/4/2004 13:36:37: TGraphics criado com sucesso.
+3/4/2004 13:36:37: Chamando: [TWindow.Create]
+3/4/2004 13:36:37: Direct3D8 criado com sucesso.
+3/4/2004 13:36:37: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Plane.bmp"
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:36:37: Ocorreu o seguinte erro: Access violation at address 003063ED in module 'd3d8.dll'. Read of address 00000000
+3/4/2004 13:36:40: --- Powered by IskaTreK - Copyright(c) 2004 ---
+3/4/2004 13:36:40: Chamando: [TApplication.Create]
+3/4/2004 13:36:40: TApplication criado com sucesso.
+3/4/2004 13:36:40: Chamando: [TSoundList.Create]
+3/4/2004 13:36:40: TSoundList criado com sucesso.
+3/4/2004 13:36:42: Chamando: [TWindow.Create]
+3/4/2004 13:36:42: Resolução da janela: 640x480.
+3/4/2004 13:36:42: Chamando: [TWindow.Run]
+3/4/2004 13:36:42: Classe TWindow registrada com sucesso.
+3/4/2004 13:36:42: TWindow instanciado com sucesso.
+3/4/2004 13:36:42: Chamando: [TGraphics.Create]
+3/4/2004 13:36:42: TGraphics criado com sucesso.
+3/4/2004 13:36:42: Chamando: [TWindow.Create]
+3/4/2004 13:36:42: Direct3D8 criado com sucesso.
+3/4/2004 13:36:42: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Arquivo encontrado: Media\Metranca.wav
+3/4/2004 13:35:55: Arquivo encontrado: Media\Boom.wav
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:37:01: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteBasic.exe" ---
+3/4/2004 13:37:01: Chamando: [TApplication.Create]
+3/4/2004 13:37:01: TApplication criado com sucesso.
+3/4/2004 13:37:01: Chamando: [TSoundList.Create]
+3/4/2004 13:37:01: TSoundList criado com sucesso.
+3/4/2004 13:37:02: Chamando: [TWindow.Create]
+3/4/2004 13:37:02: Resolução da janela: 640x480.
+3/4/2004 13:37:02: Chamando: [TWindow.Run]
+3/4/2004 13:37:02: Classe TWindow registrada com sucesso.
+3/4/2004 13:37:02: TWindow instanciado com sucesso.
+3/4/2004 13:37:02: Chamando: [TGraphics.Create]
+3/4/2004 13:37:02: TGraphics criado com sucesso.
+3/4/2004 13:37:02: Chamando: [TWindow.Create]
+3/4/2004 13:37:02: Direct3D8 criado com sucesso.
+3/4/2004 13:37:02: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:37:12: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteCollide.exe" ---
+3/4/2004 13:37:12: Chamando: [TApplication.Create]
+3/4/2004 13:37:12: TApplication criado com sucesso.
+3/4/2004 13:37:12: Chamando: [TSoundList.Create]
+3/4/2004 13:37:12: TSoundList criado com sucesso.
+3/4/2004 13:37:13: Chamando: [TWindow.Create]
+3/4/2004 13:37:13: Resolução da janela: 640x480.
+3/4/2004 13:37:13: Chamando: [TWindow.Run]
+3/4/2004 13:37:13: Classe TWindow registrada com sucesso.
+3/4/2004 13:37:13: TWindow instanciado com sucesso.
+3/4/2004 13:37:13: Chamando: [TGraphics.Create]
+3/4/2004 13:37:13: TGraphics criado com sucesso.
+3/4/2004 13:37:13: Chamando: [TWindow.Create]
+3/4/2004 13:37:13: Direct3D8 criado com sucesso.
+3/4/2004 13:37:13: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Plane.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Plane2.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Tile.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\BombaMini.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Tiro1.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Metranca.wav"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Boom.wav"
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:37:23: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteShoot.exe" ---
+3/4/2004 13:37:23: Chamando: [TApplication.Create]
+3/4/2004 13:37:23: TApplication criado com sucesso.
+3/4/2004 13:37:23: Chamando: [TSoundList.Create]
+3/4/2004 13:37:23: TSoundList criado com sucesso.
+3/4/2004 13:37:25: Chamando: [TWindow.Create]
+3/4/2004 13:37:25: Resolução da janela: 640x480.
+3/4/2004 13:37:25: Chamando: [TWindow.Run]
+3/4/2004 13:37:25: Classe TWindow registrada com sucesso.
+3/4/2004 13:37:25: TWindow instanciado com sucesso.
+3/4/2004 13:37:25: Chamando: [TGraphics.Create]
+3/4/2004 13:37:25: TGraphics criado com sucesso.
+3/4/2004 13:37:25: Chamando: [TWindow.Create]
+3/4/2004 13:37:25: Direct3D8 criado com sucesso.
+3/4/2004 13:37:25: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Deserto.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\F22.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Bala.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Explosão.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Explosão2.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Helicoptero.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Metranca.wav"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Boom.wav"
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:37:59: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+3/4/2004 13:37:59: Chamando: [TApplication.Create]
+3/4/2004 13:37:59: TApplication criado com sucesso.
+3/4/2004 13:37:59: Chamando: [TSoundList.Create]
+3/4/2004 13:37:59: TSoundList criado com sucesso.
+3/4/2004 13:38:00: Chamando: [TWindow.Create]
+3/4/2004 13:38:00: Resolução da janela: 640x480.
+3/4/2004 13:38:00: Chamando: [TWindow.Run]
+3/4/2004 13:38:00: Classe TWindow registrada com sucesso.
+3/4/2004 13:38:00: TWindow instanciado com sucesso.
+3/4/2004 13:38:00: Chamando: [TGraphics.Create]
+3/4/2004 13:38:00: TGraphics criado com sucesso.
+3/4/2004 13:38:00: Chamando: [TWindow.Create]
+3/4/2004 13:38:00: Direct3D8 criado com sucesso.
+3/4/2004 13:38:00: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Textura0.bmp"
+3/4/2004 13:35:55: Arquivo encontrado: "Media\Bomberman.bmp"
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:38:17: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Window.exe" ---
+3/4/2004 13:38:17: Chamando: [TApplication.Create]
+3/4/2004 13:38:17: TApplication criado com sucesso.
+3/4/2004 13:38:17: Chamando: [TSoundList.Create]
+3/4/2004 13:38:17: TSoundList criado com sucesso.
+3/4/2004 13:38:18: Chamando: [TWindow.Create]
+3/4/2004 13:38:18: Resolução da janela: 640x480.
+3/4/2004 13:38:18: Chamando: [TWindow.Run]
+3/4/2004 13:38:18: Classe TWindow registrada com sucesso.
+3/4/2004 13:38:18: TWindow instanciado com sucesso.
+3/4/2004 13:38:18: Chamando: [TGraphics.Create]
+3/4/2004 13:38:18: TGraphics criado com sucesso.
+3/4/2004 13:38:18: Chamando: [TWindow.Create]
+3/4/2004 13:38:18: Direct3D8 criado com sucesso.
+3/4/2004 13:38:18: Adaptador de modo de display encontrado.
+3/4/2004 13:35:55: Chamando: [TWindow.Create]
+3/4/2004 13:41:09: --- Powered by IskaTreK - Copyright(c) 2004 ---
+3/4/2004 13:41:09: Chamando: [TApplication.Create]
+3/4/2004 13:41:09: TApplication criado com sucesso.
+3/4/2004 13:41:09: Chamando: [TSoundList.Create]
+3/4/2004 13:41:09: TSoundList criado com sucesso.
+3/4/2004 13:41:10: Chamando: [TWindow.Create]
+3/4/2004 13:41:10: Resolução da janela: 640x480.
+3/4/2004 13:41:10: Chamando: [TWindow.Run]
+3/4/2004 13:41:10: Classe TWindow registrada com sucesso.
+3/4/2004 13:41:10: TWindow instanciado com sucesso.
+3/4/2004 13:41:10: Chamando: [TGraphics.Create]
+3/4/2004 13:41:10: TGraphics criado com sucesso.
+3/4/2004 13:41:10: Chamando: [TWindow.Create]
+3/4/2004 13:41:10: Direct3D8 criado com sucesso.
+3/4/2004 13:41:10: Adaptador de modo de display encontrado.
+3/4/2004 13:40:17: Arquivo encontrado: Media\Metranca.wav
+3/4/2004 13:40:17: Arquivo encontrado: Media\Boom.wav
+3/4/2004 13:40:17: Chamando: [TWindow.Create]
+3/4/2004 13:41:45: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteBasic.exe" ---
+3/4/2004 13:41:45: Chamando: [TApplication.Create]
+3/4/2004 13:41:45: TApplication criado com sucesso.
+3/4/2004 13:41:45: Chamando: [TSoundList.Create]
+3/4/2004 13:41:45: TSoundList criado com sucesso.
+3/4/2004 13:41:46: Chamando: [TWindow.Create]
+3/4/2004 13:41:46: Resolução da janela: 640x480.
+3/4/2004 13:41:46: Chamando: [TWindow.Run]
+3/4/2004 13:41:46: Classe TWindow registrada com sucesso.
+3/4/2004 13:41:46: TWindow instanciado com sucesso.
+3/4/2004 13:41:46: Chamando: [TGraphics.Create]
+3/4/2004 13:41:46: TGraphics criado com sucesso.
+3/4/2004 13:41:46: Chamando: [TWindow.Create]
+3/4/2004 13:41:46: Direct3D8 criado com sucesso.
+3/4/2004 13:41:46: Adaptador de modo de display encontrado.
+3/4/2004 13:40:17: Chamando: [TWindow.Create]
+3/4/2004 13:42:05: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteCollide.exe" ---
+3/4/2004 13:42:05: Chamando: [TApplication.Create]
+3/4/2004 13:42:05: TApplication criado com sucesso.
+3/4/2004 13:42:05: Chamando: [TSoundList.Create]
+3/4/2004 13:42:05: TSoundList criado com sucesso.
+3/4/2004 13:42:07: Chamando: [TWindow.Create]
+3/4/2004 13:42:07: Resolução da janela: 640x480.
+3/4/2004 13:42:07: Chamando: [TWindow.Run]
+3/4/2004 13:42:07: Classe TWindow registrada com sucesso.
+3/4/2004 13:42:07: TWindow instanciado com sucesso.
+3/4/2004 13:42:07: Chamando: [TGraphics.Create]
+3/4/2004 13:42:07: TGraphics criado com sucesso.
+3/4/2004 13:42:07: Chamando: [TWindow.Create]
+3/4/2004 13:42:07: Direct3D8 criado com sucesso.
+3/4/2004 13:42:07: Adaptador de modo de display encontrado.
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Plane.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Plane2.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Tile.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\BombaMini.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Tiro1.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Metranca.wav"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Boom.wav"
+3/4/2004 13:40:17: Chamando: [TWindow.Create]
+3/4/2004 13:42:39: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteShoot.exe" ---
+3/4/2004 13:42:39: Chamando: [TApplication.Create]
+3/4/2004 13:42:39: TApplication criado com sucesso.
+3/4/2004 13:42:39: Chamando: [TSoundList.Create]
+3/4/2004 13:42:39: TSoundList criado com sucesso.
+3/4/2004 13:42:40: Chamando: [TWindow.Create]
+3/4/2004 13:42:40: Resolução da janela: 640x480.
+3/4/2004 13:42:40: Chamando: [TWindow.Run]
+3/4/2004 13:42:40: Classe TWindow registrada com sucesso.
+3/4/2004 13:42:40: TWindow instanciado com sucesso.
+3/4/2004 13:42:40: Chamando: [TGraphics.Create]
+3/4/2004 13:42:40: TGraphics criado com sucesso.
+3/4/2004 13:42:40: Chamando: [TWindow.Create]
+3/4/2004 13:42:40: Direct3D8 criado com sucesso.
+3/4/2004 13:42:40: Adaptador de modo de display encontrado.
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Deserto.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\F22.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Bala.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Explosão.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Explosão2.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Helicoptero.bmp"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Metranca.wav"
+3/4/2004 13:40:17: Arquivo encontrado: "Media\Boom.wav"
+3/4/2004 13:40:17: Chamando: [TWindow.Create]
+3/4/2004 13:44:57: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+3/4/2004 13:44:57: Chamando: [TApplication.Create]
+3/4/2004 13:44:57: TApplication criado com sucesso.
+3/4/2004 13:44:57: Chamando: [TSoundList.Create]
+3/4/2004 13:44:57: TSoundList criado com sucesso.
+3/4/2004 13:44:59: Chamando: [TWindow.Create]
+3/4/2004 13:44:59: Resolução da janela: 640x480.
+3/4/2004 13:44:59: Chamando: [TWindow.Run]
+3/4/2004 13:44:59: Classe TWindow registrada com sucesso.
+3/4/2004 13:44:59: TWindow instanciado com sucesso.
+3/4/2004 13:44:59: Chamando: [TGraphics.Create]
+3/4/2004 13:44:59: TGraphics criado com sucesso.
+3/4/2004 13:44:59: Chamando: [TWindow.Create]
+3/4/2004 13:44:59: Direct3D8 criado com sucesso.
+3/4/2004 13:44:59: Adaptador de modo de display encontrado.
+3/4/2004 13:49:01: Arquivo encontrado: "Media\Textura0.bmp"
+3/4/2004 13:49:01: Arquivo encontrado: "Media\Bomberman.bmp"
+3/4/2004 13:49:01: Chamando: [TWindow.Create]
+3/4/2004 13:45:50: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+3/4/2004 13:45:50: Chamando: [TApplication.Create]
+3/4/2004 13:45:50: TApplication criado com sucesso.
+3/4/2004 13:45:50: Chamando: [TSoundList.Create]
+3/4/2004 13:45:50: TSoundList criado com sucesso.
+3/4/2004 13:45:51: Chamando: [TWindow.Create]
+3/4/2004 13:45:51: Resolução da janela: 640x480.
+3/4/2004 13:45:51: Chamando: [TWindow.Run]
+3/4/2004 13:45:51: Classe TWindow registrada com sucesso.
+3/4/2004 13:45:51: TWindow instanciado com sucesso.
+3/4/2004 13:45:51: Chamando: [TGraphics.Create]
+3/4/2004 13:45:51: TGraphics criado com sucesso.
+3/4/2004 13:45:51: Chamando: [TWindow.Create]
+3/4/2004 13:45:51: Direct3D8 criado com sucesso.
+3/4/2004 13:45:51: Adaptador de modo de display encontrado.
+3/4/2004 13:49:01: Arquivo encontrado: "Media\3.bmp"
+3/4/2004 13:49:01: Arquivo encontrado: "Media\Bomberman.bmp"
+3/4/2004 13:49:01: Chamando: [TWindow.Create]
+3/4/2004 13:51:25: --- Powered by IskaTreK - Copyright(c) 2004 ---
+3/4/2004 13:51:25: Chamando: [TApplication.Create]
+3/4/2004 13:51:25: TApplication criado com sucesso.
+3/4/2004 13:51:25: Chamando: [TSoundList.Create]
+3/4/2004 13:51:25: TSoundList criado com sucesso.
+3/4/2004 13:51:26: Chamando: [TWindow.Create]
+3/4/2004 13:51:26: Resolução da janela: 640x480.
+3/4/2004 13:51:26: Chamando: [TWindow.Run]
+3/4/2004 13:51:26: Classe TWindow registrada com sucesso.
+3/4/2004 13:51:26: TWindow instanciado com sucesso.
+3/4/2004 13:51:26: Chamando: [TGraphics.Create]
+3/4/2004 13:51:26: TGraphics criado com sucesso.
+3/4/2004 13:51:26: Chamando: [TWindow.Create]
+3/4/2004 13:51:26: Direct3D8 criado com sucesso.
+3/4/2004 13:51:26: Adaptador de modo de display encontrado.
+3/4/2004 13:53:23: Arquivo encontrado: Media\Metranca.wav
+3/4/2004 13:53:23: Arquivo encontrado: Media\Boom.wav
+3/4/2004 13:53:23: Chamando: [TWindow.Create]
+5/4/2004 12:43:21: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\Tile.exe" ---
+5/4/2004 12:43:21: Chamando: [TApplication.Create]
+5/4/2004 12:43:21: TApplication criado com sucesso.
+5/4/2004 12:43:21: Chamando: [TSoundList.Create]
+5/4/2004 12:43:21: TSoundList criado com sucesso.
+5/4/2004 12:43:24: Chamando: [TWindow.Create]
+5/4/2004 12:43:24: Resolução da janela: 640x480.
+5/4/2004 12:43:24: Chamando: [TWindow.Run]
+5/4/2004 12:43:24: Classe TWindow registrada com sucesso.
+5/4/2004 12:43:24: TWindow instanciado com sucesso.
+5/4/2004 12:43:24: Chamando: [TGraphics.Create]
+5/4/2004 12:43:24: TGraphics criado com sucesso.
+5/4/2004 12:43:24: Chamando: [TWindow.Create]
+5/4/2004 12:43:24: Direct3D8 criado com sucesso.
+5/4/2004 12:43:24: Adaptador de modo de display encontrado.
+5/4/2004 12:47:04: Arquivo encontrado: "Media\3.bmp"
+5/4/2004 12:47:04: Arquivo encontrado: "Media\Bomberman.bmp"
+5/4/2004 12:47:04: Chamando: [TWindow.Create]
+14/4/2004 19:52:32: --- Powered by IskaTreK - Copyright(c) 2004 ---
+14/4/2004 19:52:32: Chamando: [TApplication.Create]
+14/4/2004 19:52:32: TApplication criado com sucesso.
+14/4/2004 19:52:32: Chamando: [TSoundList.Create]
+14/4/2004 19:52:32: TSoundList criado com sucesso.
+14/4/2004 19:52:35: Chamando: [TWindow.Create]
+14/4/2004 19:52:35: Resolução da janela: 640x480.
+14/4/2004 19:52:35: Chamando: [TWindow.Run]
+14/4/2004 19:52:35: Classe TWindow registrada com sucesso.
+14/4/2004 19:52:35: TWindow instanciado com sucesso.
+14/4/2004 19:52:35: Chamando: [TGraphics.Create]
+14/4/2004 19:52:35: TGraphics criado com sucesso.
+14/4/2004 19:52:35: Chamando: [TWindow.Create]
+14/4/2004 19:52:35: Direct3D8 criado com sucesso.
+14/4/2004 19:52:35: Adaptador de modo de display encontrado.
+14/4/2004 19:53:53: Arquivo encontrado: Media\Metranca.wav
+14/4/2004 19:53:53: Arquivo encontrado: Media\Boom.wav
+14/4/2004 19:53:53: Chamando: [TWindow.Create]
+14/4/2004 19:52:41: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Samples\Bin\SpriteCollide.exe" ---
+14/4/2004 19:52:41: Chamando: [TApplication.Create]
+14/4/2004 19:52:41: TApplication criado com sucesso.
+14/4/2004 19:52:41: Chamando: [TSoundList.Create]
+14/4/2004 19:52:41: TSoundList criado com sucesso.
+14/4/2004 19:52:42: Chamando: [TWindow.Create]
+14/4/2004 19:52:42: Resolução da janela: 640x480.
+14/4/2004 19:52:42: Chamando: [TWindow.Run]
+14/4/2004 19:52:42: Classe TWindow registrada com sucesso.
+14/4/2004 19:52:42: TWindow instanciado com sucesso.
+14/4/2004 19:52:42: Chamando: [TGraphics.Create]
+14/4/2004 19:52:42: TGraphics criado com sucesso.
+14/4/2004 19:52:42: Chamando: [TWindow.Create]
+14/4/2004 19:52:42: Direct3D8 criado com sucesso.
+14/4/2004 19:52:42: Adaptador de modo de display encontrado.
+14/4/2004 19:53:53: Arquivo encontrado: "Media\Plane.bmp"
+14/4/2004 19:53:53: Arquivo encontrado: "Media\Plane2.bmp"
+14/4/2004 19:53:53: Arquivo encontrado: "Media\Tile.bmp"
+14/4/2004 19:53:53: Arquivo encontrado: "Media\BombaMini.bmp"
+14/4/2004 19:53:53: Arquivo encontrado: "Media\Tiro1.bmp"
+14/4/2004 19:53:53: Arquivo encontrado: "Media\Metranca.wav"
+14/4/2004 19:53:53: Arquivo encontrado: "Media\Boom.wav"
+14/4/2004 19:53:53: Chamando: [TWindow.Create]

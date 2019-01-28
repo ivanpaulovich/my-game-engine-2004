@@ -1,0 +1,49 @@
+unit glMap;
+
+interface
+
+uses
+  Windows, SysUtils, glError, glConst;
+
+type
+
+  (* THeader *)
+
+  PHeader = ^THeader;
+  THeader = record
+    Version: Integer;
+    Description: string[255];
+    Width, Height: Integer;
+  end;
+
+  (* TMap *)
+
+  PMap = ^TMap;
+  TMap = class
+  private
+    FHeader: THeader;
+    FLoaded: Boolean;
+  public
+    constructor Create;
+    function SaveToFile(const FileName: string): Boolean;
+    function LoadFromFile(const FileName: PChar = nil): Boolean;
+  end;
+
+implementation
+
+    constructor Create;
+    begin
+
+    end;
+
+    function SaveToFile(const FileName: string): Boolean;
+    begin
+
+    end;
+
+    function LoadFromFile(const FileName: PChar = nil): Boolean;
+    begin
+
+    end;
+    
+end.

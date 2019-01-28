@@ -1,0 +1,1206 @@
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 13:16:09: Objeto da classe TApplication criado.
+21/4/2004 13:16:09: Objeto da classe TWindow criado.
+21/4/2004 13:16:09: Chamando função: TWindow.Run
+21/4/2004 13:16:09: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 13:16:09: Objeto da classe TInput criado.
+21/4/2004 13:16:09: Chamando função: TInput.Run
+21/4/2004 13:16:09: Objeto da classe TGraphics criado.
+21/4/2004 13:16:09: Chamando função: TGraphics.Run
+21/4/2004 13:16:09: Objeto da classe IDirect3D8 criado.
+21/4/2004 13:20:07: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 13:20:07: Arquivo encontrado: Colors.bmp
+21/4/2004 13:20:07: Chamando função: TApplication.Run
+21/4/2004 13:20:07: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 14:08:45: Objeto da classe TApplication criado.
+21/4/2004 14:08:45: Objeto da classe TWindow criado.
+21/4/2004 14:08:45: Chamando função: TWindow.Run
+21/4/2004 14:08:45: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 14:08:45: Objeto da classe TInput criado.
+21/4/2004 14:08:45: Chamando função: TInput.Run
+21/4/2004 14:08:45: Objeto da classe TGraphics criado.
+21/4/2004 14:08:45: Chamando função: TGraphics.Run
+21/4/2004 14:08:45: Objeto da classe IDirect3D8 criado.
+21/4/2004 14:08:10: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 14:08:10: Arquivo encontrado: Colors.bmp
+21/4/2004 14:08:10: Chamando função: TApplication.Run
+21/4/2004 14:08:10: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 14:10:02: Objeto da classe TApplication criado.
+21/4/2004 14:10:02: Objeto da classe TWindow criado.
+21/4/2004 14:10:02: Chamando função: TWindow.Run
+21/4/2004 14:10:02: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 14:10:02: Objeto da classe TInput criado.
+21/4/2004 14:10:02: Chamando função: TInput.Run
+21/4/2004 14:10:02: Ocorreu um erro dentro de: Access violation at address 00419C3F in module 'brEngine.exe'. Read of address 00000004
+21/4/2004 14:10:02: Objeto da classe TGraphics criado.
+21/4/2004 14:10:02: Chamando função: TGraphics.Run
+21/4/2004 14:10:02: Objeto da classe IDirect3D8 criado.
+21/4/2004 14:08:10: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 14:08:10: Arquivo encontrado: Colors.bmp
+21/4/2004 14:08:10: Chamando função: TApplication.Run
+21/4/2004 14:08:10: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 14:10:53: Objeto da classe TApplication criado.
+21/4/2004 14:10:53: Objeto da classe TWindow criado.
+21/4/2004 14:10:53: Chamando função: TWindow.Run
+21/4/2004 14:10:53: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 14:10:53: Objeto da classe TInput criado.
+21/4/2004 14:10:53: Chamando função: TInput.Run
+21/4/2004 14:10:53: Objeto da classe TGraphics criado.
+21/4/2004 14:10:53: Chamando função: TGraphics.Run
+21/4/2004 14:10:53: Objeto da classe IDirect3D8 criado.
+21/4/2004 14:08:10: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 14:08:10: Arquivo encontrado: Colors.bmp
+21/4/2004 14:08:10: Chamando função: TApplication.Run
+21/4/2004 14:08:10: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:53:46: Objeto da classe TApplication criado.
+21/4/2004 22:53:46: Objeto da classe TWindow criado.
+21/4/2004 22:53:46: Chamando função: TWindow.Run
+21/4/2004 22:53:46: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:53:46: Objeto da classe TInput criado.
+21/4/2004 22:53:46: Chamando função: TInput.Run
+21/4/2004 22:53:47: Objeto da classe TGraphics criado.
+21/4/2004 22:53:47: Chamando função: TGraphics.Run
+21/4/2004 22:53:47: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:52:28: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:52:28: Arquivo encontrado: Colors.bmp
+21/4/2004 22:52:28: Chamando função: TApplication.Run
+21/4/2004 22:52:28: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:55:16: Objeto da classe TApplication criado.
+21/4/2004 22:55:16: Objeto da classe TWindow criado.
+21/4/2004 22:55:16: Chamando função: TWindow.Run
+21/4/2004 22:55:16: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:55:16: Objeto da classe TInput criado.
+21/4/2004 22:55:16: Chamando função: TInput.Run
+21/4/2004 22:55:16: Objeto da classe TGraphics criado.
+21/4/2004 22:55:16: Chamando função: TGraphics.Run
+21/4/2004 22:55:16: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:52:28: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:52:28: Arquivo encontrado: Colors.bmp
+21/4/2004 22:52:28: Chamando função: TApplication.Run
+21/4/2004 22:52:28: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:55:35: Objeto da classe TApplication criado.
+21/4/2004 22:55:35: Objeto da classe TWindow criado.
+21/4/2004 22:55:35: Chamando função: TWindow.Run
+21/4/2004 22:55:35: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:55:35: Objeto da classe TInput criado.
+21/4/2004 22:55:35: Chamando função: TInput.Run
+21/4/2004 22:55:36: Objeto da classe TGraphics criado.
+21/4/2004 22:55:36: Chamando função: TGraphics.Run
+21/4/2004 22:55:36: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+--- Powered by IskaTreK - Copyright(c) 2004 ---
+--- Arquivo: "Editor.exe" ---
+21/4/2004 22:55:58: Chamando: "TApplication.Create"
+21/4/2004 22:55:58: Objeto "TApplication" criado.
+21/4/2004 22:55:58: Chamando: "TWindow.Create"
+21/4/2004 22:55:58: Objeto "TWindow" criado.
+21/4/2004 22:55:58: Chamando: "TWindow.Run"
+21/4/2004 22:55:58: Posiçao da janela: 80x79.
+21/4/2004 22:55:58: Resolução da janela: 637x439.
+21/4/2004 22:55:58: Chamando: "TGraphics.Create"
+21/4/2004 22:55:58: Objeto "TGraphics" criado.
+21/4/2004 22:55:58: Chamando: "TGraphics.Run"
+21/4/2004 22:55:58: Objeto "Direct3D8" criado.
+21/4/2004 22:56:50: Objeto "Device" criado.
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Tile.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Bomberman.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Background.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Colors.bmp"
+21/4/2004 22:56:50: Chamando: "TApplication.Run"
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:56:25: Objeto da classe TApplication criado.
+21/4/2004 22:56:25: Objeto da classe TWindow criado.
+21/4/2004 22:56:25: Chamando função: TWindow.Run
+21/4/2004 22:56:25: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:56:25: Objeto da classe TInput criado.
+21/4/2004 22:56:25: Chamando função: TInput.Run
+21/4/2004 22:56:26: Objeto da classe TGraphics criado.
+21/4/2004 22:56:26: Chamando função: TGraphics.Run
+21/4/2004 22:56:26: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+--- Powered by IskaTreK - Copyright(c) 2004 ---
+--- Arquivo: "Editor.exe" ---
+21/4/2004 22:57:13: Chamando: "TApplication.Create"
+21/4/2004 22:57:13: Objeto "TApplication" criado.
+21/4/2004 22:57:13: Chamando: "TWindow.Create"
+21/4/2004 22:57:13: Objeto "TWindow" criado.
+21/4/2004 22:57:13: Chamando: "TWindow.Run"
+21/4/2004 22:57:13: Posiçao da janela: 80x79.
+21/4/2004 22:57:13: Resolução da janela: 637x439.
+21/4/2004 22:57:13: Chamando: "TGraphics.Create"
+21/4/2004 22:57:13: Objeto "TGraphics" criado.
+21/4/2004 22:57:13: Chamando: "TGraphics.Run"
+21/4/2004 22:57:13: Objeto "Direct3D8" criado.
+21/4/2004 22:56:50: Objeto "Device" criado.
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Tile.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Bomberman.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Background.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Colors.bmp"
+21/4/2004 22:56:50: Chamando: "TApplication.Run"
+21/4/2004 22:56:50: Ocorreu um erro dentro de: "List index out of bounds (1)"
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:57:16: Objeto da classe TApplication criado.
+21/4/2004 22:57:16: Objeto da classe TWindow criado.
+21/4/2004 22:57:16: Chamando função: TWindow.Run
+21/4/2004 22:57:17: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:57:17: Objeto da classe TInput criado.
+21/4/2004 22:57:17: Chamando função: TInput.Run
+21/4/2004 22:57:17: Objeto da classe TGraphics criado.
+21/4/2004 22:57:17: Chamando função: TGraphics.Run
+21/4/2004 22:57:17: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+--- Powered by IskaTreK - Copyright(c) 2004 ---
+--- Arquivo: "Editor.exe" ---
+21/4/2004 22:57:46: Chamando: "TApplication.Create"
+21/4/2004 22:57:46: Objeto "TApplication" criado.
+21/4/2004 22:57:46: Chamando: "TWindow.Create"
+21/4/2004 22:57:46: Objeto "TWindow" criado.
+21/4/2004 22:57:46: Chamando: "TWindow.Run"
+21/4/2004 22:57:46: Posiçao da janela: 80x79.
+21/4/2004 22:57:46: Resolução da janela: 637x439.
+21/4/2004 22:57:46: Chamando: "TGraphics.Create"
+21/4/2004 22:57:46: Objeto "TGraphics" criado.
+21/4/2004 22:57:46: Chamando: "TGraphics.Run"
+21/4/2004 22:57:46: Objeto "Direct3D8" criado.
+21/4/2004 22:56:50: Objeto "Device" criado.
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Tile.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Bomberman.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Media\Img\Background.bmp"
+21/4/2004 22:56:50: Arquivo encontrado: "Colors.bmp"
+21/4/2004 22:56:50: Chamando: "TApplication.Run"
+21/4/2004 22:56:50: Ocorreu um erro dentro de: "List index out of bounds (1)"
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:57:48: Objeto da classe TApplication criado.
+21/4/2004 22:57:48: Objeto da classe TWindow criado.
+21/4/2004 22:57:48: Chamando função: TWindow.Run
+21/4/2004 22:57:48: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:57:48: Objeto da classe TInput criado.
+21/4/2004 22:57:48: Chamando função: TInput.Run
+21/4/2004 22:57:49: Objeto da classe TGraphics criado.
+21/4/2004 22:57:49: Chamando função: TGraphics.Run
+21/4/2004 22:57:49: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:58:22: Objeto da classe TApplication criado.
+21/4/2004 22:58:22: Objeto da classe TWindow criado.
+21/4/2004 22:58:22: Chamando função: TWindow.Run
+21/4/2004 22:58:22: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:58:22: Objeto da classe TInput criado.
+21/4/2004 22:58:22: Chamando função: TInput.Run
+21/4/2004 22:58:23: Objeto da classe TGraphics criado.
+21/4/2004 22:58:23: Chamando função: TGraphics.Run
+21/4/2004 22:58:23: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:59:09: Objeto da classe TApplication criado.
+21/4/2004 22:59:09: Objeto da classe TWindow criado.
+21/4/2004 22:59:09: Chamando função: TWindow.Run
+21/4/2004 22:59:09: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:59:09: Objeto da classe TInput criado.
+21/4/2004 22:59:09: Chamando função: TInput.Run
+21/4/2004 22:59:09: Objeto da classe TGraphics criado.
+21/4/2004 22:59:09: Chamando função: TGraphics.Run
+21/4/2004 22:59:09: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 22:59:56: Objeto da classe TApplication criado.
+21/4/2004 22:59:56: Objeto da classe TWindow criado.
+21/4/2004 22:59:56: Chamando função: TWindow.Run
+21/4/2004 22:59:56: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 22:59:56: Objeto da classe TInput criado.
+21/4/2004 22:59:56: Chamando função: TInput.Run
+21/4/2004 22:59:56: Objeto da classe TGraphics criado.
+21/4/2004 22:59:56: Chamando função: TGraphics.Run
+21/4/2004 22:59:56: Objeto da classe IDirect3D8 criado.
+21/4/2004 22:56:50: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 22:56:50: Arquivo encontrado: Colors.bmp
+21/4/2004 22:56:50: Chamando função: TApplication.Run
+21/4/2004 22:56:50: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:02:29: Objeto da classe TApplication criado.
+21/4/2004 23:02:29: Objeto da classe TWindow criado.
+21/4/2004 23:02:29: Chamando função: TWindow.Run
+21/4/2004 23:02:29: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:02:29: Objeto da classe TInput criado.
+21/4/2004 23:02:29: Chamando função: TInput.Run
+21/4/2004 23:02:29: Objeto da classe TGraphics criado.
+21/4/2004 23:02:29: Chamando função: TGraphics.Run
+21/4/2004 23:02:29: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:05:34: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:05:34: Arquivo encontrado: Colors.bmp
+21/4/2004 23:05:34: Chamando função: TApplication.Run
+21/4/2004 23:05:34: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:03:04: Objeto da classe TApplication criado.
+21/4/2004 23:03:04: Objeto da classe TWindow criado.
+21/4/2004 23:03:04: Chamando função: TWindow.Run
+21/4/2004 23:03:04: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:03:04: Objeto da classe TInput criado.
+21/4/2004 23:03:04: Chamando função: TInput.Run
+21/4/2004 23:03:04: Objeto da classe TGraphics criado.
+21/4/2004 23:03:04: Chamando função: TGraphics.Run
+21/4/2004 23:03:04: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:05:34: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:05:34: Arquivo encontrado: Colors.bmp
+21/4/2004 23:05:34: Chamando função: TApplication.Run
+21/4/2004 23:05:34: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:05:28: Objeto da classe TApplication criado.
+21/4/2004 23:05:28: Objeto da classe TWindow criado.
+21/4/2004 23:05:28: Chamando função: TWindow.Run
+21/4/2004 23:05:28: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:05:28: Objeto da classe TInput criado.
+21/4/2004 23:05:28: Chamando função: TInput.Run
+21/4/2004 23:05:28: Objeto da classe TGraphics criado.
+21/4/2004 23:05:28: Chamando função: TGraphics.Run
+21/4/2004 23:05:28: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:05:34: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:05:34: Arquivo encontrado: Colors.bmp
+21/4/2004 23:05:34: Chamando função: TApplication.Run
+21/4/2004 23:05:34: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:05:47: Objeto da classe TApplication criado.
+21/4/2004 23:05:47: Objeto da classe TWindow criado.
+21/4/2004 23:05:47: Chamando função: TWindow.Run
+21/4/2004 23:05:47: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:05:47: Objeto da classe TInput criado.
+21/4/2004 23:05:47: Chamando função: TInput.Run
+21/4/2004 23:05:48: Objeto da classe TGraphics criado.
+21/4/2004 23:05:48: Chamando função: TGraphics.Run
+21/4/2004 23:05:48: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:05:34: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:05:34: Arquivo encontrado: Colors.bmp
+21/4/2004 23:05:34: Chamando função: TApplication.Run
+21/4/2004 23:05:34: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:07:36: Objeto da classe TApplication criado.
+21/4/2004 23:07:36: Objeto da classe TWindow criado.
+21/4/2004 23:07:36: Chamando função: TWindow.Run
+21/4/2004 23:07:36: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:07:36: Objeto da classe TInput criado.
+21/4/2004 23:07:36: Chamando função: TInput.Run
+21/4/2004 23:07:36: Objeto da classe TGraphics criado.
+21/4/2004 23:07:36: Chamando função: TGraphics.Run
+21/4/2004 23:07:36: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:09:56: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:09:56: Arquivo encontrado: Colors.bmp
+21/4/2004 23:09:56: Chamando função: TApplication.Run
+21/4/2004 23:09:56: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:12:06: Objeto da classe TApplication criado.
+21/4/2004 23:12:06: Objeto da classe TWindow criado.
+21/4/2004 23:12:06: Chamando função: TWindow.Run
+21/4/2004 23:12:06: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:12:06: Objeto da classe TInput criado.
+21/4/2004 23:12:06: Chamando função: TInput.Run
+21/4/2004 23:12:06: Objeto da classe TGraphics criado.
+21/4/2004 23:12:06: Chamando função: TGraphics.Run
+21/4/2004 23:12:07: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:09:56: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:09:56: Arquivo encontrado: Colors.bmp
+21/4/2004 23:09:56: Chamando função: TApplication.Run
+21/4/2004 23:09:56: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:12:28: Objeto da classe TApplication criado.
+21/4/2004 23:12:28: Objeto da classe TWindow criado.
+21/4/2004 23:12:28: Chamando função: TWindow.Run
+21/4/2004 23:12:28: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:12:28: Objeto da classe TInput criado.
+21/4/2004 23:12:28: Chamando função: TInput.Run
+21/4/2004 23:12:28: Objeto da classe TGraphics criado.
+21/4/2004 23:12:28: Chamando função: TGraphics.Run
+21/4/2004 23:12:28: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:14:18: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:14:18: Arquivo encontrado: Colors.bmp
+21/4/2004 23:14:18: Chamando função: TApplication.Run
+21/4/2004 23:14:18: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:14:14: Objeto da classe TApplication criado.
+21/4/2004 23:14:14: Objeto da classe TWindow criado.
+21/4/2004 23:14:14: Chamando função: TWindow.Run
+21/4/2004 23:14:14: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:14:14: Objeto da classe TInput criado.
+21/4/2004 23:14:14: Chamando função: TInput.Run
+21/4/2004 23:14:15: Objeto da classe TGraphics criado.
+21/4/2004 23:14:15: Chamando função: TGraphics.Run
+21/4/2004 23:14:15: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:14:18: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:14:18: Arquivo encontrado: Colors.bmp
+21/4/2004 23:14:18: Chamando função: TApplication.Run
+21/4/2004 23:14:18: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+21/4/2004 23:14:56: Objeto da classe TApplication criado.
+21/4/2004 23:14:56: Objeto da classe TWindow criado.
+21/4/2004 23:14:56: Chamando função: TWindow.Run
+21/4/2004 23:14:56: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+21/4/2004 23:14:56: Objeto da classe TInput criado.
+21/4/2004 23:14:56: Chamando função: TInput.Run
+21/4/2004 23:14:57: Objeto da classe TGraphics criado.
+21/4/2004 23:14:57: Chamando função: TGraphics.Run
+21/4/2004 23:14:57: Objeto da classe IDirect3D8 criado.
+21/4/2004 23:14:18: Objeto da classe IDirect3DDevice8 criado.
+21/4/2004 23:14:18: Arquivo encontrado: Colors.bmp
+21/4/2004 23:14:18: Chamando função: TApplication.Run
+21/4/2004 23:14:18: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 16:54:53: Objeto da classe TApplication criado.
+22/4/2004 16:54:54: Objeto da classe TWindow criado.
+22/4/2004 16:54:54: Chamando função: TWindow.Run
+22/4/2004 16:54:54: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 16:54:54: Objeto da classe TInput criado.
+22/4/2004 16:54:54: Chamando função: TInput.Run
+22/4/2004 16:54:55: Objeto da classe TGraphics criado.
+22/4/2004 16:54:55: Chamando função: TGraphics.Run
+22/4/2004 16:54:55: Objeto da classe IDirect3D8 criado.
+22/4/2004 16:51:37: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 16:51:37: Arquivo encontrado: Colors.bmp
+22/4/2004 16:51:37: Chamando função: TApplication.Run
+22/4/2004 16:51:37: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:00:18: Objeto da classe TApplication criado.
+22/4/2004 17:00:18: Objeto da classe TWindow criado.
+22/4/2004 17:00:18: Chamando função: TWindow.Run
+22/4/2004 17:00:18: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:00:18: Objeto da classe TInput criado.
+22/4/2004 17:00:18: Chamando função: TInput.Run
+22/4/2004 17:00:18: Objeto da classe TGraphics criado.
+22/4/2004 17:00:18: Chamando função: TGraphics.Run
+22/4/2004 17:00:18: Objeto da classe IDirect3D8 criado.
+22/4/2004 16:55:59: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 16:55:59: Arquivo encontrado: Colors.bmp
+22/4/2004 16:55:59: Chamando função: TApplication.Run
+22/4/2004 16:55:59: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:01:46: Objeto da classe TApplication criado.
+22/4/2004 17:01:46: Objeto da classe TWindow criado.
+22/4/2004 17:01:46: Chamando função: TWindow.Run
+22/4/2004 17:01:46: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:01:46: Objeto da classe TInput criado.
+22/4/2004 17:01:46: Chamando função: TInput.Run
+22/4/2004 17:01:46: Objeto da classe TGraphics criado.
+22/4/2004 17:01:46: Chamando função: TGraphics.Run
+22/4/2004 17:01:46: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:04:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:04:44: Arquivo encontrado: Colors.bmp
+22/4/2004 17:04:44: Chamando função: TApplication.Run
+22/4/2004 17:04:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:02:15: Objeto da classe TApplication criado.
+22/4/2004 17:02:15: Objeto da classe TWindow criado.
+22/4/2004 17:02:15: Chamando função: TWindow.Run
+22/4/2004 17:02:15: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:02:15: Objeto da classe TInput criado.
+22/4/2004 17:02:15: Chamando função: TInput.Run
+22/4/2004 17:02:16: Objeto da classe TGraphics criado.
+22/4/2004 17:02:16: Chamando função: TGraphics.Run
+22/4/2004 17:02:16: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:04:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:04:44: Arquivo encontrado: Colors.bmp
+22/4/2004 17:04:44: Chamando função: TApplication.Run
+22/4/2004 17:04:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:03:18: Objeto da classe TApplication criado.
+22/4/2004 17:03:18: Objeto da classe TWindow criado.
+22/4/2004 17:03:18: Chamando função: TWindow.Run
+22/4/2004 17:03:18: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:03:18: Objeto da classe TInput criado.
+22/4/2004 17:03:18: Chamando função: TInput.Run
+22/4/2004 17:03:19: Objeto da classe TGraphics criado.
+22/4/2004 17:03:19: Chamando função: TGraphics.Run
+22/4/2004 17:03:19: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:04:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:04:44: Arquivo encontrado: Colors.bmp
+22/4/2004 17:04:44: Chamando função: TApplication.Run
+22/4/2004 17:04:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:05:32: Objeto da classe TApplication criado.
+22/4/2004 17:05:32: Objeto da classe TWindow criado.
+22/4/2004 17:05:32: Chamando função: TWindow.Run
+22/4/2004 17:05:32: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:05:32: Objeto da classe TInput criado.
+22/4/2004 17:05:32: Chamando função: TInput.Run
+22/4/2004 17:05:32: Objeto da classe TGraphics criado.
+22/4/2004 17:05:32: Chamando função: TGraphics.Run
+22/4/2004 17:05:32: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:04:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:04:44: Arquivo encontrado: Colors.bmp
+22/4/2004 17:04:44: Chamando função: TApplication.Run
+22/4/2004 17:04:44: [Aplicação] :: Arquivo: brEngine.exe
+--- Powered by IskaTreK - Copyright(c) 2004 ---
+--- Arquivo: "Editor.exe" ---
+22/4/2004 17:05:37: Chamando: "TApplication.Create"
+22/4/2004 17:05:37: Objeto "TApplication" criado.
+22/4/2004 17:05:37: Chamando: "TWindow.Create"
+22/4/2004 17:05:37: Objeto "TWindow" criado.
+22/4/2004 17:05:37: Chamando: "TWindow.Run"
+22/4/2004 17:05:38: Posiçao da janela: 80x79.
+22/4/2004 17:05:38: Resolução da janela: 637x439.
+22/4/2004 17:05:38: Chamando: "TGraphics.Create"
+22/4/2004 17:05:38: Objeto "TGraphics" criado.
+22/4/2004 17:05:38: Chamando: "TGraphics.Run"
+22/4/2004 17:05:38: Objeto "Direct3D8" criado.
+22/4/2004 17:04:44: Objeto "Device" criado.
+22/4/2004 17:04:44: Arquivo encontrado: "Media\Img\Tile.bmp"
+22/4/2004 17:04:44: Arquivo encontrado: "Media\Img\Bomberman.bmp"
+22/4/2004 17:04:44: Arquivo encontrado: "Media\Img\Background.bmp"
+22/4/2004 17:04:44: Arquivo encontrado: "Colors.bmp"
+22/4/2004 17:04:44: Chamando: "TApplication.Run"
+22/4/2004 17:04:44: Ocorreu um erro dentro de: "List index out of bounds (1)"
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:06:06: Objeto da classe TApplication criado.
+22/4/2004 17:06:06: Objeto da classe TWindow criado.
+22/4/2004 17:06:06: Chamando função: TWindow.Run
+22/4/2004 17:06:07: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:06:07: Objeto da classe TInput criado.
+22/4/2004 17:06:07: Chamando função: TInput.Run
+22/4/2004 17:06:07: Objeto da classe TGraphics criado.
+22/4/2004 17:06:07: Chamando função: TGraphics.Run
+22/4/2004 17:06:07: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:04:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:04:44: Arquivo encontrado: Colors.bmp
+22/4/2004 17:04:44: Chamando função: TApplication.Run
+22/4/2004 17:04:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:13:08: Objeto da classe TApplication criado.
+22/4/2004 17:13:08: Objeto da classe TWindow criado.
+22/4/2004 17:13:08: Chamando função: TWindow.Run
+22/4/2004 17:13:08: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:13:08: Objeto da classe TInput criado.
+22/4/2004 17:13:08: Chamando função: TInput.Run
+22/4/2004 17:13:09: Objeto da classe TGraphics criado.
+22/4/2004 17:13:09: Chamando função: TGraphics.Run
+22/4/2004 17:13:09: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:13:28: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:13:28: Arquivo encontrado: Colors.bmp
+22/4/2004 17:13:28: Chamando função: TApplication.Run
+22/4/2004 17:13:28: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:16:25: Objeto da classe TApplication criado.
+22/4/2004 17:16:25: Objeto da classe TWindow criado.
+22/4/2004 17:16:25: Chamando função: TWindow.Run
+22/4/2004 17:16:25: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:16:25: Objeto da classe TInput criado.
+22/4/2004 17:16:25: Chamando função: TInput.Run
+22/4/2004 17:16:25: Objeto da classe TGraphics criado.
+22/4/2004 17:16:25: Chamando função: TGraphics.Run
+22/4/2004 17:16:25: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:13:28: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:13:28: Arquivo encontrado: Colors.bmp
+22/4/2004 17:13:28: Chamando função: TApplication.Run
+22/4/2004 17:13:28: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:18:01: Objeto da classe TApplication criado.
+22/4/2004 17:18:01: Objeto da classe TWindow criado.
+22/4/2004 17:18:01: Chamando função: TWindow.Run
+22/4/2004 17:18:01: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:18:01: Objeto da classe TInput criado.
+22/4/2004 17:18:01: Chamando função: TInput.Run
+22/4/2004 17:18:01: Objeto da classe TGraphics criado.
+22/4/2004 17:18:01: Chamando função: TGraphics.Run
+22/4/2004 17:18:01: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:22:12: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:22:12: Arquivo encontrado: Colors.bmp
+22/4/2004 17:22:12: Chamando função: TApplication.Run
+22/4/2004 17:22:12: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:18:25: Objeto da classe TApplication criado.
+22/4/2004 17:18:25: Objeto da classe TWindow criado.
+22/4/2004 17:18:25: Chamando função: TWindow.Run
+22/4/2004 17:18:25: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:18:25: Objeto da classe TInput criado.
+22/4/2004 17:18:25: Chamando função: TInput.Run
+22/4/2004 17:18:25: Objeto da classe TGraphics criado.
+22/4/2004 17:18:25: Chamando função: TGraphics.Run
+22/4/2004 17:18:25: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:22:12: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:22:12: Arquivo encontrado: Colors.bmp
+22/4/2004 17:22:12: Chamando função: TApplication.Run
+22/4/2004 17:22:12: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:21:54: Objeto da classe TApplication criado.
+22/4/2004 17:21:54: Objeto da classe TWindow criado.
+22/4/2004 17:21:54: Chamando função: TWindow.Run
+22/4/2004 17:21:54: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:21:54: Objeto da classe TInput criado.
+22/4/2004 17:21:54: Chamando função: TInput.Run
+22/4/2004 17:21:54: Objeto da classe TGraphics criado.
+22/4/2004 17:21:54: Chamando função: TGraphics.Run
+22/4/2004 17:21:54: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:22:12: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:22:12: Arquivo encontrado: Colors.bmp
+22/4/2004 17:22:12: Chamando função: TApplication.Run
+22/4/2004 17:22:12: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:23:53: Objeto da classe TApplication criado.
+22/4/2004 17:23:53: Objeto da classe TWindow criado.
+22/4/2004 17:23:53: Chamando função: TWindow.Run
+22/4/2004 17:23:53: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:23:53: Objeto da classe TInput criado.
+22/4/2004 17:23:53: Chamando função: TInput.Run
+22/4/2004 17:23:53: Objeto da classe TGraphics criado.
+22/4/2004 17:23:53: Chamando função: TGraphics.Run
+22/4/2004 17:23:54: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:26:34: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:26:34: Arquivo encontrado: Colors.bmp
+22/4/2004 17:26:34: Chamando função: TApplication.Run
+22/4/2004 17:26:34: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:26:39: Objeto da classe TApplication criado.
+22/4/2004 17:26:39: Objeto da classe TWindow criado.
+22/4/2004 17:26:39: Chamando função: TWindow.Run
+22/4/2004 17:26:39: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:26:39: Objeto da classe TInput criado.
+22/4/2004 17:26:39: Chamando função: TInput.Run
+22/4/2004 17:26:39: Objeto da classe TGraphics criado.
+22/4/2004 17:26:39: Chamando função: TGraphics.Run
+22/4/2004 17:26:39: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:26:34: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:26:34: Arquivo encontrado: Colors.bmp
+22/4/2004 17:26:34: Chamando função: TApplication.Run
+22/4/2004 17:26:34: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:35:54: Objeto da classe TApplication criado.
+22/4/2004 17:35:54: Objeto da classe TWindow criado.
+22/4/2004 17:35:54: Chamando função: TWindow.Run
+22/4/2004 17:35:54: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:35:54: Objeto da classe TInput criado.
+22/4/2004 17:35:54: Chamando função: TInput.Run
+22/4/2004 17:35:54: Objeto da classe TGraphics criado.
+22/4/2004 17:35:54: Chamando função: TGraphics.Run
+22/4/2004 17:35:54: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:35:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:35:19: Arquivo encontrado: Colors.bmp
+22/4/2004 17:35:19: Chamando função: TApplication.Run
+22/4/2004 17:35:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:45:27: Objeto da classe TApplication criado.
+22/4/2004 17:45:27: Objeto da classe TWindow criado.
+22/4/2004 17:45:27: Chamando função: TWindow.Run
+22/4/2004 17:45:27: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:45:27: Objeto da classe TInput criado.
+22/4/2004 17:45:27: Chamando função: TInput.Run
+22/4/2004 17:45:27: Objeto da classe TGraphics criado.
+22/4/2004 17:45:27: Chamando função: TGraphics.Run
+22/4/2004 17:45:27: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:44:03: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:44:03: Arquivo encontrado: Colors.bmp
+22/4/2004 17:44:03: Chamando função: TApplication.Run
+22/4/2004 17:44:03: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:46:04: Objeto da classe TApplication criado.
+22/4/2004 17:46:04: Objeto da classe TWindow criado.
+22/4/2004 17:46:04: Chamando função: TWindow.Run
+22/4/2004 17:46:04: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:46:04: Objeto da classe TGraphics criado.
+22/4/2004 17:46:04: Chamando função: TGraphics.Run
+22/4/2004 17:46:04: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:48:25: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:48:25: Arquivo encontrado: Colors.bmp
+22/4/2004 17:48:25: Chamando função: TApplication.Run
+22/4/2004 17:48:25: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:47:04: Objeto da classe TApplication criado.
+22/4/2004 17:47:04: Objeto da classe TWindow criado.
+22/4/2004 17:47:04: Chamando função: TWindow.Run
+22/4/2004 17:47:04: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:47:04: Objeto da classe TGraphics criado.
+22/4/2004 17:47:04: Chamando função: TGraphics.Run
+22/4/2004 17:47:04: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:48:25: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:48:25: Arquivo encontrado: Colors.bmp
+22/4/2004 17:48:25: Chamando função: TApplication.Run
+22/4/2004 17:48:25: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 17:50:26: Objeto da classe TApplication criado.
+22/4/2004 17:50:26: Objeto da classe TWindow criado.
+22/4/2004 17:50:26: Chamando função: TWindow.Run
+22/4/2004 17:50:26: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 17:50:26: Objeto da classe TGraphics criado.
+22/4/2004 17:50:26: Chamando função: TGraphics.Run
+22/4/2004 17:50:26: Objeto da classe IDirect3D8 criado.
+22/4/2004 17:48:25: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 17:48:25: Arquivo encontrado: Colors.bmp
+22/4/2004 17:48:25: Chamando função: TApplication.Run
+22/4/2004 17:48:25: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:08:23: Objeto da classe TApplication criado.
+22/4/2004 18:08:23: Objeto da classe TWindow criado.
+22/4/2004 18:08:23: Chamando função: TWindow.Run
+22/4/2004 18:08:23: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:08:23: Objeto da classe TGraphics criado.
+22/4/2004 18:08:23: Chamando função: TGraphics.Run
+22/4/2004 18:08:24: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:05:54: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:05:54: Arquivo encontrado: Colors.bmp
+22/4/2004 18:05:54: Chamando função: TApplication.Run
+22/4/2004 18:05:54: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:09:19: Objeto da classe TApplication criado.
+22/4/2004 18:09:19: Objeto da classe TWindow criado.
+22/4/2004 18:09:19: Chamando função: TWindow.Run
+22/4/2004 18:09:19: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:09:19: Objeto da classe TGraphics criado.
+22/4/2004 18:09:19: Chamando função: TGraphics.Run
+22/4/2004 18:09:19: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:10:16: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:10:16: Arquivo encontrado: Colors.bmp
+22/4/2004 18:10:16: Chamando função: TApplication.Run
+22/4/2004 18:10:16: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:18:21: Objeto da classe TApplication criado.
+22/4/2004 18:18:21: Objeto da classe TWindow criado.
+22/4/2004 18:18:21: Chamando função: TWindow.Run
+22/4/2004 18:18:21: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:18:21: Objeto da classe TGraphics criado.
+22/4/2004 18:18:21: Chamando função: TGraphics.Run
+22/4/2004 18:18:21: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:19:00: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:19:00: Arquivo encontrado: Colors.bmp
+22/4/2004 18:19:00: Chamando função: TApplication.Run
+22/4/2004 18:19:00: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:22:44: Objeto da classe TApplication criado.
+22/4/2004 18:22:44: Objeto da classe TWindow criado.
+22/4/2004 18:22:44: Chamando função: TWindow.Run
+22/4/2004 18:22:44: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:22:44: Objeto da classe TGraphics criado.
+22/4/2004 18:22:44: Chamando função: TGraphics.Run
+22/4/2004 18:22:44: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:23:22: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:23:22: Arquivo encontrado: Colors.bmp
+22/4/2004 18:23:22: Chamando função: TApplication.Run
+22/4/2004 18:23:22: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:23:27: Objeto da classe TApplication criado.
+22/4/2004 18:23:27: Objeto da classe TWindow criado.
+22/4/2004 18:23:27: Chamando função: TWindow.Run
+22/4/2004 18:23:27: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:23:27: Objeto da classe TGraphics criado.
+22/4/2004 18:23:27: Chamando função: TGraphics.Run
+22/4/2004 18:23:27: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:23:22: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:23:22: Arquivo encontrado: Colors.bmp
+22/4/2004 18:23:22: Chamando função: TApplication.Run
+22/4/2004 18:23:22: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:24:51: Objeto da classe TApplication criado.
+22/4/2004 18:24:51: Objeto da classe TWindow criado.
+22/4/2004 18:24:51: Chamando função: TWindow.Run
+22/4/2004 18:24:51: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:24:51: Objeto da classe TGraphics criado.
+22/4/2004 18:24:51: Chamando função: TGraphics.Run
+22/4/2004 18:24:51: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:23:22: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:23:22: Arquivo encontrado: Colors.bmp
+22/4/2004 18:23:22: Chamando função: TApplication.Run
+22/4/2004 18:23:22: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:25:37: Objeto da classe TApplication criado.
+22/4/2004 18:25:37: Objeto da classe TWindow criado.
+22/4/2004 18:25:37: Chamando função: TWindow.Run
+22/4/2004 18:25:37: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:25:37: Objeto da classe TGraphics criado.
+22/4/2004 18:25:37: Chamando função: TGraphics.Run
+22/4/2004 18:25:37: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:27:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:27:44: Arquivo encontrado: Colors.bmp
+22/4/2004 18:27:44: Chamando função: TApplication.Run
+22/4/2004 18:27:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:25:49: Objeto da classe TApplication criado.
+22/4/2004 18:25:49: Objeto da classe TWindow criado.
+22/4/2004 18:25:49: Chamando função: TWindow.Run
+22/4/2004 18:25:49: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:25:49: Objeto da classe TGraphics criado.
+22/4/2004 18:25:49: Chamando função: TGraphics.Run
+22/4/2004 18:25:49: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:27:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:27:44: Arquivo encontrado: Colors.bmp
+22/4/2004 18:27:44: Chamando função: TApplication.Run
+22/4/2004 18:27:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:26:39: Objeto da classe TApplication criado.
+22/4/2004 18:26:39: Objeto da classe TWindow criado.
+22/4/2004 18:26:39: Chamando função: TWindow.Run
+22/4/2004 18:26:39: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:26:39: Objeto da classe TGraphics criado.
+22/4/2004 18:26:39: Chamando função: TGraphics.Run
+22/4/2004 18:26:39: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:27:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:27:44: Arquivo encontrado: Colors.bmp
+22/4/2004 18:27:44: Chamando função: TApplication.Run
+22/4/2004 18:27:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:27:04: Objeto da classe TApplication criado.
+22/4/2004 18:27:04: Objeto da classe TWindow criado.
+22/4/2004 18:27:04: Chamando função: TWindow.Run
+22/4/2004 18:27:04: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:27:04: Objeto da classe TGraphics criado.
+22/4/2004 18:27:04: Chamando função: TGraphics.Run
+22/4/2004 18:27:04: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:27:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:27:44: Arquivo encontrado: Colors.bmp
+22/4/2004 18:27:44: Chamando função: TApplication.Run
+22/4/2004 18:27:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:28:58: Objeto da classe TApplication criado.
+22/4/2004 18:28:58: Objeto da classe TWindow criado.
+22/4/2004 18:28:58: Chamando função: TWindow.Run
+22/4/2004 18:28:58: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:28:58: Objeto da classe TGraphics criado.
+22/4/2004 18:28:58: Chamando função: TGraphics.Run
+22/4/2004 18:28:58: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:27:44: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:27:44: Arquivo encontrado: Colors.bmp
+22/4/2004 18:27:44: Chamando função: TApplication.Run
+22/4/2004 18:27:44: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:31:03: Objeto da classe TApplication criado.
+22/4/2004 18:31:03: Objeto da classe TWindow criado.
+22/4/2004 18:31:03: Chamando função: TWindow.Run
+22/4/2004 18:31:03: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:31:03: Objeto da classe TGraphics criado.
+22/4/2004 18:31:03: Chamando função: TGraphics.Run
+22/4/2004 18:31:03: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:32:06: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:32:06: Arquivo encontrado: Colors.bmp
+22/4/2004 18:32:06: Chamando função: TApplication.Run
+22/4/2004 18:32:06: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:32:24: Objeto da classe TApplication criado.
+22/4/2004 18:32:24: Objeto da classe TWindow criado.
+22/4/2004 18:32:24: Chamando função: TWindow.Run
+22/4/2004 18:32:24: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:32:24: Objeto da classe TGraphics criado.
+22/4/2004 18:32:24: Chamando função: TGraphics.Run
+22/4/2004 18:32:24: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:32:06: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:32:06: Arquivo encontrado: Colors.bmp
+22/4/2004 18:32:06: Chamando função: TApplication.Run
+22/4/2004 18:32:06: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:34:24: Objeto da classe TApplication criado.
+22/4/2004 18:34:24: Objeto da classe TWindow criado.
+22/4/2004 18:34:24: Chamando função: TWindow.Run
+22/4/2004 18:34:24: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:34:24: Objeto da classe TGraphics criado.
+22/4/2004 18:34:24: Chamando função: TGraphics.Run
+22/4/2004 18:34:24: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:32:06: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:32:06: Arquivo encontrado: Colors.bmp
+22/4/2004 18:32:06: Chamando função: TApplication.Run
+22/4/2004 18:32:06: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:35:57: Objeto da classe TApplication criado.
+22/4/2004 18:35:57: Objeto da classe TWindow criado.
+22/4/2004 18:35:57: Chamando função: TWindow.Run
+22/4/2004 18:35:57: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:35:57: Objeto da classe TGraphics criado.
+22/4/2004 18:35:57: Chamando função: TGraphics.Run
+22/4/2004 18:35:57: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:32:06: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:32:06: Arquivo encontrado: Colors.bmp
+22/4/2004 18:32:06: Chamando função: TApplication.Run
+22/4/2004 18:32:06: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:38:08: Objeto da classe TApplication criado.
+22/4/2004 18:38:08: Objeto da classe TWindow criado.
+22/4/2004 18:38:08: Chamando função: TWindow.Run
+22/4/2004 18:38:09: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:38:09: Objeto da classe TGraphics criado.
+22/4/2004 18:38:09: Chamando função: TGraphics.Run
+22/4/2004 18:38:09: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:40:51: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:40:51: Arquivo encontrado: Colors.bmp
+22/4/2004 18:40:51: Chamando função: TApplication.Run
+22/4/2004 18:40:51: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:38:31: Objeto da classe TApplication criado.
+22/4/2004 18:38:31: Objeto da classe TWindow criado.
+22/4/2004 18:38:31: Chamando função: TWindow.Run
+22/4/2004 18:38:31: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:38:31: Objeto da classe TGraphics criado.
+22/4/2004 18:38:31: Chamando função: TGraphics.Run
+22/4/2004 18:38:31: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:40:51: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:40:51: Arquivo encontrado: Colors.bmp
+22/4/2004 18:40:51: Chamando função: TApplication.Run
+22/4/2004 18:40:51: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:38:46: Objeto da classe TApplication criado.
+22/4/2004 18:38:46: Objeto da classe TWindow criado.
+22/4/2004 18:38:46: Chamando função: TWindow.Run
+22/4/2004 18:38:46: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:38:46: Objeto da classe TGraphics criado.
+22/4/2004 18:38:46: Chamando função: TGraphics.Run
+22/4/2004 18:38:46: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:40:51: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:40:51: Arquivo encontrado: Colors.bmp
+22/4/2004 18:40:51: Chamando função: TApplication.Run
+22/4/2004 18:40:51: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:40:26: Objeto da classe TApplication criado.
+22/4/2004 18:40:26: Objeto da classe TWindow criado.
+22/4/2004 18:40:26: Chamando função: TWindow.Run
+22/4/2004 18:40:26: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:40:26: Objeto da classe TGraphics criado.
+22/4/2004 18:40:26: Chamando função: TGraphics.Run
+22/4/2004 18:40:27: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:40:51: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:40:51: Arquivo encontrado: Colors.bmp
+22/4/2004 18:40:51: Chamando função: TApplication.Run
+22/4/2004 18:40:51: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:41:13: Objeto da classe TApplication criado.
+22/4/2004 18:41:13: Objeto da classe TWindow criado.
+22/4/2004 18:41:13: Chamando função: TWindow.Run
+22/4/2004 18:41:14: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:41:14: Objeto da classe TGraphics criado.
+22/4/2004 18:41:14: Chamando função: TGraphics.Run
+22/4/2004 18:41:14: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:40:51: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:40:51: Arquivo encontrado: Colors.bmp
+22/4/2004 18:40:51: Chamando função: TApplication.Run
+22/4/2004 18:40:51: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:45:45: Objeto da classe TApplication criado.
+22/4/2004 18:45:45: Objeto da classe TWindow criado.
+22/4/2004 18:45:45: Chamando função: TWindow.Run
+22/4/2004 18:45:45: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:45:45: Objeto da classe TGraphics criado.
+22/4/2004 18:45:45: Chamando função: TGraphics.Run
+22/4/2004 18:45:45: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:45:13: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:45:13: Arquivo encontrado: Colors.bmp
+22/4/2004 18:45:13: Chamando função: TApplication.Run
+22/4/2004 18:45:13: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:47:07: Objeto da classe TApplication criado.
+22/4/2004 18:47:07: Objeto da classe TWindow criado.
+22/4/2004 18:47:07: Chamando função: TWindow.Run
+22/4/2004 18:47:07: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:47:07: Objeto da classe TGraphics criado.
+22/4/2004 18:47:07: Chamando função: TGraphics.Run
+22/4/2004 18:47:07: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:45:13: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:45:13: Arquivo encontrado: Colors.bmp
+22/4/2004 18:45:13: Chamando função: TApplication.Run
+22/4/2004 18:45:13: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:49:03: Objeto da classe TApplication criado.
+22/4/2004 18:49:03: Objeto da classe TWindow criado.
+22/4/2004 18:49:03: Chamando função: TWindow.Run
+22/4/2004 18:49:03: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:49:03: Objeto da classe TGraphics criado.
+22/4/2004 18:49:03: Chamando função: TGraphics.Run
+22/4/2004 18:49:03: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:49:35: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:49:35: Arquivo encontrado: Colors.bmp
+22/4/2004 18:49:35: Chamando função: TApplication.Run
+22/4/2004 18:49:35: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:50:00: Objeto da classe TApplication criado.
+22/4/2004 18:50:00: Objeto da classe TWindow criado.
+22/4/2004 18:50:00: Chamando função: TWindow.Run
+22/4/2004 18:50:00: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:50:00: Objeto da classe TGraphics criado.
+22/4/2004 18:50:00: Chamando função: TGraphics.Run
+22/4/2004 18:50:00: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:49:35: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:49:35: Arquivo encontrado: Colors.bmp
+22/4/2004 18:49:35: Chamando função: TApplication.Run
+22/4/2004 18:49:35: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:51:50: Objeto da classe TApplication criado.
+22/4/2004 18:51:50: Objeto da classe TWindow criado.
+22/4/2004 18:51:50: Chamando função: TWindow.Run
+22/4/2004 18:51:50: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:51:50: Objeto da classe TGraphics criado.
+22/4/2004 18:51:50: Chamando função: TGraphics.Run
+22/4/2004 18:51:50: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:49:35: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:49:35: Arquivo encontrado: Colors.bmp
+22/4/2004 18:49:35: Chamando função: TApplication.Run
+22/4/2004 18:49:35: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:52:11: Objeto da classe TApplication criado.
+22/4/2004 18:52:11: Objeto da classe TWindow criado.
+22/4/2004 18:52:11: Chamando função: TWindow.Run
+22/4/2004 18:52:11: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:52:11: Objeto da classe TGraphics criado.
+22/4/2004 18:52:11: Chamando função: TGraphics.Run
+22/4/2004 18:52:11: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:49:35: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:49:35: Arquivo encontrado: Colors.bmp
+22/4/2004 18:49:35: Chamando função: TApplication.Run
+22/4/2004 18:49:35: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:53:48: Objeto da classe TApplication criado.
+22/4/2004 18:53:48: Objeto da classe TWindow criado.
+22/4/2004 18:53:48: Chamando função: TWindow.Run
+22/4/2004 18:53:48: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:53:48: Objeto da classe TGraphics criado.
+22/4/2004 18:53:48: Chamando função: TGraphics.Run
+22/4/2004 18:53:48: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:58:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:58:19: Arquivo encontrado: Colors.bmp
+22/4/2004 18:58:19: Chamando função: TApplication.Run
+22/4/2004 18:58:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:54:16: Objeto da classe TApplication criado.
+22/4/2004 18:54:16: Objeto da classe TWindow criado.
+22/4/2004 18:54:16: Chamando função: TWindow.Run
+22/4/2004 18:54:16: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:54:16: Objeto da classe TGraphics criado.
+22/4/2004 18:54:16: Chamando função: TGraphics.Run
+22/4/2004 18:54:16: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:58:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:58:19: Arquivo encontrado: Colors.bmp
+22/4/2004 18:58:19: Chamando função: TApplication.Run
+22/4/2004 18:58:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:55:16: Objeto da classe TApplication criado.
+22/4/2004 18:55:16: Objeto da classe TWindow criado.
+22/4/2004 18:55:16: Chamando função: TWindow.Run
+22/4/2004 18:55:16: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:55:16: Objeto da classe TGraphics criado.
+22/4/2004 18:55:16: Chamando função: TGraphics.Run
+22/4/2004 18:55:16: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:58:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:58:19: Arquivo encontrado: Colors.bmp
+22/4/2004 18:58:19: Chamando função: TApplication.Run
+22/4/2004 18:58:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:55:35: Objeto da classe TApplication criado.
+22/4/2004 18:55:35: Objeto da classe TWindow criado.
+22/4/2004 18:55:35: Chamando função: TWindow.Run
+22/4/2004 18:55:35: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:55:35: Objeto da classe TGraphics criado.
+22/4/2004 18:55:35: Chamando função: TGraphics.Run
+22/4/2004 18:55:35: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:58:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:58:19: Arquivo encontrado: Colors.bmp
+22/4/2004 18:58:19: Chamando função: TApplication.Run
+22/4/2004 18:58:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:56:08: Objeto da classe TApplication criado.
+22/4/2004 18:56:08: Objeto da classe TWindow criado.
+22/4/2004 18:56:08: Chamando função: TWindow.Run
+22/4/2004 18:56:08: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:56:08: Objeto da classe TGraphics criado.
+22/4/2004 18:56:08: Chamando função: TGraphics.Run
+22/4/2004 18:56:08: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:58:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:58:19: Arquivo encontrado: Colors.bmp
+22/4/2004 18:58:19: Chamando função: TApplication.Run
+22/4/2004 18:58:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 18:56:33: Objeto da classe TApplication criado.
+22/4/2004 18:56:33: Objeto da classe TWindow criado.
+22/4/2004 18:56:33: Chamando função: TWindow.Run
+22/4/2004 18:56:33: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 18:56:33: Objeto da classe TGraphics criado.
+22/4/2004 18:56:33: Chamando função: TGraphics.Run
+22/4/2004 18:56:33: Objeto da classe IDirect3D8 criado.
+22/4/2004 18:58:19: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 18:58:19: Arquivo encontrado: Colors.bmp
+22/4/2004 18:58:19: Chamando função: TApplication.Run
+22/4/2004 18:58:19: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 19:32:12: Objeto da classe TApplication criado.
+22/4/2004 19:32:12: Objeto da classe TWindow criado.
+22/4/2004 19:32:12: Chamando função: TWindow.Run
+22/4/2004 19:32:12: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 19:32:12: Objeto da classe TGraphics criado.
+22/4/2004 19:32:12: Chamando função: TGraphics.Run
+22/4/2004 19:32:13: Objeto da classe IDirect3D8 criado.
+22/4/2004 19:28:54: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 19:28:54: Arquivo encontrado: Colors.bmp
+22/4/2004 19:28:54: Chamando função: TApplication.Run
+22/4/2004 19:28:54: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 19:34:39: Objeto da classe TApplication criado.
+22/4/2004 19:34:39: Objeto da classe TWindow criado.
+22/4/2004 19:34:39: Chamando função: TWindow.Run
+22/4/2004 19:34:39: [Janela] :: Posição: 80x79. Resolução: 643x483. Título: Mapa - XBomber
+22/4/2004 19:34:39: Objeto da classe TGraphics criado.
+22/4/2004 19:34:39: Chamando função: TGraphics.Run
+22/4/2004 19:34:39: Objeto da classe IDirect3D8 criado.
+22/4/2004 19:37:39: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 19:37:39: Arquivo encontrado: Media\Img\Tile.bmp
+22/4/2004 19:37:39: Arquivo encontrado: Media\Img\Bomberman.bmp
+22/4/2004 19:37:39: Arquivo encontrado: Media\Img\Background.bmp
+22/4/2004 19:37:39: Arquivo encontrado: Colors.bmp
+22/4/2004 19:37:39: Chamando função: TApplication.Run
+22/4/2004 19:37:39: [Aplicação] :: Arquivo: Editor.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 19:52:33: Objeto da classe TApplication criado.
+22/4/2004 19:52:33: Objeto da classe TWindow criado.
+22/4/2004 19:52:33: Chamando função: TWindow.Run
+22/4/2004 19:52:33: [Janela] :: Posição: 80x79. Resolução: 643x483. Título: Mapa - XBomber
+22/4/2004 19:52:33: Objeto da classe TGraphics criado.
+22/4/2004 19:52:33: Chamando função: TGraphics.Run
+22/4/2004 19:52:33: Objeto da classe IDirect3D8 criado.
+22/4/2004 19:50:45: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 19:50:45: Arquivo encontrado: Media\Img\Tile.bmp
+22/4/2004 19:50:45: Arquivo encontrado: Media\Img\Bomberman.bmp
+22/4/2004 19:50:45: Arquivo encontrado: Media\Img\Background.bmp
+22/4/2004 19:50:45: Arquivo encontrado: Colors.bmp
+22/4/2004 19:50:45: Chamando função: TApplication.Run
+22/4/2004 19:50:45: [Aplicação] :: Arquivo: Editor.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/4/2004 19:53:01: Objeto da classe TApplication criado.
+22/4/2004 19:53:01: Objeto da classe TWindow criado.
+22/4/2004 19:53:01: Chamando função: TWindow.Run
+22/4/2004 19:53:01: [Janela] :: Posição: 80x60. Resolução: 643x483. Título: Window IskaTreK
+22/4/2004 19:53:01: Objeto da classe TGraphics criado.
+22/4/2004 19:53:01: Chamando função: TGraphics.Run
+22/4/2004 19:53:01: Objeto da classe IDirect3D8 criado.
+22/4/2004 19:50:45: Objeto da classe IDirect3DDevice8 criado.
+22/4/2004 19:50:45: Arquivo encontrado: Colors.bmp
+22/4/2004 19:50:45: Chamando função: TApplication.Run
+22/4/2004 19:50:45: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+4/5/2004 21:47:18: Objeto da classe TApplication criado.
+4/5/2004 21:47:18: Objeto da classe TWindow criado.
+4/5/2004 21:47:18: Chamando função: TWindow.Run
+4/5/2004 21:47:18: [Janela] :: Posição: 80x79. Resolução: 643x483. Título: Mapa - XBomber
+4/5/2004 21:47:18: Objeto da classe TGraphics criado.
+4/5/2004 21:47:18: Chamando função: TGraphics.Run
+4/5/2004 21:47:18: Objeto da classe IDirect3D8 criado.
+4/5/2004 21:44:00: Objeto da classe IDirect3DDevice8 criado.
+4/5/2004 21:44:00: Arquivo encontrado: Media\Img\Tile.bmp
+4/5/2004 21:44:00: Arquivo encontrado: Media\Img\Bomberman.bmp
+4/5/2004 21:44:00: Arquivo encontrado: Media\Img\Background.bmp
+4/5/2004 21:44:00: Arquivo encontrado: Colors.bmp
+4/5/2004 21:44:00: Chamando função: TApplication.Run
+4/5/2004 21:44:00: [Aplicação] :: Arquivo: Editor.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/12/2007 8:51:52 PM: Objeto da classe TApplication criado.
+22/12/2007 8:51:52 PM: Objeto da classe TWindow criado.
+22/12/2007 8:51:52 PM: Chamando função: TWindow.Run
+22/12/2007 8:51:52 PM: [Janela] :: Posição: 192x144. Resolução: 643x483. Título: Window IskaTreK
+22/12/2007 8:51:52 PM: Objeto da classe TGraphics criado.
+22/12/2007 8:51:52 PM: Chamando função: TGraphics.Run
+22/12/2007 8:51:52 PM: Objeto da classe IDirect3D8 criado.
+22/12/2007 8:52:47 PM: Arquivo encontrado: Colors.bmp
+22/12/2007 8:52:47 PM: Chamando função: TApplication.Run
+22/12/2007 8:52:47 PM: [Aplicação] :: Arquivo: brEngine.exe
+-----------------------------------------------------------------
+------------ Powered by IskaTreK - Copyright(c) 2004 ------------
+22/12/2007 8:52:03 PM: Objeto da classe TApplication criado.
+22/12/2007 8:52:03 PM: Objeto da classe TWindow criado.
+22/12/2007 8:52:03 PM: Chamando função: TWindow.Run
+22/12/2007 8:52:03 PM: [Janela] :: Posição: 192x163. Resolução: 643x483. Título: Mapa - XBomber
+22/12/2007 8:52:03 PM: Objeto da classe TGraphics criado.
+22/12/2007 8:52:03 PM: Chamando função: TGraphics.Run
+22/12/2007 8:52:03 PM: Objeto da classe IDirect3D8 criado.
+22/12/2007 8:52:47 PM: Arquivo encontrado: Media\Img\Tile.bmp
+22/12/2007 8:52:47 PM: Arquivo encontrado: Media\Img\Bomberman.bmp
+22/12/2007 8:52:47 PM: Arquivo encontrado: Media\Img\Background.bmp
+22/12/2007 8:52:47 PM: Arquivo encontrado: Colors.bmp
+22/12/2007 8:52:47 PM: Chamando função: TApplication.Run
+22/12/2007 8:52:47 PM: [Aplicação] :: Arquivo: Editor.exe

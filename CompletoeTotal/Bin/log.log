@@ -1,0 +1,2365 @@
+28/3/2004 17:56:26: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 17:56:26: Chamando: [TApplication.Create]
+28/3/2004 17:56:26: TApplication criado com sucesso.
+28/3/2004 17:56:26: Chamando: [TSoundList.Create]
+28/3/2004 17:56:26: TSoundList criado com sucesso.
+28/3/2004 17:56:28: Chamando: [TWindow.Create]
+28/3/2004 17:56:28: Resolução da janela: 640x480.
+28/3/2004 17:56:28: Chamando: [TWindow.Run]
+28/3/2004 17:56:28: Classe TWindow registrada com sucesso.
+28/3/2004 17:56:29: TWindow instanciado com sucesso.
+28/3/2004 17:56:29: Arquivo encontrado: Sound.wav
+28/3/2004 17:56:29: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 17:56:29: Arquivo encontrado: explode2.wav
+28/3/2004 17:56:29: Chamando: [TGraphics.Create]
+28/3/2004 17:56:29: TGraphics criado com sucesso.
+28/3/2004 17:56:29: Chamando: [TWindow.Create]
+28/3/2004 17:56:29: Direct3D8 criado com sucesso.
+28/3/2004 17:56:29: Adaptador de modo de display encontrado.
+28/3/2004 17:56:03: Chamando: [TWindow.Create]
+28/3/2004 17:59:46: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 17:59:46: Chamando: [TApplication.Create]
+28/3/2004 17:59:46: TApplication criado com sucesso.
+28/3/2004 17:59:46: Chamando: [TSoundList.Create]
+28/3/2004 17:59:46: TSoundList criado com sucesso.
+28/3/2004 17:59:48: Chamando: [TWindow.Create]
+28/3/2004 17:59:48: Resolução da janela: 640x480.
+28/3/2004 17:59:48: Chamando: [TWindow.Run]
+28/3/2004 17:59:48: Classe TWindow registrada com sucesso.
+28/3/2004 17:59:48: TWindow instanciado com sucesso.
+28/3/2004 17:59:48: Arquivo encontrado: Sound.wav
+28/3/2004 17:59:48: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 17:59:48: Arquivo encontrado: explode2.wav
+28/3/2004 17:59:48: Chamando: [TGraphics.Create]
+28/3/2004 17:59:48: TGraphics criado com sucesso.
+28/3/2004 17:59:48: Chamando: [TWindow.Create]
+28/3/2004 17:59:48: Direct3D8 criado com sucesso.
+28/3/2004 17:59:48: Adaptador de modo de display encontrado.
+28/3/2004 18:00:25: Chamando: [TWindow.Create]
+28/3/2004 18:00:51: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:00:51: Chamando: [TApplication.Create]
+28/3/2004 18:00:51: TApplication criado com sucesso.
+28/3/2004 18:00:51: Chamando: [TSoundList.Create]
+28/3/2004 18:00:51: TSoundList criado com sucesso.
+28/3/2004 18:00:53: Chamando: [TWindow.Create]
+28/3/2004 18:00:53: Resolução da janela: 640x480.
+28/3/2004 18:00:53: Chamando: [TWindow.Run]
+28/3/2004 18:00:53: Classe TWindow registrada com sucesso.
+28/3/2004 18:00:53: TWindow instanciado com sucesso.
+28/3/2004 18:00:53: Arquivo encontrado: Sound.wav
+28/3/2004 18:00:53: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:00:53: Arquivo encontrado: explode2.wav
+28/3/2004 18:00:53: Chamando: [TGraphics.Create]
+28/3/2004 18:00:53: TGraphics criado com sucesso.
+28/3/2004 18:00:53: Chamando: [TWindow.Create]
+28/3/2004 18:00:53: Direct3D8 criado com sucesso.
+28/3/2004 18:00:53: Adaptador de modo de display encontrado.
+28/3/2004 18:00:25: Chamando: [TWindow.Create]
+28/3/2004 18:02:22: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:02:22: Chamando: [TApplication.Create]
+28/3/2004 18:02:22: TApplication criado com sucesso.
+28/3/2004 18:02:22: Chamando: [TSoundList.Create]
+28/3/2004 18:02:22: TSoundList criado com sucesso.
+28/3/2004 18:02:24: Chamando: [TWindow.Create]
+28/3/2004 18:02:24: Resolução da janela: 640x480.
+28/3/2004 18:02:24: Chamando: [TWindow.Run]
+28/3/2004 18:02:24: Classe TWindow registrada com sucesso.
+28/3/2004 18:02:24: TWindow instanciado com sucesso.
+28/3/2004 18:02:24: Arquivo encontrado: Sound.wav
+28/3/2004 18:02:24: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:02:24: Arquivo encontrado: explode2.wav
+28/3/2004 18:02:24: Chamando: [TGraphics.Create]
+28/3/2004 18:02:24: TGraphics criado com sucesso.
+28/3/2004 18:02:24: Chamando: [TWindow.Create]
+28/3/2004 18:02:24: Direct3D8 criado com sucesso.
+28/3/2004 18:02:24: Adaptador de modo de display encontrado.
+28/3/2004 18:00:25: Chamando: [TWindow.Create]
+28/3/2004 18:03:18: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:03:18: Chamando: [TApplication.Create]
+28/3/2004 18:03:18: TApplication criado com sucesso.
+28/3/2004 18:03:18: Chamando: [TSoundList.Create]
+28/3/2004 18:03:18: TSoundList criado com sucesso.
+28/3/2004 18:03:20: Chamando: [TWindow.Create]
+28/3/2004 18:03:20: Resolução da janela: 640x480.
+28/3/2004 18:03:20: Chamando: [TWindow.Run]
+28/3/2004 18:03:20: Classe TWindow registrada com sucesso.
+28/3/2004 18:03:20: TWindow instanciado com sucesso.
+28/3/2004 18:03:20: Arquivo encontrado: Sound.wav
+28/3/2004 18:03:20: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:03:20: Arquivo encontrado: explode2.wav
+28/3/2004 18:03:20: Chamando: [TGraphics.Create]
+28/3/2004 18:03:20: TGraphics criado com sucesso.
+28/3/2004 18:03:20: Chamando: [TWindow.Create]
+28/3/2004 18:03:20: Direct3D8 criado com sucesso.
+28/3/2004 18:03:20: Adaptador de modo de display encontrado.
+28/3/2004 18:04:47: Chamando: [TWindow.Create]
+28/3/2004 18:04:31: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:04:31: Chamando: [TApplication.Create]
+28/3/2004 18:04:31: TApplication criado com sucesso.
+28/3/2004 18:04:31: Chamando: [TSoundList.Create]
+28/3/2004 18:04:31: TSoundList criado com sucesso.
+28/3/2004 18:04:33: Chamando: [TWindow.Create]
+28/3/2004 18:04:33: Resolução da janela: 640x480.
+28/3/2004 18:04:33: Chamando: [TWindow.Run]
+28/3/2004 18:04:33: Classe TWindow registrada com sucesso.
+28/3/2004 18:04:33: TWindow instanciado com sucesso.
+28/3/2004 18:04:33: Arquivo encontrado: Sound.wav
+28/3/2004 18:04:33: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:04:33: Arquivo encontrado: explode2.wav
+28/3/2004 18:04:33: Chamando: [TGraphics.Create]
+28/3/2004 18:04:33: TGraphics criado com sucesso.
+28/3/2004 18:04:33: Chamando: [TWindow.Create]
+28/3/2004 18:04:33: Direct3D8 criado com sucesso.
+28/3/2004 18:04:33: Adaptador de modo de display encontrado.
+28/3/2004 18:04:47: Chamando: [TWindow.Create]
+28/3/2004 18:06:48: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:06:48: Chamando: [TApplication.Create]
+28/3/2004 18:06:48: TApplication criado com sucesso.
+28/3/2004 18:06:48: Chamando: [TSoundList.Create]
+28/3/2004 18:06:48: TSoundList criado com sucesso.
+28/3/2004 18:06:50: Chamando: [TWindow.Create]
+28/3/2004 18:06:50: Resolução da janela: 640x480.
+28/3/2004 18:06:50: Chamando: [TWindow.Run]
+28/3/2004 18:06:50: Classe TWindow registrada com sucesso.
+28/3/2004 18:06:50: TWindow instanciado com sucesso.
+28/3/2004 18:06:50: Arquivo encontrado: Sound.wav
+28/3/2004 18:06:50: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:06:50: Arquivo encontrado: explode2.wav
+28/3/2004 18:06:51: Chamando: [TGraphics.Create]
+28/3/2004 18:06:51: TGraphics criado com sucesso.
+28/3/2004 18:06:51: Chamando: [TWindow.Create]
+28/3/2004 18:06:51: Direct3D8 criado com sucesso.
+28/3/2004 18:06:51: Adaptador de modo de display encontrado.
+28/3/2004 18:04:47: Chamando: [TWindow.Create]
+28/3/2004 18:07:50: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:07:50: Chamando: [TApplication.Create]
+28/3/2004 18:07:50: TApplication criado com sucesso.
+28/3/2004 18:07:50: Chamando: [TSoundList.Create]
+28/3/2004 18:07:50: TSoundList criado com sucesso.
+28/3/2004 18:07:52: Chamando: [TWindow.Create]
+28/3/2004 18:07:52: Resolução da janela: 640x480.
+28/3/2004 18:07:52: Chamando: [TWindow.Run]
+28/3/2004 18:07:52: Classe TWindow registrada com sucesso.
+28/3/2004 18:07:52: TWindow instanciado com sucesso.
+28/3/2004 18:07:52: Arquivo encontrado: Sound.wav
+28/3/2004 18:07:52: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:07:52: Arquivo encontrado: explode2.wav
+28/3/2004 18:07:52: Chamando: [TGraphics.Create]
+28/3/2004 18:07:52: TGraphics criado com sucesso.
+28/3/2004 18:07:52: Chamando: [TWindow.Create]
+28/3/2004 18:07:53: Direct3D8 criado com sucesso.
+28/3/2004 18:07:53: Adaptador de modo de display encontrado.
+28/3/2004 18:04:47: Chamando: [TWindow.Create]
+28/3/2004 18:09:24: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:09:24: Chamando: [TApplication.Create]
+28/3/2004 18:09:24: TApplication criado com sucesso.
+28/3/2004 18:09:24: Chamando: [TSoundList.Create]
+28/3/2004 18:09:24: TSoundList criado com sucesso.
+28/3/2004 18:09:26: Chamando: [TWindow.Create]
+28/3/2004 18:09:26: Resolução da janela: 640x480.
+28/3/2004 18:09:26: Chamando: [TWindow.Run]
+28/3/2004 18:09:26: Classe TWindow registrada com sucesso.
+28/3/2004 18:09:26: TWindow instanciado com sucesso.
+28/3/2004 18:09:26: Arquivo encontrado: Sound.wav
+28/3/2004 18:09:26: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:09:26: Arquivo encontrado: explode2.wav
+28/3/2004 18:09:26: Chamando: [TGraphics.Create]
+28/3/2004 18:09:26: TGraphics criado com sucesso.
+28/3/2004 18:09:26: Chamando: [TWindow.Create]
+28/3/2004 18:09:26: Direct3D8 criado com sucesso.
+28/3/2004 18:09:26: Adaptador de modo de display encontrado.
+28/3/2004 18:09:09: Chamando: [TWindow.Create]
+28/3/2004 18:10:54: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:10:54: Chamando: [TApplication.Create]
+28/3/2004 18:10:54: TApplication criado com sucesso.
+28/3/2004 18:10:54: Chamando: [TSoundList.Create]
+28/3/2004 18:10:54: TSoundList criado com sucesso.
+28/3/2004 18:10:56: Chamando: [TWindow.Create]
+28/3/2004 18:10:56: Resolução da janela: 640x480.
+28/3/2004 18:10:56: Chamando: [TWindow.Run]
+28/3/2004 18:10:56: Classe TWindow registrada com sucesso.
+28/3/2004 18:10:56: TWindow instanciado com sucesso.
+28/3/2004 18:10:56: Arquivo encontrado: Sound.wav
+28/3/2004 18:10:56: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:10:56: Arquivo encontrado: explode2.wav
+28/3/2004 18:10:56: Chamando: [TGraphics.Create]
+28/3/2004 18:10:56: TGraphics criado com sucesso.
+28/3/2004 18:10:56: Chamando: [TWindow.Create]
+28/3/2004 18:10:56: Direct3D8 criado com sucesso.
+28/3/2004 18:10:56: Adaptador de modo de display encontrado.
+28/3/2004 18:09:09: Chamando: [TWindow.Create]
+28/3/2004 18:12:21: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:12:21: Chamando: [TApplication.Create]
+28/3/2004 18:12:21: TApplication criado com sucesso.
+28/3/2004 18:12:21: Chamando: [TSoundList.Create]
+28/3/2004 18:12:21: TSoundList criado com sucesso.
+28/3/2004 18:12:23: Chamando: [TWindow.Create]
+28/3/2004 18:12:23: Resolução da janela: 640x480.
+28/3/2004 18:12:23: Chamando: [TWindow.Run]
+28/3/2004 18:12:23: Classe TWindow registrada com sucesso.
+28/3/2004 18:12:23: TWindow instanciado com sucesso.
+28/3/2004 18:12:23: Arquivo encontrado: Sound.wav
+28/3/2004 18:12:23: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:12:23: Arquivo encontrado: explode2.wav
+28/3/2004 18:12:23: Chamando: [TGraphics.Create]
+28/3/2004 18:12:23: TGraphics criado com sucesso.
+28/3/2004 18:12:23: Chamando: [TWindow.Create]
+28/3/2004 18:12:23: Direct3D8 criado com sucesso.
+28/3/2004 18:12:23: Adaptador de modo de display encontrado.
+28/3/2004 18:09:09: Chamando: [TWindow.Create]
+28/3/2004 18:13:01: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:13:01: Chamando: [TApplication.Create]
+28/3/2004 18:13:01: TApplication criado com sucesso.
+28/3/2004 18:13:01: Chamando: [TSoundList.Create]
+28/3/2004 18:13:01: TSoundList criado com sucesso.
+28/3/2004 18:13:03: Chamando: [TWindow.Create]
+28/3/2004 18:13:03: Resolução da janela: 640x480.
+28/3/2004 18:13:03: Chamando: [TWindow.Run]
+28/3/2004 18:13:03: Classe TWindow registrada com sucesso.
+28/3/2004 18:13:03: TWindow instanciado com sucesso.
+28/3/2004 18:13:03: Arquivo encontrado: Sound.wav
+28/3/2004 18:13:03: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:13:03: Arquivo encontrado: explode2.wav
+28/3/2004 18:13:03: Chamando: [TGraphics.Create]
+28/3/2004 18:13:03: TGraphics criado com sucesso.
+28/3/2004 18:13:03: Chamando: [TWindow.Create]
+28/3/2004 18:13:03: Direct3D8 criado com sucesso.
+28/3/2004 18:13:03: Adaptador de modo de display encontrado.
+28/3/2004 18:09:09: Chamando: [TWindow.Create]
+28/3/2004 18:16:01: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:16:01: Chamando: [TApplication.Create]
+28/3/2004 18:16:01: TApplication criado com sucesso.
+28/3/2004 18:16:01: Chamando: [TSoundList.Create]
+28/3/2004 18:16:01: TSoundList criado com sucesso.
+28/3/2004 18:16:02: Chamando: [TWindow.Create]
+28/3/2004 18:16:02: Resolução da janela: 640x480.
+28/3/2004 18:16:02: Chamando: [TWindow.Run]
+28/3/2004 18:16:02: Classe TWindow registrada com sucesso.
+28/3/2004 18:16:02: TWindow instanciado com sucesso.
+28/3/2004 18:16:02: Arquivo encontrado: Sound.wav
+28/3/2004 18:16:03: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:16:03: Arquivo encontrado: explode2.wav
+28/3/2004 18:16:03: Chamando: [TGraphics.Create]
+28/3/2004 18:16:03: TGraphics criado com sucesso.
+28/3/2004 18:16:03: Chamando: [TWindow.Create]
+28/3/2004 18:16:03: Direct3D8 criado com sucesso.
+28/3/2004 18:16:03: Adaptador de modo de display encontrado.
+28/3/2004 18:17:53: Chamando: [TWindow.Create]
+28/3/2004 18:17:39: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:17:39: Chamando: [TApplication.Create]
+28/3/2004 18:17:39: TApplication criado com sucesso.
+28/3/2004 18:17:39: Chamando: [TSoundList.Create]
+28/3/2004 18:17:39: TSoundList criado com sucesso.
+28/3/2004 18:17:41: Chamando: [TWindow.Create]
+28/3/2004 18:17:41: Resolução da janela: 640x480.
+28/3/2004 18:17:41: Chamando: [TWindow.Run]
+28/3/2004 18:17:41: Classe TWindow registrada com sucesso.
+28/3/2004 18:17:41: TWindow instanciado com sucesso.
+28/3/2004 18:17:41: Arquivo encontrado: Sound.wav
+28/3/2004 18:17:41: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:17:41: Arquivo encontrado: explode2.wav
+28/3/2004 18:17:41: Chamando: [TGraphics.Create]
+28/3/2004 18:17:41: TGraphics criado com sucesso.
+28/3/2004 18:17:41: Chamando: [TWindow.Create]
+28/3/2004 18:17:41: Direct3D8 criado com sucesso.
+28/3/2004 18:17:41: Adaptador de modo de display encontrado.
+28/3/2004 18:17:53: Chamando: [TWindow.Create]
+28/3/2004 18:20:46: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:20:46: Chamando: [TApplication.Create]
+28/3/2004 18:20:46: TApplication criado com sucesso.
+28/3/2004 18:20:46: Chamando: [TSoundList.Create]
+28/3/2004 18:20:46: TSoundList criado com sucesso.
+28/3/2004 18:20:48: Chamando: [TWindow.Create]
+28/3/2004 18:20:48: Resolução da janela: 640x480.
+28/3/2004 18:20:48: Chamando: [TWindow.Run]
+28/3/2004 18:20:48: Classe TWindow registrada com sucesso.
+28/3/2004 18:20:48: TWindow instanciado com sucesso.
+28/3/2004 18:20:48: Arquivo encontrado: Sound.wav
+28/3/2004 18:20:48: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:20:48: Arquivo encontrado: explode2.wav
+28/3/2004 18:20:48: Chamando: [TGraphics.Create]
+28/3/2004 18:20:48: TGraphics criado com sucesso.
+28/3/2004 18:20:48: Chamando: [TWindow.Create]
+28/3/2004 18:20:48: Direct3D8 criado com sucesso.
+28/3/2004 18:20:48: Adaptador de modo de display encontrado.
+28/3/2004 18:22:16: Chamando: [TWindow.Create]
+28/3/2004 18:22:40: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:22:40: Chamando: [TApplication.Create]
+28/3/2004 18:22:40: TApplication criado com sucesso.
+28/3/2004 18:22:40: Chamando: [TSoundList.Create]
+28/3/2004 18:22:40: TSoundList criado com sucesso.
+28/3/2004 18:22:42: Chamando: [TWindow.Create]
+28/3/2004 18:22:42: Resolução da janela: 640x480.
+28/3/2004 18:22:42: Chamando: [TWindow.Run]
+28/3/2004 18:22:42: Classe TWindow registrada com sucesso.
+28/3/2004 18:22:42: TWindow instanciado com sucesso.
+28/3/2004 18:22:42: Arquivo encontrado: Sound.wav
+28/3/2004 18:22:42: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:22:42: Arquivo encontrado: explode2.wav
+28/3/2004 18:22:42: Chamando: [TGraphics.Create]
+28/3/2004 18:22:42: TGraphics criado com sucesso.
+28/3/2004 18:22:42: Chamando: [TWindow.Create]
+28/3/2004 18:22:42: Direct3D8 criado com sucesso.
+28/3/2004 18:22:42: Adaptador de modo de display encontrado.
+28/3/2004 18:22:16: Chamando: [TWindow.Create]
+28/3/2004 18:23:39: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:23:39: Chamando: [TApplication.Create]
+28/3/2004 18:23:39: TApplication criado com sucesso.
+28/3/2004 18:23:39: Chamando: [TSoundList.Create]
+28/3/2004 18:23:39: TSoundList criado com sucesso.
+28/3/2004 18:23:40: Chamando: [TWindow.Create]
+28/3/2004 18:23:40: Resolução da janela: 640x480.
+28/3/2004 18:23:40: Chamando: [TWindow.Run]
+28/3/2004 18:23:40: Classe TWindow registrada com sucesso.
+28/3/2004 18:23:40: TWindow instanciado com sucesso.
+28/3/2004 18:23:40: Arquivo encontrado: Sound.wav
+28/3/2004 18:23:40: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:23:40: Arquivo encontrado: explode2.wav
+28/3/2004 18:23:40: Chamando: [TGraphics.Create]
+28/3/2004 18:23:40: TGraphics criado com sucesso.
+28/3/2004 18:23:40: Chamando: [TWindow.Create]
+28/3/2004 18:23:40: Direct3D8 criado com sucesso.
+28/3/2004 18:23:40: Adaptador de modo de display encontrado.
+28/3/2004 18:22:16: Chamando: [TWindow.Create]
+28/3/2004 18:25:39: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:25:39: Chamando: [TApplication.Create]
+28/3/2004 18:25:39: TApplication criado com sucesso.
+28/3/2004 18:25:39: Chamando: [TSoundList.Create]
+28/3/2004 18:25:39: TSoundList criado com sucesso.
+28/3/2004 18:25:40: Chamando: [TWindow.Create]
+28/3/2004 18:25:40: Resolução da janela: 640x480.
+28/3/2004 18:25:40: Chamando: [TWindow.Run]
+28/3/2004 18:25:40: Classe TWindow registrada com sucesso.
+28/3/2004 18:25:41: TWindow instanciado com sucesso.
+28/3/2004 18:25:41: Arquivo encontrado: Sound.wav
+28/3/2004 18:25:41: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:25:41: Arquivo encontrado: explode2.wav
+28/3/2004 18:25:41: Chamando: [TGraphics.Create]
+28/3/2004 18:25:41: TGraphics criado com sucesso.
+28/3/2004 18:25:41: Chamando: [TWindow.Create]
+28/3/2004 18:25:41: Direct3D8 criado com sucesso.
+28/3/2004 18:25:41: Adaptador de modo de display encontrado.
+28/3/2004 18:26:38: Chamando: [TWindow.Create]
+28/3/2004 18:27:00: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:27:00: Chamando: [TApplication.Create]
+28/3/2004 18:27:00: TApplication criado com sucesso.
+28/3/2004 18:27:00: Chamando: [TSoundList.Create]
+28/3/2004 18:27:00: TSoundList criado com sucesso.
+28/3/2004 18:27:02: Chamando: [TWindow.Create]
+28/3/2004 18:27:02: Resolução da janela: 640x480.
+28/3/2004 18:27:02: Chamando: [TWindow.Run]
+28/3/2004 18:27:02: Classe TWindow registrada com sucesso.
+28/3/2004 18:27:02: TWindow instanciado com sucesso.
+28/3/2004 18:27:02: Arquivo encontrado: Sound.wav
+28/3/2004 18:27:02: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:27:02: Arquivo encontrado: explode2.wav
+28/3/2004 18:27:02: Chamando: [TGraphics.Create]
+28/3/2004 18:27:02: TGraphics criado com sucesso.
+28/3/2004 18:27:02: Chamando: [TWindow.Create]
+28/3/2004 18:27:02: Direct3D8 criado com sucesso.
+28/3/2004 18:27:02: Adaptador de modo de display encontrado.
+28/3/2004 18:26:38: Chamando: [TWindow.Create]
+28/3/2004 18:33:01: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:33:01: Chamando: [TApplication.Create]
+28/3/2004 18:33:01: TApplication criado com sucesso.
+28/3/2004 18:33:01: Chamando: [TSoundList.Create]
+28/3/2004 18:33:01: TSoundList criado com sucesso.
+28/3/2004 18:33:02: Chamando: [TWindow.Create]
+28/3/2004 18:33:02: Resolução da janela: 640x480.
+28/3/2004 18:33:02: Chamando: [TWindow.Run]
+28/3/2004 18:33:02: Classe TWindow registrada com sucesso.
+28/3/2004 18:33:02: TWindow instanciado com sucesso.
+28/3/2004 18:33:02: Arquivo encontrado: Sound.wav
+28/3/2004 18:33:02: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:33:02: Arquivo encontrado: explode2.wav
+28/3/2004 18:33:02: Chamando: [TGraphics.Create]
+28/3/2004 18:33:02: TGraphics criado com sucesso.
+28/3/2004 18:33:02: Chamando: [TWindow.Create]
+28/3/2004 18:33:03: Direct3D8 criado com sucesso.
+28/3/2004 18:33:03: Adaptador de modo de display encontrado.
+28/3/2004 18:35:22: Chamando: [TWindow.Create]
+28/3/2004 18:33:23: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:33:23: Chamando: [TApplication.Create]
+28/3/2004 18:33:23: TApplication criado com sucesso.
+28/3/2004 18:33:23: Chamando: [TSoundList.Create]
+28/3/2004 18:33:23: TSoundList criado com sucesso.
+28/3/2004 18:33:24: Chamando: [TWindow.Create]
+28/3/2004 18:33:24: Resolução da janela: 640x480.
+28/3/2004 18:33:24: Chamando: [TWindow.Run]
+28/3/2004 18:33:24: Classe TWindow registrada com sucesso.
+28/3/2004 18:33:24: TWindow instanciado com sucesso.
+28/3/2004 18:33:24: Arquivo encontrado: Sound.wav
+28/3/2004 18:33:24: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:33:24: Arquivo encontrado: explode2.wav
+28/3/2004 18:33:24: Chamando: [TGraphics.Create]
+28/3/2004 18:33:24: TGraphics criado com sucesso.
+28/3/2004 18:33:24: Chamando: [TWindow.Create]
+28/3/2004 18:33:25: Direct3D8 criado com sucesso.
+28/3/2004 18:33:25: Adaptador de modo de display encontrado.
+28/3/2004 18:35:22: Chamando: [TWindow.Create]
+28/3/2004 18:35:06: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:35:06: Chamando: [TApplication.Create]
+28/3/2004 18:35:06: TApplication criado com sucesso.
+28/3/2004 18:35:06: Chamando: [TSoundList.Create]
+28/3/2004 18:35:06: TSoundList criado com sucesso.
+28/3/2004 18:35:08: Chamando: [TWindow.Create]
+28/3/2004 18:35:08: Resolução da janela: 640x480.
+28/3/2004 18:35:08: Chamando: [TWindow.Run]
+28/3/2004 18:35:08: Classe TWindow registrada com sucesso.
+28/3/2004 18:35:08: TWindow instanciado com sucesso.
+28/3/2004 18:35:08: Arquivo encontrado: Sound.wav
+28/3/2004 18:35:08: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:35:08: Arquivo encontrado: explode2.wav
+28/3/2004 18:35:08: Chamando: [TGraphics.Create]
+28/3/2004 18:35:08: TGraphics criado com sucesso.
+28/3/2004 18:35:08: Chamando: [TWindow.Create]
+28/3/2004 18:35:08: Direct3D8 criado com sucesso.
+28/3/2004 18:35:08: Adaptador de modo de display encontrado.
+28/3/2004 18:35:22: Chamando: [TWindow.Create]
+28/3/2004 18:36:47: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:36:47: Chamando: [TApplication.Create]
+28/3/2004 18:36:47: TApplication criado com sucesso.
+28/3/2004 18:36:47: Chamando: [TSoundList.Create]
+28/3/2004 18:36:47: TSoundList criado com sucesso.
+28/3/2004 18:36:48: Chamando: [TWindow.Create]
+28/3/2004 18:36:48: Resolução da janela: 640x480.
+28/3/2004 18:36:48: Chamando: [TWindow.Run]
+28/3/2004 18:36:48: Classe TWindow registrada com sucesso.
+28/3/2004 18:36:48: TWindow instanciado com sucesso.
+28/3/2004 18:36:48: Arquivo encontrado: Sound.wav
+28/3/2004 18:36:48: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:36:48: Arquivo encontrado: explode2.wav
+28/3/2004 18:36:48: Chamando: [TGraphics.Create]
+28/3/2004 18:36:48: TGraphics criado com sucesso.
+28/3/2004 18:36:48: Chamando: [TWindow.Create]
+28/3/2004 18:36:48: Direct3D8 criado com sucesso.
+28/3/2004 18:36:48: Adaptador de modo de display encontrado.
+28/3/2004 18:39:44: Chamando: [TWindow.Create]
+28/3/2004 18:37:36: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:37:36: Chamando: [TApplication.Create]
+28/3/2004 18:37:36: TApplication criado com sucesso.
+28/3/2004 18:37:36: Chamando: [TSoundList.Create]
+28/3/2004 18:37:36: TSoundList criado com sucesso.
+28/3/2004 18:37:38: Chamando: [TWindow.Create]
+28/3/2004 18:37:38: Resolução da janela: 640x480.
+28/3/2004 18:37:38: Chamando: [TWindow.Run]
+28/3/2004 18:37:38: Classe TWindow registrada com sucesso.
+28/3/2004 18:37:38: TWindow instanciado com sucesso.
+28/3/2004 18:37:38: Arquivo encontrado: Sound.wav
+28/3/2004 18:37:38: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:37:38: Arquivo encontrado: explode2.wav
+28/3/2004 18:37:38: Chamando: [TGraphics.Create]
+28/3/2004 18:37:38: TGraphics criado com sucesso.
+28/3/2004 18:37:38: Chamando: [TWindow.Create]
+28/3/2004 18:37:38: Direct3D8 criado com sucesso.
+28/3/2004 18:37:38: Adaptador de modo de display encontrado.
+28/3/2004 18:39:44: Chamando: [TWindow.Create]
+28/3/2004 18:38:26: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:38:26: Chamando: [TApplication.Create]
+28/3/2004 18:38:26: TApplication criado com sucesso.
+28/3/2004 18:38:26: Chamando: [TSoundList.Create]
+28/3/2004 18:38:26: TSoundList criado com sucesso.
+28/3/2004 18:38:27: Chamando: [TWindow.Create]
+28/3/2004 18:38:28: Resolução da janela: 640x480.
+28/3/2004 18:38:28: Chamando: [TWindow.Run]
+28/3/2004 18:38:28: Classe TWindow registrada com sucesso.
+28/3/2004 18:38:28: TWindow instanciado com sucesso.
+28/3/2004 18:38:28: Arquivo encontrado: Sound.wav
+28/3/2004 18:38:28: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:38:28: Arquivo encontrado: explode2.wav
+28/3/2004 18:38:28: Chamando: [TGraphics.Create]
+28/3/2004 18:38:28: TGraphics criado com sucesso.
+28/3/2004 18:38:28: Chamando: [TWindow.Create]
+28/3/2004 18:38:28: Direct3D8 criado com sucesso.
+28/3/2004 18:38:28: Adaptador de modo de display encontrado.
+28/3/2004 18:39:44: Chamando: [TWindow.Create]
+28/3/2004 18:38:42: --- Powered by IskaTreK - Copyright(c) 2004 ---
+28/3/2004 18:38:42: Chamando: [TApplication.Create]
+28/3/2004 18:38:42: TApplication criado com sucesso.
+28/3/2004 18:38:42: Chamando: [TSoundList.Create]
+28/3/2004 18:38:42: TSoundList criado com sucesso.
+28/3/2004 18:38:43: Chamando: [TWindow.Create]
+28/3/2004 18:38:43: Resolução da janela: 640x480.
+28/3/2004 18:38:43: Chamando: [TWindow.Run]
+28/3/2004 18:38:43: Classe TWindow registrada com sucesso.
+28/3/2004 18:38:43: TWindow instanciado com sucesso.
+28/3/2004 18:38:43: Arquivo encontrado: Sound.wav
+28/3/2004 18:38:43: Arquivo encontrado: SingleGunShot.wav
+28/3/2004 18:38:43: Arquivo encontrado: explode2.wav
+28/3/2004 18:38:43: Chamando: [TGraphics.Create]
+28/3/2004 18:38:43: TGraphics criado com sucesso.
+28/3/2004 18:38:43: Chamando: [TWindow.Create]
+28/3/2004 18:38:43: Direct3D8 criado com sucesso.
+28/3/2004 18:38:43: Adaptador de modo de display encontrado.
+28/3/2004 18:39:44: Chamando: [TWindow.Create]
+29/3/2004 12:00:16: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:00:16: Chamando: [TApplication.Create]
+29/3/2004 12:00:16: TApplication criado com sucesso.
+29/3/2004 12:00:16: Chamando: [TSoundList.Create]
+29/3/2004 12:00:16: TSoundList criado com sucesso.
+29/3/2004 12:00:19: Chamando: [TWindow.Create]
+29/3/2004 12:00:19: Resolução da janela: 640x480.
+29/3/2004 12:00:19: Chamando: [TWindow.Run]
+29/3/2004 12:00:19: Classe TWindow registrada com sucesso.
+29/3/2004 12:00:19: TWindow instanciado com sucesso.
+29/3/2004 12:00:19: Arquivo encontrado: Sound.wav
+29/3/2004 12:00:19: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:00:19: Arquivo encontrado: explode2.wav
+29/3/2004 12:00:19: Chamando: [TGraphics.Create]
+29/3/2004 12:00:19: TGraphics criado com sucesso.
+29/3/2004 12:00:19: Chamando: [TWindow.Create]
+29/3/2004 12:00:20: Direct3D8 criado com sucesso.
+29/3/2004 12:00:20: Adaptador de modo de display encontrado.
+29/3/2004 11:59:34: Chamando: [TWindow.Create]
+29/3/2004 12:01:01: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:01:01: Chamando: [TApplication.Create]
+29/3/2004 12:01:01: TApplication criado com sucesso.
+29/3/2004 12:01:01: Chamando: [TSoundList.Create]
+29/3/2004 12:01:01: TSoundList criado com sucesso.
+29/3/2004 12:01:03: Chamando: [TWindow.Create]
+29/3/2004 12:01:03: Resolução da janela: 640x480.
+29/3/2004 12:01:03: Chamando: [TWindow.Run]
+29/3/2004 12:01:03: Classe TWindow registrada com sucesso.
+29/3/2004 12:01:03: TWindow instanciado com sucesso.
+29/3/2004 12:01:03: Arquivo encontrado: Sound.wav
+29/3/2004 12:01:03: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:01:03: Arquivo encontrado: explode2.wav
+29/3/2004 12:01:03: Chamando: [TGraphics.Create]
+29/3/2004 12:01:03: TGraphics criado com sucesso.
+29/3/2004 12:01:03: Chamando: [TWindow.Create]
+29/3/2004 12:01:03: Direct3D8 criado com sucesso.
+29/3/2004 12:01:03: Adaptador de modo de display encontrado.
+29/3/2004 11:59:34: Chamando: [TWindow.Create]
+29/3/2004 12:01:20: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:01:20: Chamando: [TApplication.Create]
+29/3/2004 12:01:20: TApplication criado com sucesso.
+29/3/2004 12:01:20: Chamando: [TSoundList.Create]
+29/3/2004 12:01:20: TSoundList criado com sucesso.
+29/3/2004 12:01:21: Chamando: [TWindow.Create]
+29/3/2004 12:01:21: Resolução da janela: 640x480.
+29/3/2004 12:01:21: Chamando: [TWindow.Run]
+29/3/2004 12:01:21: Classe TWindow registrada com sucesso.
+29/3/2004 12:01:21: TWindow instanciado com sucesso.
+29/3/2004 12:01:21: Arquivo encontrado: Sound.wav
+29/3/2004 12:01:21: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:01:21: Arquivo encontrado: explode2.wav
+29/3/2004 12:01:21: Chamando: [TGraphics.Create]
+29/3/2004 12:01:21: TGraphics criado com sucesso.
+29/3/2004 12:01:21: Chamando: [TWindow.Create]
+29/3/2004 12:01:21: Direct3D8 criado com sucesso.
+29/3/2004 12:01:21: Adaptador de modo de display encontrado.
+29/3/2004 11:59:34: Chamando: [TWindow.Create]
+29/3/2004 12:03:07: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:03:07: Chamando: [TApplication.Create]
+29/3/2004 12:03:07: TApplication criado com sucesso.
+29/3/2004 12:03:07: Chamando: [TSoundList.Create]
+29/3/2004 12:03:07: TSoundList criado com sucesso.
+29/3/2004 12:03:08: Chamando: [TWindow.Create]
+29/3/2004 12:03:08: Resolução da janela: 640x480.
+29/3/2004 12:03:08: Chamando: [TWindow.Run]
+29/3/2004 12:03:08: Classe TWindow registrada com sucesso.
+29/3/2004 12:03:09: TWindow instanciado com sucesso.
+29/3/2004 12:03:09: Arquivo encontrado: Sound.wav
+29/3/2004 12:03:09: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:03:09: Arquivo encontrado: explode2.wav
+29/3/2004 12:03:09: Chamando: [TGraphics.Create]
+29/3/2004 12:03:09: TGraphics criado com sucesso.
+29/3/2004 12:03:09: Chamando: [TWindow.Create]
+29/3/2004 12:03:09: Direct3D8 criado com sucesso.
+29/3/2004 12:03:09: Adaptador de modo de display encontrado.
+29/3/2004 12:03:57: Chamando: [TWindow.Create]
+29/3/2004 12:03:32: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:03:32: Chamando: [TApplication.Create]
+29/3/2004 12:03:32: TApplication criado com sucesso.
+29/3/2004 12:03:32: Chamando: [TSoundList.Create]
+29/3/2004 12:03:32: TSoundList criado com sucesso.
+29/3/2004 12:03:33: Chamando: [TWindow.Create]
+29/3/2004 12:03:33: Resolução da janela: 640x480.
+29/3/2004 12:03:33: Chamando: [TWindow.Run]
+29/3/2004 12:03:33: Classe TWindow registrada com sucesso.
+29/3/2004 12:03:34: TWindow instanciado com sucesso.
+29/3/2004 12:03:34: Arquivo encontrado: Sound.wav
+29/3/2004 12:03:34: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:03:34: Arquivo encontrado: explode2.wav
+29/3/2004 12:03:34: Chamando: [TGraphics.Create]
+29/3/2004 12:03:34: TGraphics criado com sucesso.
+29/3/2004 12:03:34: Chamando: [TWindow.Create]
+29/3/2004 12:03:34: Direct3D8 criado com sucesso.
+29/3/2004 12:03:34: Adaptador de modo de display encontrado.
+29/3/2004 12:03:57: Chamando: [TWindow.Create]
+29/3/2004 12:08:52: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:08:52: Chamando: [TApplication.Create]
+29/3/2004 12:08:52: TApplication criado com sucesso.
+29/3/2004 12:08:52: Chamando: [TSoundList.Create]
+29/3/2004 12:08:52: TSoundList criado com sucesso.
+29/3/2004 12:08:54: Chamando: [TWindow.Create]
+29/3/2004 12:08:54: Resolução da janela: 640x480.
+29/3/2004 12:08:54: Chamando: [TWindow.Run]
+29/3/2004 12:08:54: Classe TWindow registrada com sucesso.
+29/3/2004 12:08:54: TWindow instanciado com sucesso.
+29/3/2004 12:08:54: Arquivo encontrado: Sound.wav
+29/3/2004 12:08:54: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:08:54: Arquivo encontrado: explode2.wav
+29/3/2004 12:08:54: Chamando: [TGraphics.Create]
+29/3/2004 12:08:54: TGraphics criado com sucesso.
+29/3/2004 12:08:54: Chamando: [TWindow.Create]
+29/3/2004 12:08:54: Direct3D8 criado com sucesso.
+29/3/2004 12:08:54: Adaptador de modo de display encontrado.
+29/3/2004 12:12:41: Chamando: [TWindow.Create]
+29/3/2004 12:13:06: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:13:06: Chamando: [TApplication.Create]
+29/3/2004 12:13:06: TApplication criado com sucesso.
+29/3/2004 12:13:06: Chamando: [TSoundList.Create]
+29/3/2004 12:13:06: TSoundList criado com sucesso.
+29/3/2004 12:13:08: Chamando: [TWindow.Create]
+29/3/2004 12:13:08: Resolução da janela: 640x480.
+29/3/2004 12:13:08: Chamando: [TWindow.Run]
+29/3/2004 12:13:08: Classe TWindow registrada com sucesso.
+29/3/2004 12:13:08: TWindow instanciado com sucesso.
+29/3/2004 12:13:08: Arquivo encontrado: Sound.wav
+29/3/2004 12:13:08: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:13:08: Arquivo encontrado: explode2.wav
+29/3/2004 12:13:08: Chamando: [TGraphics.Create]
+29/3/2004 12:13:08: TGraphics criado com sucesso.
+29/3/2004 12:13:08: Chamando: [TWindow.Create]
+29/3/2004 12:13:08: Direct3D8 criado com sucesso.
+29/3/2004 12:13:08: Adaptador de modo de display encontrado.
+29/3/2004 12:12:41: Chamando: [TWindow.Create]
+29/3/2004 12:13:35: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:13:35: Chamando: [TApplication.Create]
+29/3/2004 12:13:35: TApplication criado com sucesso.
+29/3/2004 12:13:35: Chamando: [TSoundList.Create]
+29/3/2004 12:13:35: TSoundList criado com sucesso.
+29/3/2004 12:13:36: Chamando: [TWindow.Create]
+29/3/2004 12:13:36: Resolução da janela: 640x480.
+29/3/2004 12:13:36: Chamando: [TWindow.Run]
+29/3/2004 12:13:36: Classe TWindow registrada com sucesso.
+29/3/2004 12:13:36: TWindow instanciado com sucesso.
+29/3/2004 12:13:36: Arquivo encontrado: Sound.wav
+29/3/2004 12:13:36: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:13:36: Arquivo encontrado: explode2.wav
+29/3/2004 12:13:36: Chamando: [TGraphics.Create]
+29/3/2004 12:13:36: TGraphics criado com sucesso.
+29/3/2004 12:13:36: Chamando: [TWindow.Create]
+29/3/2004 12:13:36: Direct3D8 criado com sucesso.
+29/3/2004 12:13:36: Adaptador de modo de display encontrado.
+29/3/2004 12:12:41: Chamando: [TWindow.Create]
+29/3/2004 12:14:09: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:14:09: Chamando: [TApplication.Create]
+29/3/2004 12:14:09: TApplication criado com sucesso.
+29/3/2004 12:14:09: Chamando: [TSoundList.Create]
+29/3/2004 12:14:09: TSoundList criado com sucesso.
+29/3/2004 12:14:10: Chamando: [TWindow.Create]
+29/3/2004 12:14:10: Resolução da janela: 640x480.
+29/3/2004 12:14:10: Chamando: [TWindow.Run]
+29/3/2004 12:14:10: Classe TWindow registrada com sucesso.
+29/3/2004 12:14:10: TWindow instanciado com sucesso.
+29/3/2004 12:14:10: Arquivo encontrado: Sound.wav
+29/3/2004 12:14:10: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:14:10: Arquivo encontrado: explode2.wav
+29/3/2004 12:14:10: Chamando: [TGraphics.Create]
+29/3/2004 12:14:10: TGraphics criado com sucesso.
+29/3/2004 12:14:10: Chamando: [TWindow.Create]
+29/3/2004 12:14:11: Direct3D8 criado com sucesso.
+29/3/2004 12:14:11: Adaptador de modo de display encontrado.
+29/3/2004 12:17:03: Chamando: [TWindow.Create]
+29/3/2004 12:15:16: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:15:16: Chamando: [TApplication.Create]
+29/3/2004 12:15:16: TApplication criado com sucesso.
+29/3/2004 12:15:16: Chamando: [TSoundList.Create]
+29/3/2004 12:15:16: TSoundList criado com sucesso.
+29/3/2004 12:15:17: Chamando: [TWindow.Create]
+29/3/2004 12:15:17: Resolução da janela: 640x480.
+29/3/2004 12:15:17: Chamando: [TWindow.Run]
+29/3/2004 12:15:17: Classe TWindow registrada com sucesso.
+29/3/2004 12:15:17: TWindow instanciado com sucesso.
+29/3/2004 12:15:17: Arquivo encontrado: Sound.wav
+29/3/2004 12:15:17: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:15:17: Arquivo encontrado: explode2.wav
+29/3/2004 12:15:17: Chamando: [TGraphics.Create]
+29/3/2004 12:15:17: TGraphics criado com sucesso.
+29/3/2004 12:15:17: Chamando: [TWindow.Create]
+29/3/2004 12:15:17: Direct3D8 criado com sucesso.
+29/3/2004 12:15:17: Adaptador de modo de display encontrado.
+29/3/2004 12:17:03: Chamando: [TWindow.Create]
+29/3/2004 12:16:31: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:16:31: Chamando: [TApplication.Create]
+29/3/2004 12:16:31: TApplication criado com sucesso.
+29/3/2004 12:16:31: Chamando: [TSoundList.Create]
+29/3/2004 12:16:31: TSoundList criado com sucesso.
+29/3/2004 12:16:32: Chamando: [TWindow.Create]
+29/3/2004 12:16:32: Resolução da janela: 640x480.
+29/3/2004 12:16:32: Chamando: [TWindow.Run]
+29/3/2004 12:16:32: Classe TWindow registrada com sucesso.
+29/3/2004 12:16:32: TWindow instanciado com sucesso.
+29/3/2004 12:16:32: Arquivo encontrado: Sound.wav
+29/3/2004 12:16:32: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:16:32: Arquivo encontrado: explode2.wav
+29/3/2004 12:16:32: Chamando: [TGraphics.Create]
+29/3/2004 12:16:32: TGraphics criado com sucesso.
+29/3/2004 12:16:32: Chamando: [TWindow.Create]
+29/3/2004 12:16:33: Direct3D8 criado com sucesso.
+29/3/2004 12:16:33: Adaptador de modo de display encontrado.
+29/3/2004 12:17:03: Chamando: [TWindow.Create]
+29/3/2004 12:16:40: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:16:40: Chamando: [TApplication.Create]
+29/3/2004 12:16:40: TApplication criado com sucesso.
+29/3/2004 12:16:40: Chamando: [TSoundList.Create]
+29/3/2004 12:16:40: TSoundList criado com sucesso.
+29/3/2004 12:16:41: Chamando: [TWindow.Create]
+29/3/2004 12:16:41: Resolução da janela: 640x480.
+29/3/2004 12:16:41: Chamando: [TWindow.Run]
+29/3/2004 12:16:41: Classe TWindow registrada com sucesso.
+29/3/2004 12:16:41: TWindow instanciado com sucesso.
+29/3/2004 12:16:41: Arquivo encontrado: Sound.wav
+29/3/2004 12:16:41: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:16:41: Arquivo encontrado: explode2.wav
+29/3/2004 12:16:41: Chamando: [TGraphics.Create]
+29/3/2004 12:16:41: TGraphics criado com sucesso.
+29/3/2004 12:16:41: Chamando: [TWindow.Create]
+29/3/2004 12:16:42: Direct3D8 criado com sucesso.
+29/3/2004 12:16:42: Adaptador de modo de display encontrado.
+29/3/2004 12:17:03: Chamando: [TWindow.Create]
+29/3/2004 12:18:58: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:18:58: Chamando: [TApplication.Create]
+29/3/2004 12:18:58: TApplication criado com sucesso.
+29/3/2004 12:18:58: Chamando: [TSoundList.Create]
+29/3/2004 12:18:58: TSoundList criado com sucesso.
+29/3/2004 12:18:59: Chamando: [TWindow.Create]
+29/3/2004 12:18:59: Resolução da janela: 640x480.
+29/3/2004 12:18:59: Chamando: [TWindow.Run]
+29/3/2004 12:18:59: Classe TWindow registrada com sucesso.
+29/3/2004 12:18:59: TWindow instanciado com sucesso.
+29/3/2004 12:18:59: Arquivo encontrado: Sound.wav
+29/3/2004 12:18:59: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:18:59: Arquivo encontrado: explode2.wav
+29/3/2004 12:18:59: Chamando: [TGraphics.Create]
+29/3/2004 12:18:59: TGraphics criado com sucesso.
+29/3/2004 12:18:59: Chamando: [TWindow.Create]
+29/3/2004 12:18:59: Direct3D8 criado com sucesso.
+29/3/2004 12:18:59: Adaptador de modo de display encontrado.
+29/3/2004 12:17:03: Chamando: [TWindow.Create]
+29/3/2004 12:19:17: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:19:17: Chamando: [TApplication.Create]
+29/3/2004 12:19:17: TApplication criado com sucesso.
+29/3/2004 12:19:17: Chamando: [TSoundList.Create]
+29/3/2004 12:19:17: TSoundList criado com sucesso.
+29/3/2004 12:19:19: Chamando: [TWindow.Create]
+29/3/2004 12:19:19: Resolução da janela: 640x480.
+29/3/2004 12:19:19: Chamando: [TWindow.Run]
+29/3/2004 12:19:19: Classe TWindow registrada com sucesso.
+29/3/2004 12:19:19: TWindow instanciado com sucesso.
+29/3/2004 12:19:19: Arquivo encontrado: Sound.wav
+29/3/2004 12:19:19: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:19:19: Arquivo encontrado: explode2.wav
+29/3/2004 12:19:19: Chamando: [TGraphics.Create]
+29/3/2004 12:19:19: TGraphics criado com sucesso.
+29/3/2004 12:19:19: Chamando: [TWindow.Create]
+29/3/2004 12:19:19: Direct3D8 criado com sucesso.
+29/3/2004 12:19:19: Adaptador de modo de display encontrado.
+29/3/2004 12:17:03: Chamando: [TWindow.Create]
+29/3/2004 12:19:41: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:19:41: Chamando: [TApplication.Create]
+29/3/2004 12:19:41: TApplication criado com sucesso.
+29/3/2004 12:19:41: Chamando: [TSoundList.Create]
+29/3/2004 12:19:41: TSoundList criado com sucesso.
+29/3/2004 12:19:43: Chamando: [TWindow.Create]
+29/3/2004 12:19:43: Resolução da janela: 640x480.
+29/3/2004 12:19:43: Chamando: [TWindow.Run]
+29/3/2004 12:19:43: Classe TWindow registrada com sucesso.
+29/3/2004 12:19:43: TWindow instanciado com sucesso.
+29/3/2004 12:19:43: Arquivo encontrado: Sound.wav
+29/3/2004 12:19:43: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:19:43: Arquivo encontrado: explode2.wav
+29/3/2004 12:19:43: Chamando: [TGraphics.Create]
+29/3/2004 12:19:43: TGraphics criado com sucesso.
+29/3/2004 12:19:43: Chamando: [TWindow.Create]
+29/3/2004 12:19:43: Direct3D8 criado com sucesso.
+29/3/2004 12:19:43: Adaptador de modo de display encontrado.
+29/3/2004 12:21:25: Chamando: [TWindow.Create]
+29/3/2004 12:22:41: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:22:41: Chamando: [TApplication.Create]
+29/3/2004 12:22:41: TApplication criado com sucesso.
+29/3/2004 12:22:41: Chamando: [TSoundList.Create]
+29/3/2004 12:22:41: TSoundList criado com sucesso.
+29/3/2004 12:22:42: Chamando: [TWindow.Create]
+29/3/2004 12:22:42: Resolução da janela: 640x480.
+29/3/2004 12:22:42: Chamando: [TWindow.Run]
+29/3/2004 12:22:42: Classe TWindow registrada com sucesso.
+29/3/2004 12:22:42: TWindow instanciado com sucesso.
+29/3/2004 12:22:42: Arquivo encontrado: Sound.wav
+29/3/2004 12:22:42: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:22:42: Arquivo encontrado: explode2.wav
+29/3/2004 12:22:42: Chamando: [TGraphics.Create]
+29/3/2004 12:22:42: TGraphics criado com sucesso.
+29/3/2004 12:22:42: Chamando: [TWindow.Create]
+29/3/2004 12:22:43: Direct3D8 criado com sucesso.
+29/3/2004 12:22:43: Adaptador de modo de display encontrado.
+29/3/2004 12:21:25: Chamando: [TWindow.Create]
+29/3/2004 12:22:55: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:22:55: Chamando: [TApplication.Create]
+29/3/2004 12:22:55: TApplication criado com sucesso.
+29/3/2004 12:22:55: Chamando: [TSoundList.Create]
+29/3/2004 12:22:55: TSoundList criado com sucesso.
+29/3/2004 12:22:56: Chamando: [TWindow.Create]
+29/3/2004 12:22:56: Resolução da janela: 640x480.
+29/3/2004 12:22:56: Chamando: [TWindow.Run]
+29/3/2004 12:22:56: Classe TWindow registrada com sucesso.
+29/3/2004 12:22:56: TWindow instanciado com sucesso.
+29/3/2004 12:22:56: Arquivo encontrado: Sound.wav
+29/3/2004 12:22:56: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:22:56: Arquivo encontrado: explode2.wav
+29/3/2004 12:22:56: Chamando: [TGraphics.Create]
+29/3/2004 12:22:56: TGraphics criado com sucesso.
+29/3/2004 12:22:56: Chamando: [TWindow.Create]
+29/3/2004 12:22:56: Direct3D8 criado com sucesso.
+29/3/2004 12:22:56: Adaptador de modo de display encontrado.
+29/3/2004 12:21:25: Chamando: [TWindow.Create]
+29/3/2004 12:23:14: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:23:14: Chamando: [TApplication.Create]
+29/3/2004 12:23:14: TApplication criado com sucesso.
+29/3/2004 12:23:14: Chamando: [TSoundList.Create]
+29/3/2004 12:23:14: TSoundList criado com sucesso.
+29/3/2004 12:23:16: Chamando: [TWindow.Create]
+29/3/2004 12:23:16: Resolução da janela: 640x480.
+29/3/2004 12:23:16: Chamando: [TWindow.Run]
+29/3/2004 12:23:16: Classe TWindow registrada com sucesso.
+29/3/2004 12:23:16: TWindow instanciado com sucesso.
+29/3/2004 12:23:16: Arquivo encontrado: Sound.wav
+29/3/2004 12:23:16: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:23:16: Arquivo encontrado: explode2.wav
+29/3/2004 12:23:16: Chamando: [TGraphics.Create]
+29/3/2004 12:23:16: TGraphics criado com sucesso.
+29/3/2004 12:23:16: Chamando: [TWindow.Create]
+29/3/2004 12:23:16: Direct3D8 criado com sucesso.
+29/3/2004 12:23:16: Adaptador de modo de display encontrado.
+29/3/2004 12:21:25: Chamando: [TWindow.Create]
+29/3/2004 12:24:14: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:24:14: Chamando: [TApplication.Create]
+29/3/2004 12:24:14: TApplication criado com sucesso.
+29/3/2004 12:24:14: Chamando: [TSoundList.Create]
+29/3/2004 12:24:14: TSoundList criado com sucesso.
+29/3/2004 12:24:16: Chamando: [TWindow.Create]
+29/3/2004 12:24:16: Resolução da janela: 640x480.
+29/3/2004 12:24:16: Chamando: [TWindow.Run]
+29/3/2004 12:24:16: Classe TWindow registrada com sucesso.
+29/3/2004 12:24:16: TWindow instanciado com sucesso.
+29/3/2004 12:24:16: Arquivo encontrado: Sound.wav
+29/3/2004 12:24:16: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:24:16: Arquivo encontrado: explode2.wav
+29/3/2004 12:24:16: Chamando: [TGraphics.Create]
+29/3/2004 12:24:16: TGraphics criado com sucesso.
+29/3/2004 12:24:16: Chamando: [TWindow.Create]
+29/3/2004 12:24:16: Direct3D8 criado com sucesso.
+29/3/2004 12:24:16: Adaptador de modo de display encontrado.
+29/3/2004 12:21:25: Chamando: [TWindow.Create]
+29/3/2004 12:33:27: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:33:27: Chamando: [TApplication.Create]
+29/3/2004 12:33:27: TApplication criado com sucesso.
+29/3/2004 12:33:27: Chamando: [TSoundList.Create]
+29/3/2004 12:33:27: TSoundList criado com sucesso.
+29/3/2004 12:33:29: Chamando: [TWindow.Create]
+29/3/2004 12:33:29: Resolução da janela: 640x480.
+29/3/2004 12:33:29: Chamando: [TWindow.Run]
+29/3/2004 12:33:29: Classe TWindow registrada com sucesso.
+29/3/2004 12:33:29: TWindow instanciado com sucesso.
+29/3/2004 12:33:29: Arquivo encontrado: Sound.wav
+29/3/2004 12:33:29: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:33:29: Arquivo encontrado: explode2.wav
+29/3/2004 12:33:29: Chamando: [TGraphics.Create]
+29/3/2004 12:33:29: TGraphics criado com sucesso.
+29/3/2004 12:33:29: Chamando: [TWindow.Create]
+29/3/2004 12:33:29: Direct3D8 criado com sucesso.
+29/3/2004 12:33:29: Adaptador de modo de display encontrado.
+29/3/2004 12:34:32: Chamando: [TWindow.Create]
+29/3/2004 12:38:18: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:38:18: Chamando: [TApplication.Create]
+29/3/2004 12:38:18: TApplication criado com sucesso.
+29/3/2004 12:38:18: Chamando: [TSoundList.Create]
+29/3/2004 12:38:18: TSoundList criado com sucesso.
+29/3/2004 12:38:19: Chamando: [TWindow.Create]
+29/3/2004 12:38:19: Resolução da janela: 640x480.
+29/3/2004 12:38:19: Chamando: [TWindow.Run]
+29/3/2004 12:38:19: Classe TWindow registrada com sucesso.
+29/3/2004 12:38:19: TWindow instanciado com sucesso.
+29/3/2004 12:38:19: Arquivo encontrado: Sound.wav
+29/3/2004 12:38:19: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:38:19: Arquivo encontrado: explode2.wav
+29/3/2004 12:38:19: Chamando: [TGraphics.Create]
+29/3/2004 12:38:19: TGraphics criado com sucesso.
+29/3/2004 12:38:19: Chamando: [TWindow.Create]
+29/3/2004 12:38:19: Direct3D8 criado com sucesso.
+29/3/2004 12:38:19: Adaptador de modo de display encontrado.
+29/3/2004 12:38:54: Chamando: [TWindow.Create]
+29/3/2004 12:44:02: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:44:02: Chamando: [TApplication.Create]
+29/3/2004 12:44:02: TApplication criado com sucesso.
+29/3/2004 12:44:02: Chamando: [TSoundList.Create]
+29/3/2004 12:44:02: TSoundList criado com sucesso.
+29/3/2004 12:44:04: Chamando: [TWindow.Create]
+29/3/2004 12:44:04: Resolução da janela: 640x480.
+29/3/2004 12:44:04: Chamando: [TWindow.Run]
+29/3/2004 12:44:04: Classe TWindow registrada com sucesso.
+29/3/2004 12:44:04: TWindow instanciado com sucesso.
+29/3/2004 12:44:04: Arquivo encontrado: Sound.wav
+29/3/2004 12:44:04: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:44:04: Arquivo encontrado: explode2.wav
+29/3/2004 12:44:04: Chamando: [TGraphics.Create]
+29/3/2004 12:44:04: TGraphics criado com sucesso.
+29/3/2004 12:44:04: Chamando: [TWindow.Create]
+29/3/2004 12:44:04: Direct3D8 criado com sucesso.
+29/3/2004 12:44:04: Adaptador de modo de display encontrado.
+29/3/2004 12:43:16: Chamando: [TWindow.Create]
+29/3/2004 12:44:34: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:44:34: Chamando: [TApplication.Create]
+29/3/2004 12:44:34: TApplication criado com sucesso.
+29/3/2004 12:44:34: Chamando: [TSoundList.Create]
+29/3/2004 12:44:34: TSoundList criado com sucesso.
+29/3/2004 12:44:36: Chamando: [TWindow.Create]
+29/3/2004 12:44:36: Resolução da janela: 640x480.
+29/3/2004 12:44:36: Chamando: [TWindow.Run]
+29/3/2004 12:44:36: Classe TWindow registrada com sucesso.
+29/3/2004 12:44:36: TWindow instanciado com sucesso.
+29/3/2004 12:44:36: Arquivo encontrado: Sound.wav
+29/3/2004 12:44:36: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:44:36: Arquivo encontrado: explode2.wav
+29/3/2004 12:44:36: Chamando: [TGraphics.Create]
+29/3/2004 12:44:36: TGraphics criado com sucesso.
+29/3/2004 12:44:36: Chamando: [TWindow.Create]
+29/3/2004 12:44:36: Direct3D8 criado com sucesso.
+29/3/2004 12:44:36: Adaptador de modo de display encontrado.
+29/3/2004 12:43:16: Chamando: [TWindow.Create]
+29/3/2004 12:44:54: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 12:44:54: Chamando: [TApplication.Create]
+29/3/2004 12:44:54: TApplication criado com sucesso.
+29/3/2004 12:44:54: Chamando: [TSoundList.Create]
+29/3/2004 12:44:54: TSoundList criado com sucesso.
+29/3/2004 12:44:55: Chamando: [TWindow.Create]
+29/3/2004 12:44:55: Resolução da janela: 640x480.
+29/3/2004 12:44:55: Chamando: [TWindow.Run]
+29/3/2004 12:44:55: Classe TWindow registrada com sucesso.
+29/3/2004 12:44:55: TWindow instanciado com sucesso.
+29/3/2004 12:44:55: Arquivo encontrado: Sound.wav
+29/3/2004 12:44:55: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 12:44:55: Arquivo encontrado: explode2.wav
+29/3/2004 12:44:55: Chamando: [TGraphics.Create]
+29/3/2004 12:44:55: TGraphics criado com sucesso.
+29/3/2004 12:44:55: Chamando: [TWindow.Create]
+29/3/2004 12:44:55: Direct3D8 criado com sucesso.
+29/3/2004 12:44:55: Adaptador de modo de display encontrado.
+29/3/2004 12:43:16: Chamando: [TWindow.Create]
+29/3/2004 13:08:31: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:08:31: Chamando: [TApplication.Create]
+29/3/2004 13:08:31: TApplication criado com sucesso.
+29/3/2004 13:08:31: Chamando: [TSoundList.Create]
+29/3/2004 13:08:31: TSoundList criado com sucesso.
+29/3/2004 13:08:32: Chamando: [TWindow.Create]
+29/3/2004 13:08:32: Resolução da janela: 640x480.
+29/3/2004 13:08:32: Chamando: [TWindow.Run]
+29/3/2004 13:08:32: Classe TWindow registrada com sucesso.
+29/3/2004 13:08:32: TWindow instanciado com sucesso.
+29/3/2004 13:08:32: Arquivo encontrado: Sound.wav
+29/3/2004 13:08:32: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:08:32: Arquivo encontrado: explode2.wav
+29/3/2004 13:08:32: Chamando: [TGraphics.Create]
+29/3/2004 13:08:32: TGraphics criado com sucesso.
+29/3/2004 13:08:32: Chamando: [TWindow.Create]
+29/3/2004 13:08:32: Direct3D8 criado com sucesso.
+29/3/2004 13:08:32: Adaptador de modo de display encontrado.
+29/3/2004 13:09:29: Chamando: [TWindow.Create]
+29/3/2004 13:09:37: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:09:37: Chamando: [TApplication.Create]
+29/3/2004 13:09:37: TApplication criado com sucesso.
+29/3/2004 13:09:37: Chamando: [TSoundList.Create]
+29/3/2004 13:09:37: TSoundList criado com sucesso.
+29/3/2004 13:09:38: Chamando: [TWindow.Create]
+29/3/2004 13:09:38: Resolução da janela: 640x480.
+29/3/2004 13:09:38: Chamando: [TWindow.Run]
+29/3/2004 13:09:38: Classe TWindow registrada com sucesso.
+29/3/2004 13:09:38: TWindow instanciado com sucesso.
+29/3/2004 13:09:38: Arquivo encontrado: Sound.wav
+29/3/2004 13:09:38: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:09:38: Arquivo encontrado: explode2.wav
+29/3/2004 13:09:38: Chamando: [TGraphics.Create]
+29/3/2004 13:09:38: TGraphics criado com sucesso.
+29/3/2004 13:09:38: Chamando: [TWindow.Create]
+29/3/2004 13:09:38: Direct3D8 criado com sucesso.
+29/3/2004 13:09:38: Adaptador de modo de display encontrado.
+29/3/2004 13:09:29: Chamando: [TWindow.Create]
+29/3/2004 13:11:51: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:11:51: Chamando: [TApplication.Create]
+29/3/2004 13:11:51: TApplication criado com sucesso.
+29/3/2004 13:11:51: Chamando: [TSoundList.Create]
+29/3/2004 13:11:51: TSoundList criado com sucesso.
+29/3/2004 13:11:53: Chamando: [TWindow.Create]
+29/3/2004 13:11:53: Resolução da janela: 640x480.
+29/3/2004 13:11:53: Chamando: [TWindow.Run]
+29/3/2004 13:11:53: Classe TWindow registrada com sucesso.
+29/3/2004 13:11:53: TWindow instanciado com sucesso.
+29/3/2004 13:11:53: Arquivo encontrado: Sound.wav
+29/3/2004 13:11:53: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:11:53: Arquivo encontrado: explode2.wav
+29/3/2004 13:11:53: Chamando: [TGraphics.Create]
+29/3/2004 13:11:53: TGraphics criado com sucesso.
+29/3/2004 13:11:53: Chamando: [TWindow.Create]
+29/3/2004 13:11:53: Direct3D8 criado com sucesso.
+29/3/2004 13:11:53: Adaptador de modo de display encontrado.
+29/3/2004 13:13:51: Chamando: [TWindow.Create]
+29/3/2004 13:12:22: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:12:22: Chamando: [TApplication.Create]
+29/3/2004 13:12:22: TApplication criado com sucesso.
+29/3/2004 13:12:22: Chamando: [TSoundList.Create]
+29/3/2004 13:12:22: TSoundList criado com sucesso.
+29/3/2004 13:12:23: Chamando: [TWindow.Create]
+29/3/2004 13:12:23: Resolução da janela: 640x480.
+29/3/2004 13:12:23: Chamando: [TWindow.Run]
+29/3/2004 13:12:23: Classe TWindow registrada com sucesso.
+29/3/2004 13:12:23: TWindow instanciado com sucesso.
+29/3/2004 13:12:23: Arquivo encontrado: Sound.wav
+29/3/2004 13:12:23: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:12:23: Arquivo encontrado: explode2.wav
+29/3/2004 13:12:23: Chamando: [TGraphics.Create]
+29/3/2004 13:12:23: TGraphics criado com sucesso.
+29/3/2004 13:12:23: Chamando: [TWindow.Create]
+29/3/2004 13:12:23: Direct3D8 criado com sucesso.
+29/3/2004 13:12:23: Adaptador de modo de display encontrado.
+29/3/2004 13:13:51: Chamando: [TWindow.Create]
+29/3/2004 13:13:05: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:13:05: Chamando: [TApplication.Create]
+29/3/2004 13:13:05: TApplication criado com sucesso.
+29/3/2004 13:13:05: Chamando: [TSoundList.Create]
+29/3/2004 13:13:05: TSoundList criado com sucesso.
+29/3/2004 13:13:06: Chamando: [TWindow.Create]
+29/3/2004 13:13:06: Resolução da janela: 640x480.
+29/3/2004 13:13:06: Chamando: [TWindow.Run]
+29/3/2004 13:13:06: Classe TWindow registrada com sucesso.
+29/3/2004 13:13:06: TWindow instanciado com sucesso.
+29/3/2004 13:13:06: Arquivo encontrado: Sound.wav
+29/3/2004 13:13:06: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:13:06: Arquivo encontrado: explode2.wav
+29/3/2004 13:13:06: Chamando: [TGraphics.Create]
+29/3/2004 13:13:06: TGraphics criado com sucesso.
+29/3/2004 13:13:06: Chamando: [TWindow.Create]
+29/3/2004 13:13:06: Direct3D8 criado com sucesso.
+29/3/2004 13:13:06: Adaptador de modo de display encontrado.
+29/3/2004 13:13:51: Chamando: [TWindow.Create]
+29/3/2004 13:18:22: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:18:22: Chamando: [TApplication.Create]
+29/3/2004 13:18:22: TApplication criado com sucesso.
+29/3/2004 13:18:22: Chamando: [TSoundList.Create]
+29/3/2004 13:18:22: TSoundList criado com sucesso.
+29/3/2004 13:18:23: Chamando: [TWindow.Create]
+29/3/2004 13:18:23: Resolução da janela: 640x480.
+29/3/2004 13:18:23: Chamando: [TWindow.Run]
+29/3/2004 13:18:23: Classe TWindow registrada com sucesso.
+29/3/2004 13:18:23: TWindow instanciado com sucesso.
+29/3/2004 13:18:23: Arquivo encontrado: Sound.wav
+29/3/2004 13:18:23: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:18:23: Arquivo encontrado: explode2.wav
+29/3/2004 13:18:23: Chamando: [TGraphics.Create]
+29/3/2004 13:18:23: TGraphics criado com sucesso.
+29/3/2004 13:18:23: Chamando: [TWindow.Create]
+29/3/2004 13:18:23: Direct3D8 criado com sucesso.
+29/3/2004 13:18:23: Adaptador de modo de display encontrado.
+29/3/2004 13:18:13: Chamando: [TWindow.Create]
+29/3/2004 13:18:55: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:18:55: Chamando: [TApplication.Create]
+29/3/2004 13:18:55: TApplication criado com sucesso.
+29/3/2004 13:18:55: Chamando: [TSoundList.Create]
+29/3/2004 13:18:55: TSoundList criado com sucesso.
+29/3/2004 13:18:57: Chamando: [TWindow.Create]
+29/3/2004 13:18:57: Resolução da janela: 640x480.
+29/3/2004 13:18:57: Chamando: [TWindow.Run]
+29/3/2004 13:18:57: Classe TWindow registrada com sucesso.
+29/3/2004 13:18:57: TWindow instanciado com sucesso.
+29/3/2004 13:18:57: Arquivo encontrado: Sound.wav
+29/3/2004 13:18:57: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:18:57: Arquivo encontrado: explode2.wav
+29/3/2004 13:18:57: Chamando: [TGraphics.Create]
+29/3/2004 13:18:57: TGraphics criado com sucesso.
+29/3/2004 13:18:57: Chamando: [TWindow.Create]
+29/3/2004 13:18:57: Direct3D8 criado com sucesso.
+29/3/2004 13:18:57: Adaptador de modo de display encontrado.
+29/3/2004 13:18:13: Chamando: [TWindow.Create]
+29/3/2004 13:19:10: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:19:10: Chamando: [TApplication.Create]
+29/3/2004 13:19:10: TApplication criado com sucesso.
+29/3/2004 13:19:10: Chamando: [TSoundList.Create]
+29/3/2004 13:19:10: TSoundList criado com sucesso.
+29/3/2004 13:19:12: Chamando: [TWindow.Create]
+29/3/2004 13:19:12: Resolução da janela: 640x480.
+29/3/2004 13:19:12: Chamando: [TWindow.Run]
+29/3/2004 13:19:12: Classe TWindow registrada com sucesso.
+29/3/2004 13:19:12: TWindow instanciado com sucesso.
+29/3/2004 13:19:12: Arquivo encontrado: Sound.wav
+29/3/2004 13:19:12: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:19:12: Arquivo encontrado: explode2.wav
+29/3/2004 13:19:12: Chamando: [TGraphics.Create]
+29/3/2004 13:19:12: TGraphics criado com sucesso.
+29/3/2004 13:19:12: Chamando: [TWindow.Create]
+29/3/2004 13:19:12: Direct3D8 criado com sucesso.
+29/3/2004 13:19:12: Adaptador de modo de display encontrado.
+29/3/2004 13:18:13: Chamando: [TWindow.Create]
+29/3/2004 13:20:02: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:20:02: Chamando: [TApplication.Create]
+29/3/2004 13:20:02: TApplication criado com sucesso.
+29/3/2004 13:20:02: Chamando: [TSoundList.Create]
+29/3/2004 13:20:02: TSoundList criado com sucesso.
+29/3/2004 13:20:04: Chamando: [TWindow.Create]
+29/3/2004 13:20:04: Resolução da janela: 640x480.
+29/3/2004 13:20:04: Chamando: [TWindow.Run]
+29/3/2004 13:20:04: Classe TWindow registrada com sucesso.
+29/3/2004 13:20:04: TWindow instanciado com sucesso.
+29/3/2004 13:20:04: Arquivo encontrado: Sound.wav
+29/3/2004 13:20:04: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:20:04: Arquivo encontrado: explode2.wav
+29/3/2004 13:20:04: Chamando: [TGraphics.Create]
+29/3/2004 13:20:04: TGraphics criado com sucesso.
+29/3/2004 13:20:04: Chamando: [TWindow.Create]
+29/3/2004 13:20:04: Direct3D8 criado com sucesso.
+29/3/2004 13:20:04: Adaptador de modo de display encontrado.
+29/3/2004 13:18:13: Chamando: [TWindow.Create]
+29/3/2004 13:20:24: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:20:24: Chamando: [TApplication.Create]
+29/3/2004 13:20:24: TApplication criado com sucesso.
+29/3/2004 13:20:24: Chamando: [TSoundList.Create]
+29/3/2004 13:20:24: TSoundList criado com sucesso.
+29/3/2004 13:20:26: Chamando: [TWindow.Create]
+29/3/2004 13:20:26: Resolução da janela: 640x480.
+29/3/2004 13:20:26: Chamando: [TWindow.Run]
+29/3/2004 13:20:26: Classe TWindow registrada com sucesso.
+29/3/2004 13:20:26: TWindow instanciado com sucesso.
+29/3/2004 13:20:26: Arquivo encontrado: Sound.wav
+29/3/2004 13:20:26: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:20:26: Arquivo encontrado: explode2.wav
+29/3/2004 13:20:26: Chamando: [TGraphics.Create]
+29/3/2004 13:20:26: TGraphics criado com sucesso.
+29/3/2004 13:20:26: Chamando: [TWindow.Create]
+29/3/2004 13:20:26: Direct3D8 criado com sucesso.
+29/3/2004 13:20:26: Adaptador de modo de display encontrado.
+29/3/2004 13:18:13: Chamando: [TWindow.Create]
+29/3/2004 13:20:42: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:20:42: Chamando: [TApplication.Create]
+29/3/2004 13:20:42: TApplication criado com sucesso.
+29/3/2004 13:20:42: Chamando: [TSoundList.Create]
+29/3/2004 13:20:42: TSoundList criado com sucesso.
+29/3/2004 13:20:43: Chamando: [TWindow.Create]
+29/3/2004 13:20:43: Resolução da janela: 640x480.
+29/3/2004 13:20:43: Chamando: [TWindow.Run]
+29/3/2004 13:20:43: Classe TWindow registrada com sucesso.
+29/3/2004 13:20:43: TWindow instanciado com sucesso.
+29/3/2004 13:20:43: Arquivo encontrado: Sound.wav
+29/3/2004 13:20:43: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:20:43: Arquivo encontrado: explode2.wav
+29/3/2004 13:20:43: Chamando: [TGraphics.Create]
+29/3/2004 13:20:43: TGraphics criado com sucesso.
+29/3/2004 13:20:43: Chamando: [TWindow.Create]
+29/3/2004 13:20:43: Direct3D8 criado com sucesso.
+29/3/2004 13:20:43: Adaptador de modo de display encontrado.
+29/3/2004 13:18:13: Chamando: [TWindow.Create]
+29/3/2004 13:26:24: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:26:24: Chamando: [TApplication.Create]
+29/3/2004 13:26:24: TApplication criado com sucesso.
+29/3/2004 13:26:24: Chamando: [TSoundList.Create]
+29/3/2004 13:26:24: TSoundList criado com sucesso.
+29/3/2004 13:26:25: Chamando: [TWindow.Create]
+29/3/2004 13:26:25: Resolução da janela: 640x480.
+29/3/2004 13:26:25: Chamando: [TWindow.Run]
+29/3/2004 13:26:25: Classe TWindow registrada com sucesso.
+29/3/2004 13:26:25: TWindow instanciado com sucesso.
+29/3/2004 13:26:25: Arquivo encontrado: Sound.wav
+29/3/2004 13:26:25: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:26:25: Arquivo encontrado: explode2.wav
+29/3/2004 13:26:25: Chamando: [TGraphics.Create]
+29/3/2004 13:26:25: TGraphics criado com sucesso.
+29/3/2004 13:26:25: Chamando: [TWindow.Create]
+29/3/2004 13:26:25: Direct3D8 criado com sucesso.
+29/3/2004 13:26:25: Adaptador de modo de display encontrado.
+29/3/2004 13:22:35: Chamando: [TWindow.Create]
+29/3/2004 13:28:38: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:28:38: Chamando: [TApplication.Create]
+29/3/2004 13:28:38: TApplication criado com sucesso.
+29/3/2004 13:28:38: Chamando: [TSoundList.Create]
+29/3/2004 13:28:38: TSoundList criado com sucesso.
+29/3/2004 13:28:39: Chamando: [TWindow.Create]
+29/3/2004 13:28:39: Resolução da janela: 640x480.
+29/3/2004 13:28:39: Chamando: [TWindow.Run]
+29/3/2004 13:28:39: Classe TWindow registrada com sucesso.
+29/3/2004 13:28:40: TWindow instanciado com sucesso.
+29/3/2004 13:28:40: Arquivo encontrado: Sound.wav
+29/3/2004 13:28:40: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:28:40: Arquivo encontrado: explode2.wav
+29/3/2004 13:28:40: Chamando: [TGraphics.Create]
+29/3/2004 13:28:40: TGraphics criado com sucesso.
+29/3/2004 13:28:40: Chamando: [TWindow.Create]
+29/3/2004 13:28:40: Direct3D8 criado com sucesso.
+29/3/2004 13:28:40: Adaptador de modo de display encontrado.
+29/3/2004 13:31:19: Chamando: [TWindow.Create]
+29/3/2004 13:29:03: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 13:29:03: Chamando: [TApplication.Create]
+29/3/2004 13:29:03: TApplication criado com sucesso.
+29/3/2004 13:29:03: Chamando: [TSoundList.Create]
+29/3/2004 13:29:03: TSoundList criado com sucesso.
+29/3/2004 13:29:04: Chamando: [TWindow.Create]
+29/3/2004 13:29:04: Resolução da janela: 640x480.
+29/3/2004 13:29:04: Chamando: [TWindow.Run]
+29/3/2004 13:29:04: Classe TWindow registrada com sucesso.
+29/3/2004 13:29:04: TWindow instanciado com sucesso.
+29/3/2004 13:29:04: Arquivo encontrado: Sound.wav
+29/3/2004 13:29:04: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 13:29:04: Arquivo encontrado: explode2.wav
+29/3/2004 13:29:04: Chamando: [TGraphics.Create]
+29/3/2004 13:29:04: TGraphics criado com sucesso.
+29/3/2004 13:29:04: Chamando: [TWindow.Create]
+29/3/2004 13:29:04: Direct3D8 criado com sucesso.
+29/3/2004 13:29:04: Adaptador de modo de display encontrado.
+29/3/2004 13:31:19: Chamando: [TWindow.Create]
+29/3/2004 16:00:24: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:00:24: Chamando: [TApplication.Create]
+29/3/2004 16:00:24: TApplication criado com sucesso.
+29/3/2004 16:00:25: Chamando: [TSoundList.Create]
+29/3/2004 16:00:25: TSoundList criado com sucesso.
+29/3/2004 16:00:31: Chamando: [TWindow.Create]
+29/3/2004 16:00:31: Resolução da janela: 640x480.
+29/3/2004 16:00:31: Chamando: [TWindow.Run]
+29/3/2004 16:00:31: Classe TWindow registrada com sucesso.
+29/3/2004 16:00:31: TWindow instanciado com sucesso.
+29/3/2004 16:00:32: Arquivo encontrado: Sound.wav
+29/3/2004 16:00:32: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:00:32: Arquivo encontrado: explode2.wav
+29/3/2004 16:00:32: Chamando: [TGraphics.Create]
+29/3/2004 16:00:32: TGraphics criado com sucesso.
+29/3/2004 16:00:32: Chamando: [TWindow.Create]
+29/3/2004 16:00:32: Direct3D8 criado com sucesso.
+29/3/2004 16:00:32: Adaptador de modo de display encontrado.
+29/3/2004 15:59:52: Chamando: [TWindow.Create]
+29/3/2004 16:11:42: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:11:42: Chamando: [TApplication.Create]
+29/3/2004 16:11:42: TApplication criado com sucesso.
+29/3/2004 16:11:42: Chamando: [TSoundList.Create]
+29/3/2004 16:11:42: TSoundList criado com sucesso.
+29/3/2004 16:11:43: Chamando: [TWindow.Create]
+29/3/2004 16:11:43: Resolução da janela: 640x480.
+29/3/2004 16:11:43: Chamando: [TWindow.Run]
+29/3/2004 16:11:43: Classe TWindow registrada com sucesso.
+29/3/2004 16:11:43: TWindow instanciado com sucesso.
+29/3/2004 16:11:43: Arquivo encontrado: Sound.wav
+29/3/2004 16:11:43: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:11:43: Arquivo encontrado: explode2.wav
+29/3/2004 16:11:43: Chamando: [TGraphics.Create]
+29/3/2004 16:11:43: TGraphics criado com sucesso.
+29/3/2004 16:11:43: Chamando: [TWindow.Create]
+29/3/2004 16:11:43: Direct3D8 criado com sucesso.
+29/3/2004 16:11:43: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:12:13: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:12:13: Chamando: [TApplication.Create]
+29/3/2004 16:12:13: TApplication criado com sucesso.
+29/3/2004 16:12:13: Chamando: [TSoundList.Create]
+29/3/2004 16:12:13: TSoundList criado com sucesso.
+29/3/2004 16:12:15: Chamando: [TWindow.Create]
+29/3/2004 16:12:15: Resolução da janela: 640x480.
+29/3/2004 16:12:15: Chamando: [TWindow.Run]
+29/3/2004 16:12:15: Classe TWindow registrada com sucesso.
+29/3/2004 16:12:15: TWindow instanciado com sucesso.
+29/3/2004 16:12:15: Arquivo encontrado: Sound.wav
+29/3/2004 16:12:15: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:12:15: Arquivo encontrado: explode2.wav
+29/3/2004 16:12:15: Chamando: [TGraphics.Create]
+29/3/2004 16:12:15: TGraphics criado com sucesso.
+29/3/2004 16:12:15: Chamando: [TWindow.Create]
+29/3/2004 16:12:15: Direct3D8 criado com sucesso.
+29/3/2004 16:12:15: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:12:28: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:12:28: Chamando: [TApplication.Create]
+29/3/2004 16:12:28: TApplication criado com sucesso.
+29/3/2004 16:12:28: Chamando: [TSoundList.Create]
+29/3/2004 16:12:28: TSoundList criado com sucesso.
+29/3/2004 16:12:30: Chamando: [TWindow.Create]
+29/3/2004 16:12:30: Resolução da janela: 640x480.
+29/3/2004 16:12:30: Chamando: [TWindow.Run]
+29/3/2004 16:12:30: Classe TWindow registrada com sucesso.
+29/3/2004 16:12:30: TWindow instanciado com sucesso.
+29/3/2004 16:12:30: Arquivo encontrado: Sound.wav
+29/3/2004 16:12:30: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:12:30: Arquivo encontrado: explode2.wav
+29/3/2004 16:12:30: Chamando: [TGraphics.Create]
+29/3/2004 16:12:30: TGraphics criado com sucesso.
+29/3/2004 16:12:30: Chamando: [TWindow.Create]
+29/3/2004 16:12:30: Direct3D8 criado com sucesso.
+29/3/2004 16:12:30: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:12:48: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:12:48: Chamando: [TApplication.Create]
+29/3/2004 16:12:48: TApplication criado com sucesso.
+29/3/2004 16:12:48: Chamando: [TSoundList.Create]
+29/3/2004 16:12:48: TSoundList criado com sucesso.
+29/3/2004 16:12:49: Chamando: [TWindow.Create]
+29/3/2004 16:12:49: Resolução da janela: 640x480.
+29/3/2004 16:12:49: Chamando: [TWindow.Run]
+29/3/2004 16:12:49: Classe TWindow registrada com sucesso.
+29/3/2004 16:12:49: TWindow instanciado com sucesso.
+29/3/2004 16:12:49: Arquivo encontrado: Sound.wav
+29/3/2004 16:12:49: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:12:49: Arquivo encontrado: explode2.wav
+29/3/2004 16:12:49: Chamando: [TGraphics.Create]
+29/3/2004 16:12:49: TGraphics criado com sucesso.
+29/3/2004 16:12:49: Chamando: [TWindow.Create]
+29/3/2004 16:12:49: Direct3D8 criado com sucesso.
+29/3/2004 16:12:49: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:13:03: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:13:03: Chamando: [TApplication.Create]
+29/3/2004 16:13:03: TApplication criado com sucesso.
+29/3/2004 16:13:03: Chamando: [TSoundList.Create]
+29/3/2004 16:13:03: TSoundList criado com sucesso.
+29/3/2004 16:13:04: Chamando: [TWindow.Create]
+29/3/2004 16:13:04: Resolução da janela: 640x480.
+29/3/2004 16:13:04: Chamando: [TWindow.Run]
+29/3/2004 16:13:04: Classe TWindow registrada com sucesso.
+29/3/2004 16:13:04: TWindow instanciado com sucesso.
+29/3/2004 16:13:05: Arquivo encontrado: Sound.wav
+29/3/2004 16:13:05: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:13:05: Arquivo encontrado: explode2.wav
+29/3/2004 16:13:05: Chamando: [TGraphics.Create]
+29/3/2004 16:13:05: TGraphics criado com sucesso.
+29/3/2004 16:13:05: Chamando: [TWindow.Create]
+29/3/2004 16:13:05: Direct3D8 criado com sucesso.
+29/3/2004 16:13:05: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:13:17: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:13:17: Chamando: [TApplication.Create]
+29/3/2004 16:13:17: TApplication criado com sucesso.
+29/3/2004 16:13:17: Chamando: [TSoundList.Create]
+29/3/2004 16:13:17: TSoundList criado com sucesso.
+29/3/2004 16:13:18: Chamando: [TWindow.Create]
+29/3/2004 16:13:18: Resolução da janela: 640x480.
+29/3/2004 16:13:18: Chamando: [TWindow.Run]
+29/3/2004 16:13:18: Classe TWindow registrada com sucesso.
+29/3/2004 16:13:18: TWindow instanciado com sucesso.
+29/3/2004 16:13:18: Arquivo encontrado: Sound.wav
+29/3/2004 16:13:18: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:13:18: Arquivo encontrado: explode2.wav
+29/3/2004 16:13:18: Chamando: [TGraphics.Create]
+29/3/2004 16:13:18: TGraphics criado com sucesso.
+29/3/2004 16:13:18: Chamando: [TWindow.Create]
+29/3/2004 16:13:18: Direct3D8 criado com sucesso.
+29/3/2004 16:13:18: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:15:16: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:15:16: Chamando: [TApplication.Create]
+29/3/2004 16:15:16: TApplication criado com sucesso.
+29/3/2004 16:15:16: Chamando: [TSoundList.Create]
+29/3/2004 16:15:16: TSoundList criado com sucesso.
+29/3/2004 16:15:18: Chamando: [TWindow.Create]
+29/3/2004 16:15:18: Resolução da janela: 640x480.
+29/3/2004 16:15:18: Chamando: [TWindow.Run]
+29/3/2004 16:15:18: Classe TWindow registrada com sucesso.
+29/3/2004 16:15:18: TWindow instanciado com sucesso.
+29/3/2004 16:15:18: Arquivo encontrado: Sound.wav
+29/3/2004 16:15:18: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:15:18: Arquivo encontrado: explode2.wav
+29/3/2004 16:15:18: Chamando: [TGraphics.Create]
+29/3/2004 16:15:18: TGraphics criado com sucesso.
+29/3/2004 16:15:18: Chamando: [TWindow.Create]
+29/3/2004 16:15:18: Direct3D8 criado com sucesso.
+29/3/2004 16:15:18: Adaptador de modo de display encontrado.
+29/3/2004 16:12:59: Chamando: [TWindow.Create]
+29/3/2004 16:16:11: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:16:11: Chamando: [TApplication.Create]
+29/3/2004 16:16:11: TApplication criado com sucesso.
+29/3/2004 16:16:11: Chamando: [TSoundList.Create]
+29/3/2004 16:16:11: TSoundList criado com sucesso.
+29/3/2004 16:16:12: Chamando: [TWindow.Create]
+29/3/2004 16:16:12: Resolução da janela: 640x480.
+29/3/2004 16:16:12: Chamando: [TWindow.Run]
+29/3/2004 16:16:12: Classe TWindow registrada com sucesso.
+29/3/2004 16:16:12: TWindow instanciado com sucesso.
+29/3/2004 16:16:12: Arquivo encontrado: Sound.wav
+29/3/2004 16:16:12: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:16:12: Arquivo encontrado: explode2.wav
+29/3/2004 16:16:12: Chamando: [TGraphics.Create]
+29/3/2004 16:16:12: TGraphics criado com sucesso.
+29/3/2004 16:16:12: Chamando: [TWindow.Create]
+29/3/2004 16:16:12: Direct3D8 criado com sucesso.
+29/3/2004 16:16:12: Adaptador de modo de display encontrado.
+29/3/2004 16:17:21: Chamando: [TWindow.Create]
+29/3/2004 16:22:43: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:22:43: Chamando: [TApplication.Create]
+29/3/2004 16:22:43: TApplication criado com sucesso.
+29/3/2004 16:22:43: Chamando: [TSoundList.Create]
+29/3/2004 16:22:43: TSoundList criado com sucesso.
+29/3/2004 16:22:44: Chamando: [TWindow.Create]
+29/3/2004 16:22:44: Resolução da janela: 640x480.
+29/3/2004 16:22:44: Chamando: [TWindow.Run]
+29/3/2004 16:22:44: Classe TWindow registrada com sucesso.
+29/3/2004 16:22:44: TWindow instanciado com sucesso.
+29/3/2004 16:22:44: Arquivo encontrado: Sound.wav
+29/3/2004 16:22:44: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:22:44: Arquivo encontrado: explode2.wav
+29/3/2004 16:22:44: Chamando: [TGraphics.Create]
+29/3/2004 16:22:44: TGraphics criado com sucesso.
+29/3/2004 16:22:44: Chamando: [TWindow.Create]
+29/3/2004 16:22:45: Direct3D8 criado com sucesso.
+29/3/2004 16:22:45: Adaptador de modo de display encontrado.
+29/3/2004 16:26:05: Chamando: [TWindow.Create]
+29/3/2004 16:27:33: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:27:33: Chamando: [TApplication.Create]
+29/3/2004 16:27:33: TApplication criado com sucesso.
+29/3/2004 16:27:33: Chamando: [TSoundList.Create]
+29/3/2004 16:27:33: TSoundList criado com sucesso.
+29/3/2004 16:27:34: Chamando: [TWindow.Create]
+29/3/2004 16:27:34: Resolução da janela: 640x480.
+29/3/2004 16:27:34: Chamando: [TWindow.Run]
+29/3/2004 16:27:34: Classe TWindow registrada com sucesso.
+29/3/2004 16:27:34: TWindow instanciado com sucesso.
+29/3/2004 16:27:34: Arquivo encontrado: Sound.wav
+29/3/2004 16:27:34: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:27:34: Arquivo encontrado: explode2.wav
+29/3/2004 16:27:35: Chamando: [TGraphics.Create]
+29/3/2004 16:27:35: TGraphics criado com sucesso.
+29/3/2004 16:27:35: Chamando: [TWindow.Create]
+29/3/2004 16:27:35: Direct3D8 criado com sucesso.
+29/3/2004 16:27:35: Adaptador de modo de display encontrado.
+29/3/2004 16:30:27: Chamando: [TWindow.Create]
+29/3/2004 16:28:57: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:28:57: Chamando: [TApplication.Create]
+29/3/2004 16:28:57: TApplication criado com sucesso.
+29/3/2004 16:28:57: Chamando: [TSoundList.Create]
+29/3/2004 16:28:57: TSoundList criado com sucesso.
+29/3/2004 16:28:58: Chamando: [TWindow.Create]
+29/3/2004 16:28:58: Resolução da janela: 640x480.
+29/3/2004 16:28:58: Chamando: [TWindow.Run]
+29/3/2004 16:28:58: Classe TWindow registrada com sucesso.
+29/3/2004 16:28:58: TWindow instanciado com sucesso.
+29/3/2004 16:28:58: Arquivo encontrado: Sound.wav
+29/3/2004 16:28:58: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:28:58: Arquivo encontrado: explode2.wav
+29/3/2004 16:28:58: Chamando: [TGraphics.Create]
+29/3/2004 16:28:58: TGraphics criado com sucesso.
+29/3/2004 16:28:58: Chamando: [TWindow.Create]
+29/3/2004 16:28:59: Direct3D8 criado com sucesso.
+29/3/2004 16:28:59: Adaptador de modo de display encontrado.
+29/3/2004 16:30:27: Chamando: [TWindow.Create]
+29/3/2004 16:30:27: Ocorreu o seguinte erro: List index out of bounds (2)
+29/3/2004 16:30:11: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:30:11: Chamando: [TApplication.Create]
+29/3/2004 16:30:11: TApplication criado com sucesso.
+29/3/2004 16:30:11: Chamando: [TSoundList.Create]
+29/3/2004 16:30:11: TSoundList criado com sucesso.
+29/3/2004 16:30:12: Chamando: [TWindow.Create]
+29/3/2004 16:30:12: Resolução da janela: 640x480.
+29/3/2004 16:30:12: Chamando: [TWindow.Run]
+29/3/2004 16:30:12: Classe TWindow registrada com sucesso.
+29/3/2004 16:30:12: TWindow instanciado com sucesso.
+29/3/2004 16:30:12: Arquivo encontrado: Sound.wav
+29/3/2004 16:30:12: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:30:12: Arquivo encontrado: explode2.wav
+29/3/2004 16:30:12: Chamando: [TGraphics.Create]
+29/3/2004 16:30:12: TGraphics criado com sucesso.
+29/3/2004 16:30:12: Chamando: [TWindow.Create]
+29/3/2004 16:30:13: Direct3D8 criado com sucesso.
+29/3/2004 16:30:13: Adaptador de modo de display encontrado.
+29/3/2004 16:30:27: Chamando: [TWindow.Create]
+29/3/2004 16:30:43: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:30:43: Chamando: [TApplication.Create]
+29/3/2004 16:30:43: TApplication criado com sucesso.
+29/3/2004 16:30:43: Chamando: [TSoundList.Create]
+29/3/2004 16:30:43: TSoundList criado com sucesso.
+29/3/2004 16:30:44: Chamando: [TWindow.Create]
+29/3/2004 16:30:44: Resolução da janela: 640x480.
+29/3/2004 16:30:44: Chamando: [TWindow.Run]
+29/3/2004 16:30:44: Classe TWindow registrada com sucesso.
+29/3/2004 16:30:44: TWindow instanciado com sucesso.
+29/3/2004 16:30:44: Arquivo encontrado: Sound.wav
+29/3/2004 16:30:44: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:30:44: Arquivo encontrado: explode2.wav
+29/3/2004 16:30:44: Chamando: [TGraphics.Create]
+29/3/2004 16:30:44: TGraphics criado com sucesso.
+29/3/2004 16:30:44: Chamando: [TWindow.Create]
+29/3/2004 16:30:44: Direct3D8 criado com sucesso.
+29/3/2004 16:30:44: Adaptador de modo de display encontrado.
+29/3/2004 16:30:27: Chamando: [TWindow.Create]
+29/3/2004 16:31:15: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:31:15: Chamando: [TApplication.Create]
+29/3/2004 16:31:15: TApplication criado com sucesso.
+29/3/2004 16:31:15: Chamando: [TSoundList.Create]
+29/3/2004 16:31:15: TSoundList criado com sucesso.
+29/3/2004 16:31:16: Chamando: [TWindow.Create]
+29/3/2004 16:31:16: Resolução da janela: 640x480.
+29/3/2004 16:31:16: Chamando: [TWindow.Run]
+29/3/2004 16:31:16: Classe TWindow registrada com sucesso.
+29/3/2004 16:31:16: TWindow instanciado com sucesso.
+29/3/2004 16:31:16: Arquivo encontrado: Sound.wav
+29/3/2004 16:31:16: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:31:16: Arquivo encontrado: explode2.wav
+29/3/2004 16:31:16: Chamando: [TGraphics.Create]
+29/3/2004 16:31:16: TGraphics criado com sucesso.
+29/3/2004 16:31:16: Chamando: [TWindow.Create]
+29/3/2004 16:31:16: Direct3D8 criado com sucesso.
+29/3/2004 16:31:16: Adaptador de modo de display encontrado.
+29/3/2004 16:30:27: Chamando: [TWindow.Create]
+29/3/2004 16:31:43: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:31:43: Chamando: [TApplication.Create]
+29/3/2004 16:31:43: TApplication criado com sucesso.
+29/3/2004 16:31:43: Chamando: [TSoundList.Create]
+29/3/2004 16:31:43: TSoundList criado com sucesso.
+29/3/2004 16:31:44: Chamando: [TWindow.Create]
+29/3/2004 16:31:44: Resolução da janela: 640x480.
+29/3/2004 16:31:44: Chamando: [TWindow.Run]
+29/3/2004 16:31:44: Classe TWindow registrada com sucesso.
+29/3/2004 16:31:44: TWindow instanciado com sucesso.
+29/3/2004 16:31:44: Arquivo encontrado: Sound.wav
+29/3/2004 16:31:44: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:31:44: Arquivo encontrado: explode2.wav
+29/3/2004 16:31:44: Chamando: [TGraphics.Create]
+29/3/2004 16:31:44: TGraphics criado com sucesso.
+29/3/2004 16:31:44: Chamando: [TWindow.Create]
+29/3/2004 16:31:44: Direct3D8 criado com sucesso.
+29/3/2004 16:31:44: Adaptador de modo de display encontrado.
+29/3/2004 16:30:27: Chamando: [TWindow.Create]
+29/3/2004 16:32:52: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:32:52: Chamando: [TApplication.Create]
+29/3/2004 16:32:52: TApplication criado com sucesso.
+29/3/2004 16:32:52: Chamando: [TSoundList.Create]
+29/3/2004 16:32:52: TSoundList criado com sucesso.
+29/3/2004 16:32:53: Chamando: [TWindow.Create]
+29/3/2004 16:32:53: Resolução da janela: 640x480.
+29/3/2004 16:32:53: Chamando: [TWindow.Run]
+29/3/2004 16:32:53: Classe TWindow registrada com sucesso.
+29/3/2004 16:32:53: TWindow instanciado com sucesso.
+29/3/2004 16:32:53: Arquivo encontrado: Sound.wav
+29/3/2004 16:32:53: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:32:53: Arquivo encontrado: explode2.wav
+29/3/2004 16:32:53: Chamando: [TGraphics.Create]
+29/3/2004 16:32:53: TGraphics criado com sucesso.
+29/3/2004 16:32:53: Chamando: [TWindow.Create]
+29/3/2004 16:32:53: Direct3D8 criado com sucesso.
+29/3/2004 16:32:53: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:33:54: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:33:54: Chamando: [TApplication.Create]
+29/3/2004 16:33:54: TApplication criado com sucesso.
+29/3/2004 16:33:54: Chamando: [TSoundList.Create]
+29/3/2004 16:33:54: TSoundList criado com sucesso.
+29/3/2004 16:33:55: Chamando: [TWindow.Create]
+29/3/2004 16:33:55: Resolução da janela: 640x480.
+29/3/2004 16:33:55: Chamando: [TWindow.Run]
+29/3/2004 16:33:55: Classe TWindow registrada com sucesso.
+29/3/2004 16:33:55: TWindow instanciado com sucesso.
+29/3/2004 16:33:56: Arquivo encontrado: Sound.wav
+29/3/2004 16:33:56: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:33:56: Arquivo encontrado: explode2.wav
+29/3/2004 16:33:56: Chamando: [TGraphics.Create]
+29/3/2004 16:33:56: TGraphics criado com sucesso.
+29/3/2004 16:33:56: Chamando: [TWindow.Create]
+29/3/2004 16:33:56: Direct3D8 criado com sucesso.
+29/3/2004 16:33:56: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:34:59: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:34:59: Chamando: [TApplication.Create]
+29/3/2004 16:34:59: TApplication criado com sucesso.
+29/3/2004 16:34:59: Chamando: [TSoundList.Create]
+29/3/2004 16:34:59: TSoundList criado com sucesso.
+29/3/2004 16:35:01: Chamando: [TWindow.Create]
+29/3/2004 16:35:01: Resolução da janela: 640x480.
+29/3/2004 16:35:01: Chamando: [TWindow.Run]
+29/3/2004 16:35:01: Classe TWindow registrada com sucesso.
+29/3/2004 16:35:01: TWindow instanciado com sucesso.
+29/3/2004 16:35:01: Arquivo encontrado: Sound.wav
+29/3/2004 16:35:01: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:35:01: Arquivo encontrado: explode2.wav
+29/3/2004 16:35:01: Chamando: [TGraphics.Create]
+29/3/2004 16:35:01: TGraphics criado com sucesso.
+29/3/2004 16:35:01: Chamando: [TWindow.Create]
+29/3/2004 16:35:01: Direct3D8 criado com sucesso.
+29/3/2004 16:35:01: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:36:00: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:36:00: Chamando: [TApplication.Create]
+29/3/2004 16:36:00: TApplication criado com sucesso.
+29/3/2004 16:36:00: Chamando: [TSoundList.Create]
+29/3/2004 16:36:00: TSoundList criado com sucesso.
+29/3/2004 16:36:02: Chamando: [TWindow.Create]
+29/3/2004 16:36:02: Resolução da janela: 640x480.
+29/3/2004 16:36:02: Chamando: [TWindow.Run]
+29/3/2004 16:36:02: Classe TWindow registrada com sucesso.
+29/3/2004 16:36:02: TWindow instanciado com sucesso.
+29/3/2004 16:36:02: Arquivo encontrado: Sound.wav
+29/3/2004 16:36:02: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:36:02: Arquivo encontrado: explode2.wav
+29/3/2004 16:36:02: Chamando: [TGraphics.Create]
+29/3/2004 16:36:02: TGraphics criado com sucesso.
+29/3/2004 16:36:02: Chamando: [TWindow.Create]
+29/3/2004 16:36:02: Direct3D8 criado com sucesso.
+29/3/2004 16:36:02: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:36:29: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:36:29: Chamando: [TApplication.Create]
+29/3/2004 16:36:29: TApplication criado com sucesso.
+29/3/2004 16:36:29: Chamando: [TSoundList.Create]
+29/3/2004 16:36:29: TSoundList criado com sucesso.
+29/3/2004 16:36:30: Chamando: [TWindow.Create]
+29/3/2004 16:36:30: Resolução da janela: 640x480.
+29/3/2004 16:36:30: Chamando: [TWindow.Run]
+29/3/2004 16:36:30: Classe TWindow registrada com sucesso.
+29/3/2004 16:36:30: TWindow instanciado com sucesso.
+29/3/2004 16:36:30: Arquivo encontrado: Sound.wav
+29/3/2004 16:36:30: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:36:30: Arquivo encontrado: explode2.wav
+29/3/2004 16:36:30: Chamando: [TGraphics.Create]
+29/3/2004 16:36:30: TGraphics criado com sucesso.
+29/3/2004 16:36:30: Chamando: [TWindow.Create]
+29/3/2004 16:36:31: Direct3D8 criado com sucesso.
+29/3/2004 16:36:31: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:37:55: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:37:55: Chamando: [TApplication.Create]
+29/3/2004 16:37:55: TApplication criado com sucesso.
+29/3/2004 16:37:55: Chamando: [TSoundList.Create]
+29/3/2004 16:37:55: TSoundList criado com sucesso.
+29/3/2004 16:37:56: Chamando: [TWindow.Create]
+29/3/2004 16:37:56: Resolução da janela: 640x480.
+29/3/2004 16:37:56: Chamando: [TWindow.Run]
+29/3/2004 16:37:56: Classe TWindow registrada com sucesso.
+29/3/2004 16:37:56: TWindow instanciado com sucesso.
+29/3/2004 16:37:56: Arquivo encontrado: Sound.wav
+29/3/2004 16:37:56: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:37:56: Arquivo encontrado: explode2.wav
+29/3/2004 16:37:56: Chamando: [TGraphics.Create]
+29/3/2004 16:37:56: TGraphics criado com sucesso.
+29/3/2004 16:37:56: Chamando: [TWindow.Create]
+29/3/2004 16:37:56: Direct3D8 criado com sucesso.
+29/3/2004 16:37:56: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:38:12: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:38:12: Chamando: [TApplication.Create]
+29/3/2004 16:38:12: TApplication criado com sucesso.
+29/3/2004 16:38:12: Chamando: [TSoundList.Create]
+29/3/2004 16:38:12: TSoundList criado com sucesso.
+29/3/2004 16:38:13: Chamando: [TWindow.Create]
+29/3/2004 16:38:13: Resolução da janela: 640x480.
+29/3/2004 16:38:13: Chamando: [TWindow.Run]
+29/3/2004 16:38:13: Classe TWindow registrada com sucesso.
+29/3/2004 16:38:13: TWindow instanciado com sucesso.
+29/3/2004 16:38:13: Arquivo encontrado: Sound.wav
+29/3/2004 16:38:13: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:38:13: Arquivo encontrado: explode2.wav
+29/3/2004 16:38:13: Chamando: [TGraphics.Create]
+29/3/2004 16:38:13: TGraphics criado com sucesso.
+29/3/2004 16:38:13: Chamando: [TWindow.Create]
+29/3/2004 16:38:13: Direct3D8 criado com sucesso.
+29/3/2004 16:38:13: Adaptador de modo de display encontrado.
+29/3/2004 16:34:49: Chamando: [TWindow.Create]
+29/3/2004 16:38:27: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:38:27: Chamando: [TApplication.Create]
+29/3/2004 16:38:27: TApplication criado com sucesso.
+29/3/2004 16:38:27: Chamando: [TSoundList.Create]
+29/3/2004 16:38:27: TSoundList criado com sucesso.
+29/3/2004 16:38:29: Chamando: [TWindow.Create]
+29/3/2004 16:38:29: Resolução da janela: 640x480.
+29/3/2004 16:38:29: Chamando: [TWindow.Run]
+29/3/2004 16:38:29: Classe TWindow registrada com sucesso.
+29/3/2004 16:38:29: TWindow instanciado com sucesso.
+29/3/2004 16:38:29: Arquivo encontrado: Sound.wav
+29/3/2004 16:38:29: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:38:29: Arquivo encontrado: explode2.wav
+29/3/2004 16:38:29: Chamando: [TGraphics.Create]
+29/3/2004 16:38:29: TGraphics criado com sucesso.
+29/3/2004 16:38:29: Chamando: [TWindow.Create]
+29/3/2004 16:38:29: Direct3D8 criado com sucesso.
+29/3/2004 16:38:29: Adaptador de modo de display encontrado.
+29/3/2004 16:39:12: Chamando: [TWindow.Create]
+29/3/2004 16:38:53: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:38:53: Chamando: [TApplication.Create]
+29/3/2004 16:38:53: TApplication criado com sucesso.
+29/3/2004 16:38:53: Chamando: [TSoundList.Create]
+29/3/2004 16:38:53: TSoundList criado com sucesso.
+29/3/2004 16:38:55: Chamando: [TWindow.Create]
+29/3/2004 16:38:55: Resolução da janela: 640x480.
+29/3/2004 16:38:55: Chamando: [TWindow.Run]
+29/3/2004 16:38:55: Classe TWindow registrada com sucesso.
+29/3/2004 16:38:55: TWindow instanciado com sucesso.
+29/3/2004 16:38:55: Arquivo encontrado: Sound.wav
+29/3/2004 16:38:55: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:38:55: Arquivo encontrado: explode2.wav
+29/3/2004 16:38:55: Chamando: [TGraphics.Create]
+29/3/2004 16:38:55: TGraphics criado com sucesso.
+29/3/2004 16:38:55: Chamando: [TWindow.Create]
+29/3/2004 16:38:55: Direct3D8 criado com sucesso.
+29/3/2004 16:38:55: Adaptador de modo de display encontrado.
+29/3/2004 16:39:12: Chamando: [TWindow.Create]
+29/3/2004 16:39:56: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:39:56: Chamando: [TApplication.Create]
+29/3/2004 16:39:56: TApplication criado com sucesso.
+29/3/2004 16:39:56: Chamando: [TSoundList.Create]
+29/3/2004 16:39:56: TSoundList criado com sucesso.
+29/3/2004 16:39:57: Chamando: [TWindow.Create]
+29/3/2004 16:39:57: Resolução da janela: 640x480.
+29/3/2004 16:39:57: Chamando: [TWindow.Run]
+29/3/2004 16:39:57: Classe TWindow registrada com sucesso.
+29/3/2004 16:39:57: TWindow instanciado com sucesso.
+29/3/2004 16:39:57: Arquivo encontrado: Sound.wav
+29/3/2004 16:39:57: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:39:57: Arquivo encontrado: explode2.wav
+29/3/2004 16:39:57: Chamando: [TGraphics.Create]
+29/3/2004 16:39:57: TGraphics criado com sucesso.
+29/3/2004 16:39:57: Chamando: [TWindow.Create]
+29/3/2004 16:39:57: Direct3D8 criado com sucesso.
+29/3/2004 16:39:57: Adaptador de modo de display encontrado.
+29/3/2004 16:39:12: Chamando: [TWindow.Create]
+29/3/2004 16:42:09: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:42:09: Chamando: [TApplication.Create]
+29/3/2004 16:42:09: TApplication criado com sucesso.
+29/3/2004 16:42:09: Chamando: [TSoundList.Create]
+29/3/2004 16:42:09: TSoundList criado com sucesso.
+29/3/2004 16:42:10: Chamando: [TWindow.Create]
+29/3/2004 16:42:10: Resolução da janela: 640x480.
+29/3/2004 16:42:10: Chamando: [TWindow.Run]
+29/3/2004 16:42:10: Classe TWindow registrada com sucesso.
+29/3/2004 16:42:10: TWindow instanciado com sucesso.
+29/3/2004 16:42:10: Arquivo encontrado: Sound.wav
+29/3/2004 16:42:10: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:42:10: Arquivo encontrado: explode2.wav
+29/3/2004 16:42:10: Chamando: [TGraphics.Create]
+29/3/2004 16:42:10: TGraphics criado com sucesso.
+29/3/2004 16:42:10: Chamando: [TWindow.Create]
+29/3/2004 16:42:11: Direct3D8 criado com sucesso.
+29/3/2004 16:42:11: Adaptador de modo de display encontrado.
+29/3/2004 16:39:12: Chamando: [TWindow.Create]
+29/3/2004 16:43:32: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:43:32: Chamando: [TApplication.Create]
+29/3/2004 16:43:32: TApplication criado com sucesso.
+29/3/2004 16:43:32: Chamando: [TSoundList.Create]
+29/3/2004 16:43:32: TSoundList criado com sucesso.
+29/3/2004 16:43:33: Chamando: [TWindow.Create]
+29/3/2004 16:43:33: Resolução da janela: 640x480.
+29/3/2004 16:43:33: Chamando: [TWindow.Run]
+29/3/2004 16:43:33: Classe TWindow registrada com sucesso.
+29/3/2004 16:43:33: TWindow instanciado com sucesso.
+29/3/2004 16:43:34: Arquivo encontrado: Sound.wav
+29/3/2004 16:43:34: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:43:34: Arquivo encontrado: explode2.wav
+29/3/2004 16:43:34: Chamando: [TGraphics.Create]
+29/3/2004 16:43:34: TGraphics criado com sucesso.
+29/3/2004 16:43:34: Chamando: [TWindow.Create]
+29/3/2004 16:43:34: Direct3D8 criado com sucesso.
+29/3/2004 16:43:34: Adaptador de modo de display encontrado.
+29/3/2004 16:39:12: Chamando: [TWindow.Create]
+29/3/2004 16:44:02: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:44:02: Chamando: [TApplication.Create]
+29/3/2004 16:44:02: TApplication criado com sucesso.
+29/3/2004 16:44:02: Chamando: [TSoundList.Create]
+29/3/2004 16:44:02: TSoundList criado com sucesso.
+29/3/2004 16:44:03: Chamando: [TWindow.Create]
+29/3/2004 16:44:03: Resolução da janela: 640x480.
+29/3/2004 16:44:03: Chamando: [TWindow.Run]
+29/3/2004 16:44:03: Classe TWindow registrada com sucesso.
+29/3/2004 16:44:03: TWindow instanciado com sucesso.
+29/3/2004 16:44:03: Arquivo encontrado: Sound.wav
+29/3/2004 16:44:03: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:44:03: Arquivo encontrado: explode2.wav
+29/3/2004 16:44:03: Chamando: [TGraphics.Create]
+29/3/2004 16:44:03: TGraphics criado com sucesso.
+29/3/2004 16:44:03: Chamando: [TWindow.Create]
+29/3/2004 16:44:03: Direct3D8 criado com sucesso.
+29/3/2004 16:44:03: Adaptador de modo de display encontrado.
+29/3/2004 16:47:56: Chamando: [TWindow.Create]
+29/3/2004 16:44:25: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:44:25: Chamando: [TApplication.Create]
+29/3/2004 16:44:25: TApplication criado com sucesso.
+29/3/2004 16:44:25: Chamando: [TSoundList.Create]
+29/3/2004 16:44:25: TSoundList criado com sucesso.
+29/3/2004 16:44:27: Chamando: [TWindow.Create]
+29/3/2004 16:44:27: Resolução da janela: 640x480.
+29/3/2004 16:44:27: Chamando: [TWindow.Run]
+29/3/2004 16:44:27: Classe TWindow registrada com sucesso.
+29/3/2004 16:44:27: TWindow instanciado com sucesso.
+29/3/2004 16:44:27: Arquivo encontrado: Sound.wav
+29/3/2004 16:44:27: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:44:27: Arquivo encontrado: explode2.wav
+29/3/2004 16:44:27: Chamando: [TGraphics.Create]
+29/3/2004 16:44:27: TGraphics criado com sucesso.
+29/3/2004 16:44:27: Chamando: [TWindow.Create]
+29/3/2004 16:44:27: Direct3D8 criado com sucesso.
+29/3/2004 16:44:27: Adaptador de modo de display encontrado.
+29/3/2004 16:47:56: Chamando: [TWindow.Create]
+29/3/2004 16:45:44: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:45:44: Chamando: [TApplication.Create]
+29/3/2004 16:45:44: TApplication criado com sucesso.
+29/3/2004 16:45:44: Chamando: [TSoundList.Create]
+29/3/2004 16:45:44: TSoundList criado com sucesso.
+29/3/2004 16:45:45: Chamando: [TWindow.Create]
+29/3/2004 16:45:45: Resolução da janela: 640x480.
+29/3/2004 16:45:45: Chamando: [TWindow.Run]
+29/3/2004 16:45:45: Classe TWindow registrada com sucesso.
+29/3/2004 16:45:45: TWindow instanciado com sucesso.
+29/3/2004 16:45:45: Arquivo encontrado: Sound.wav
+29/3/2004 16:45:45: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:45:45: Arquivo encontrado: explode2.wav
+29/3/2004 16:45:45: Chamando: [TGraphics.Create]
+29/3/2004 16:45:45: TGraphics criado com sucesso.
+29/3/2004 16:45:45: Chamando: [TWindow.Create]
+29/3/2004 16:45:45: Direct3D8 criado com sucesso.
+29/3/2004 16:45:45: Adaptador de modo de display encontrado.
+29/3/2004 16:47:56: Chamando: [TWindow.Create]
+29/3/2004 16:46:43: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:46:43: Chamando: [TApplication.Create]
+29/3/2004 16:46:43: TApplication criado com sucesso.
+29/3/2004 16:46:43: Chamando: [TSoundList.Create]
+29/3/2004 16:46:43: TSoundList criado com sucesso.
+29/3/2004 16:46:45: Chamando: [TWindow.Create]
+29/3/2004 16:46:45: Resolução da janela: 640x480.
+29/3/2004 16:46:45: Chamando: [TWindow.Run]
+29/3/2004 16:46:45: Classe TWindow registrada com sucesso.
+29/3/2004 16:46:45: TWindow instanciado com sucesso.
+29/3/2004 16:46:45: Arquivo encontrado: Sound.wav
+29/3/2004 16:46:45: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:46:45: Arquivo encontrado: explode2.wav
+29/3/2004 16:46:45: Chamando: [TGraphics.Create]
+29/3/2004 16:46:45: TGraphics criado com sucesso.
+29/3/2004 16:46:45: Chamando: [TWindow.Create]
+29/3/2004 16:46:45: Direct3D8 criado com sucesso.
+29/3/2004 16:46:45: Adaptador de modo de display encontrado.
+29/3/2004 16:47:56: Chamando: [TWindow.Create]
+29/3/2004 16:58:48: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 16:58:48: Chamando: [TApplication.Create]
+29/3/2004 16:58:48: TApplication criado com sucesso.
+29/3/2004 16:58:48: Chamando: [TSoundList.Create]
+29/3/2004 16:58:48: TSoundList criado com sucesso.
+29/3/2004 16:58:59: Chamando: [TWindow.Create]
+29/3/2004 16:58:59: Resolução da janela: 640x480.
+29/3/2004 16:58:59: Chamando: [TWindow.Run]
+29/3/2004 16:58:59: Classe TWindow registrada com sucesso.
+29/3/2004 16:58:59: TWindow instanciado com sucesso.
+29/3/2004 16:59:00: Arquivo encontrado: Sound.wav
+29/3/2004 16:59:00: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 16:59:00: Arquivo encontrado: explode2.wav
+29/3/2004 16:59:00: Chamando: [TGraphics.Create]
+29/3/2004 16:59:00: TGraphics criado com sucesso.
+29/3/2004 16:59:00: Chamando: [TWindow.Create]
+29/3/2004 16:59:01: Direct3D8 criado com sucesso.
+29/3/2004 16:59:01: Adaptador de modo de display encontrado.
+29/3/2004 16:56:40: Chamando: [TWindow.Create]
+29/3/2004 17:02:26: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:02:26: Chamando: [TApplication.Create]
+29/3/2004 17:02:26: TApplication criado com sucesso.
+29/3/2004 17:02:26: Chamando: [TSoundList.Create]
+29/3/2004 17:02:26: TSoundList criado com sucesso.
+29/3/2004 17:02:28: Chamando: [TWindow.Create]
+29/3/2004 17:02:28: Resolução da janela: 640x480.
+29/3/2004 17:02:28: Chamando: [TWindow.Run]
+29/3/2004 17:02:28: Classe TWindow registrada com sucesso.
+29/3/2004 17:02:28: TWindow instanciado com sucesso.
+29/3/2004 17:02:28: Arquivo encontrado: Sound.wav
+29/3/2004 17:02:28: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:02:28: Arquivo encontrado: explode2.wav
+29/3/2004 17:02:28: Chamando: [TGraphics.Create]
+29/3/2004 17:02:28: TGraphics criado com sucesso.
+29/3/2004 17:02:28: Chamando: [TWindow.Create]
+29/3/2004 17:02:28: Direct3D8 criado com sucesso.
+29/3/2004 17:02:28: Adaptador de modo de display encontrado.
+29/3/2004 17:05:24: Chamando: [TWindow.Create]
+29/3/2004 17:08:23: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:08:23: Chamando: [TApplication.Create]
+29/3/2004 17:08:23: TApplication criado com sucesso.
+29/3/2004 17:08:23: Chamando: [TSoundList.Create]
+29/3/2004 17:08:23: TSoundList criado com sucesso.
+29/3/2004 17:08:25: Chamando: [TWindow.Create]
+29/3/2004 17:08:25: Resolução da janela: 640x480.
+29/3/2004 17:08:25: Chamando: [TWindow.Run]
+29/3/2004 17:08:25: Classe TWindow registrada com sucesso.
+29/3/2004 17:08:25: TWindow instanciado com sucesso.
+29/3/2004 17:08:25: Arquivo encontrado: Sound.wav
+29/3/2004 17:08:25: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:08:25: Arquivo encontrado: explode2.wav
+29/3/2004 17:08:25: Chamando: [TGraphics.Create]
+29/3/2004 17:08:25: TGraphics criado com sucesso.
+29/3/2004 17:08:25: Chamando: [TWindow.Create]
+29/3/2004 17:08:25: Direct3D8 criado com sucesso.
+29/3/2004 17:08:25: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:08:45: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:08:45: Chamando: [TApplication.Create]
+29/3/2004 17:08:45: TApplication criado com sucesso.
+29/3/2004 17:08:45: Chamando: [TSoundList.Create]
+29/3/2004 17:08:45: TSoundList criado com sucesso.
+29/3/2004 17:08:47: Chamando: [TWindow.Create]
+29/3/2004 17:08:47: Resolução da janela: 640x480.
+29/3/2004 17:08:47: Chamando: [TWindow.Run]
+29/3/2004 17:08:47: Classe TWindow registrada com sucesso.
+29/3/2004 17:08:47: TWindow instanciado com sucesso.
+29/3/2004 17:08:47: Arquivo encontrado: Sound.wav
+29/3/2004 17:08:47: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:08:47: Arquivo encontrado: explode2.wav
+29/3/2004 17:08:47: Chamando: [TGraphics.Create]
+29/3/2004 17:08:47: TGraphics criado com sucesso.
+29/3/2004 17:08:47: Chamando: [TWindow.Create]
+29/3/2004 17:08:47: Direct3D8 criado com sucesso.
+29/3/2004 17:08:47: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:09:05: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:09:05: Chamando: [TApplication.Create]
+29/3/2004 17:09:05: TApplication criado com sucesso.
+29/3/2004 17:09:05: Chamando: [TSoundList.Create]
+29/3/2004 17:09:05: TSoundList criado com sucesso.
+29/3/2004 17:09:07: Chamando: [TWindow.Create]
+29/3/2004 17:09:07: Resolução da janela: 640x480.
+29/3/2004 17:09:07: Chamando: [TWindow.Run]
+29/3/2004 17:09:07: Classe TWindow registrada com sucesso.
+29/3/2004 17:09:07: TWindow instanciado com sucesso.
+29/3/2004 17:09:07: Arquivo encontrado: Sound.wav
+29/3/2004 17:09:07: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:09:07: Arquivo encontrado: explode2.wav
+29/3/2004 17:09:07: Chamando: [TGraphics.Create]
+29/3/2004 17:09:07: TGraphics criado com sucesso.
+29/3/2004 17:09:07: Chamando: [TWindow.Create]
+29/3/2004 17:09:07: Direct3D8 criado com sucesso.
+29/3/2004 17:09:07: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:10:38: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:10:38: Chamando: [TApplication.Create]
+29/3/2004 17:10:38: TApplication criado com sucesso.
+29/3/2004 17:10:38: Chamando: [TSoundList.Create]
+29/3/2004 17:10:38: TSoundList criado com sucesso.
+29/3/2004 17:10:40: Chamando: [TWindow.Create]
+29/3/2004 17:10:40: Resolução da janela: 640x480.
+29/3/2004 17:10:40: Chamando: [TWindow.Run]
+29/3/2004 17:10:40: Classe TWindow registrada com sucesso.
+29/3/2004 17:10:40: TWindow instanciado com sucesso.
+29/3/2004 17:10:40: Arquivo encontrado: Sound.wav
+29/3/2004 17:10:40: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:10:40: Arquivo encontrado: explode2.wav
+29/3/2004 17:10:40: Chamando: [TGraphics.Create]
+29/3/2004 17:10:40: TGraphics criado com sucesso.
+29/3/2004 17:10:40: Chamando: [TWindow.Create]
+29/3/2004 17:10:40: Direct3D8 criado com sucesso.
+29/3/2004 17:10:40: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:11:20: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:11:20: Chamando: [TApplication.Create]
+29/3/2004 17:11:20: TApplication criado com sucesso.
+29/3/2004 17:11:20: Chamando: [TSoundList.Create]
+29/3/2004 17:11:20: TSoundList criado com sucesso.
+29/3/2004 17:11:21: Chamando: [TWindow.Create]
+29/3/2004 17:11:21: Resolução da janela: 640x480.
+29/3/2004 17:11:21: Chamando: [TWindow.Run]
+29/3/2004 17:11:21: Classe TWindow registrada com sucesso.
+29/3/2004 17:11:21: TWindow instanciado com sucesso.
+29/3/2004 17:11:21: Arquivo encontrado: Sound.wav
+29/3/2004 17:11:21: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:11:21: Arquivo encontrado: explode2.wav
+29/3/2004 17:11:21: Chamando: [TGraphics.Create]
+29/3/2004 17:11:21: TGraphics criado com sucesso.
+29/3/2004 17:11:21: Chamando: [TWindow.Create]
+29/3/2004 17:11:22: Direct3D8 criado com sucesso.
+29/3/2004 17:11:22: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:11:42: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:11:42: Chamando: [TApplication.Create]
+29/3/2004 17:11:42: TApplication criado com sucesso.
+29/3/2004 17:11:42: Chamando: [TSoundList.Create]
+29/3/2004 17:11:42: TSoundList criado com sucesso.
+29/3/2004 17:11:44: Chamando: [TWindow.Create]
+29/3/2004 17:11:44: Resolução da janela: 640x480.
+29/3/2004 17:11:44: Chamando: [TWindow.Run]
+29/3/2004 17:11:44: Classe TWindow registrada com sucesso.
+29/3/2004 17:11:44: TWindow instanciado com sucesso.
+29/3/2004 17:11:44: Arquivo encontrado: Sound.wav
+29/3/2004 17:11:44: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:11:44: Arquivo encontrado: explode2.wav
+29/3/2004 17:11:44: Chamando: [TGraphics.Create]
+29/3/2004 17:11:44: TGraphics criado com sucesso.
+29/3/2004 17:11:44: Chamando: [TWindow.Create]
+29/3/2004 17:11:44: Direct3D8 criado com sucesso.
+29/3/2004 17:11:44: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:11:58: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:11:58: Chamando: [TApplication.Create]
+29/3/2004 17:11:58: TApplication criado com sucesso.
+29/3/2004 17:11:58: Chamando: [TSoundList.Create]
+29/3/2004 17:11:58: TSoundList criado com sucesso.
+29/3/2004 17:12:00: Chamando: [TWindow.Create]
+29/3/2004 17:12:00: Resolução da janela: 640x480.
+29/3/2004 17:12:00: Chamando: [TWindow.Run]
+29/3/2004 17:12:00: Classe TWindow registrada com sucesso.
+29/3/2004 17:12:00: TWindow instanciado com sucesso.
+29/3/2004 17:12:00: Arquivo encontrado: Sound.wav
+29/3/2004 17:12:00: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:12:00: Arquivo encontrado: explode2.wav
+29/3/2004 17:12:00: Chamando: [TGraphics.Create]
+29/3/2004 17:12:00: TGraphics criado com sucesso.
+29/3/2004 17:12:00: Chamando: [TWindow.Create]
+29/3/2004 17:12:00: Direct3D8 criado com sucesso.
+29/3/2004 17:12:00: Adaptador de modo de display encontrado.
+29/3/2004 17:09:47: Chamando: [TWindow.Create]
+29/3/2004 17:14:02: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:14:02: Chamando: [TApplication.Create]
+29/3/2004 17:14:02: TApplication criado com sucesso.
+29/3/2004 17:14:02: Chamando: [TSoundList.Create]
+29/3/2004 17:14:02: TSoundList criado com sucesso.
+29/3/2004 17:14:04: Chamando: [TWindow.Create]
+29/3/2004 17:14:04: Resolução da janela: 640x480.
+29/3/2004 17:14:04: Chamando: [TWindow.Run]
+29/3/2004 17:14:04: Classe TWindow registrada com sucesso.
+29/3/2004 17:14:04: TWindow instanciado com sucesso.
+29/3/2004 17:14:04: Arquivo encontrado: Sound.wav
+29/3/2004 17:14:04: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:14:04: Arquivo encontrado: explode2.wav
+29/3/2004 17:14:04: Chamando: [TGraphics.Create]
+29/3/2004 17:14:04: TGraphics criado com sucesso.
+29/3/2004 17:14:04: Chamando: [TWindow.Create]
+29/3/2004 17:14:04: Direct3D8 criado com sucesso.
+29/3/2004 17:14:04: Adaptador de modo de display encontrado.
+29/3/2004 17:14:09: Chamando: [TWindow.Create]
+29/3/2004 17:14:21: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:14:21: Chamando: [TApplication.Create]
+29/3/2004 17:14:21: TApplication criado com sucesso.
+29/3/2004 17:14:21: Chamando: [TSoundList.Create]
+29/3/2004 17:14:21: TSoundList criado com sucesso.
+29/3/2004 17:14:23: Chamando: [TWindow.Create]
+29/3/2004 17:14:23: Resolução da janela: 640x480.
+29/3/2004 17:14:23: Chamando: [TWindow.Run]
+29/3/2004 17:14:23: Classe TWindow registrada com sucesso.
+29/3/2004 17:14:23: TWindow instanciado com sucesso.
+29/3/2004 17:14:23: Arquivo encontrado: Sound.wav
+29/3/2004 17:14:23: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:14:23: Arquivo encontrado: explode2.wav
+29/3/2004 17:14:23: Chamando: [TGraphics.Create]
+29/3/2004 17:14:23: TGraphics criado com sucesso.
+29/3/2004 17:14:23: Chamando: [TWindow.Create]
+29/3/2004 17:14:23: Direct3D8 criado com sucesso.
+29/3/2004 17:14:23: Adaptador de modo de display encontrado.
+29/3/2004 17:14:09: Chamando: [TWindow.Create]
+29/3/2004 17:14:33: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:14:33: Chamando: [TApplication.Create]
+29/3/2004 17:14:33: TApplication criado com sucesso.
+29/3/2004 17:14:33: Chamando: [TSoundList.Create]
+29/3/2004 17:14:33: TSoundList criado com sucesso.
+29/3/2004 17:14:34: Chamando: [TWindow.Create]
+29/3/2004 17:14:34: Resolução da janela: 640x480.
+29/3/2004 17:14:34: Chamando: [TWindow.Run]
+29/3/2004 17:14:34: Classe TWindow registrada com sucesso.
+29/3/2004 17:14:34: TWindow instanciado com sucesso.
+29/3/2004 17:14:34: Arquivo encontrado: Sound.wav
+29/3/2004 17:14:34: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:14:34: Arquivo encontrado: explode2.wav
+29/3/2004 17:14:34: Chamando: [TGraphics.Create]
+29/3/2004 17:14:34: TGraphics criado com sucesso.
+29/3/2004 17:14:34: Chamando: [TWindow.Create]
+29/3/2004 17:14:34: Direct3D8 criado com sucesso.
+29/3/2004 17:14:34: Adaptador de modo de display encontrado.
+29/3/2004 17:14:09: Chamando: [TWindow.Create]
+29/3/2004 17:15:04: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:15:04: Chamando: [TApplication.Create]
+29/3/2004 17:15:04: TApplication criado com sucesso.
+29/3/2004 17:15:04: Chamando: [TSoundList.Create]
+29/3/2004 17:15:04: TSoundList criado com sucesso.
+29/3/2004 17:15:06: Chamando: [TWindow.Create]
+29/3/2004 17:15:06: Resolução da janela: 640x480.
+29/3/2004 17:15:06: Chamando: [TWindow.Run]
+29/3/2004 17:15:06: Classe TWindow registrada com sucesso.
+29/3/2004 17:15:06: TWindow instanciado com sucesso.
+29/3/2004 17:15:06: Arquivo encontrado: Sound.wav
+29/3/2004 17:15:06: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:15:06: Arquivo encontrado: explode2.wav
+29/3/2004 17:15:06: Chamando: [TGraphics.Create]
+29/3/2004 17:15:06: TGraphics criado com sucesso.
+29/3/2004 17:15:06: Chamando: [TWindow.Create]
+29/3/2004 17:15:06: Direct3D8 criado com sucesso.
+29/3/2004 17:15:06: Adaptador de modo de display encontrado.
+29/3/2004 17:14:09: Chamando: [TWindow.Create]
+29/3/2004 17:15:38: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:15:38: Chamando: [TApplication.Create]
+29/3/2004 17:15:38: TApplication criado com sucesso.
+29/3/2004 17:15:38: Chamando: [TSoundList.Create]
+29/3/2004 17:15:38: TSoundList criado com sucesso.
+29/3/2004 17:15:39: Chamando: [TWindow.Create]
+29/3/2004 17:15:39: Resolução da janela: 640x480.
+29/3/2004 17:15:39: Chamando: [TWindow.Run]
+29/3/2004 17:15:39: Classe TWindow registrada com sucesso.
+29/3/2004 17:15:39: TWindow instanciado com sucesso.
+29/3/2004 17:15:39: Arquivo encontrado: Sound.wav
+29/3/2004 17:15:39: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:15:39: Arquivo encontrado: explode2.wav
+29/3/2004 17:15:39: Chamando: [TGraphics.Create]
+29/3/2004 17:15:39: TGraphics criado com sucesso.
+29/3/2004 17:15:39: Chamando: [TWindow.Create]
+29/3/2004 17:15:39: Direct3D8 criado com sucesso.
+29/3/2004 17:15:39: Adaptador de modo de display encontrado.
+29/3/2004 17:14:09: Chamando: [TWindow.Create]
+29/3/2004 17:18:03: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:18:03: Chamando: [TApplication.Create]
+29/3/2004 17:18:03: TApplication criado com sucesso.
+29/3/2004 17:18:03: Chamando: [TSoundList.Create]
+29/3/2004 17:18:03: TSoundList criado com sucesso.
+29/3/2004 17:18:05: Chamando: [TWindow.Create]
+29/3/2004 17:18:05: Resolução da janela: 640x480.
+29/3/2004 17:18:05: Chamando: [TWindow.Run]
+29/3/2004 17:18:05: Classe TWindow registrada com sucesso.
+29/3/2004 17:18:05: TWindow instanciado com sucesso.
+29/3/2004 17:18:05: Arquivo encontrado: Sound.wav
+29/3/2004 17:18:05: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:18:05: Arquivo encontrado: explode2.wav
+29/3/2004 17:18:05: Chamando: [TGraphics.Create]
+29/3/2004 17:18:05: TGraphics criado com sucesso.
+29/3/2004 17:18:05: Chamando: [TWindow.Create]
+29/3/2004 17:18:05: Direct3D8 criado com sucesso.
+29/3/2004 17:18:05: Adaptador de modo de display encontrado.
+29/3/2004 17:18:31: Chamando: [TWindow.Create]
+29/3/2004 17:18:23: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:18:23: Chamando: [TApplication.Create]
+29/3/2004 17:18:23: TApplication criado com sucesso.
+29/3/2004 17:18:23: Chamando: [TSoundList.Create]
+29/3/2004 17:18:23: TSoundList criado com sucesso.
+29/3/2004 17:18:25: Chamando: [TWindow.Create]
+29/3/2004 17:18:25: Resolução da janela: 640x480.
+29/3/2004 17:18:25: Chamando: [TWindow.Run]
+29/3/2004 17:18:25: Classe TWindow registrada com sucesso.
+29/3/2004 17:18:25: TWindow instanciado com sucesso.
+29/3/2004 17:18:25: Arquivo encontrado: Sound.wav
+29/3/2004 17:18:25: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:18:25: Arquivo encontrado: explode2.wav
+29/3/2004 17:18:25: Chamando: [TGraphics.Create]
+29/3/2004 17:18:25: TGraphics criado com sucesso.
+29/3/2004 17:18:25: Chamando: [TWindow.Create]
+29/3/2004 17:18:25: Direct3D8 criado com sucesso.
+29/3/2004 17:18:25: Adaptador de modo de display encontrado.
+29/3/2004 17:18:31: Chamando: [TWindow.Create]
+29/3/2004 17:19:59: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 17:19:59: Chamando: [TApplication.Create]
+29/3/2004 17:19:59: TApplication criado com sucesso.
+29/3/2004 17:19:59: Chamando: [TSoundList.Create]
+29/3/2004 17:19:59: TSoundList criado com sucesso.
+29/3/2004 17:20:01: Chamando: [TWindow.Create]
+29/3/2004 17:20:01: Resolução da janela: 640x480.
+29/3/2004 17:20:01: Chamando: [TWindow.Run]
+29/3/2004 17:20:01: Classe TWindow registrada com sucesso.
+29/3/2004 17:20:01: TWindow instanciado com sucesso.
+29/3/2004 17:20:01: Arquivo encontrado: Sound.wav
+29/3/2004 17:20:01: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 17:20:01: Arquivo encontrado: explode2.wav
+29/3/2004 17:20:01: Chamando: [TGraphics.Create]
+29/3/2004 17:20:01: TGraphics criado com sucesso.
+29/3/2004 17:20:01: Chamando: [TWindow.Create]
+29/3/2004 17:20:01: Direct3D8 criado com sucesso.
+29/3/2004 17:20:01: Adaptador de modo de display encontrado.
+29/3/2004 17:18:31: Chamando: [TWindow.Create]
+29/3/2004 19:40:32: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 19:40:32: Chamando: [TApplication.Create]
+29/3/2004 19:40:32: TApplication criado com sucesso.
+29/3/2004 19:40:32: Chamando: [TSoundList.Create]
+29/3/2004 19:40:32: TSoundList criado com sucesso.
+29/3/2004 19:40:33: Chamando: [TWindow.Create]
+29/3/2004 19:40:33: Resolução da janela: 640x480.
+29/3/2004 19:40:33: Chamando: [TWindow.Run]
+29/3/2004 19:40:33: Classe TWindow registrada com sucesso.
+29/3/2004 19:40:33: TWindow instanciado com sucesso.
+29/3/2004 19:40:33: Arquivo encontrado: Sound.wav
+29/3/2004 19:40:33: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 19:40:33: Arquivo encontrado: explode2.wav
+29/3/2004 19:40:33: Chamando: [TGraphics.Create]
+29/3/2004 19:40:33: TGraphics criado com sucesso.
+29/3/2004 19:40:33: Chamando: [TWindow.Create]
+29/3/2004 19:40:33: Direct3D8 criado com sucesso.
+29/3/2004 19:40:33: Adaptador de modo de display encontrado.
+29/3/2004 19:42:42: Chamando: [TWindow.Create]
+29/3/2004 21:03:58: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 21:03:58: Chamando: [TApplication.Create]
+29/3/2004 21:03:58: TApplication criado com sucesso.
+29/3/2004 21:03:58: Chamando: [TSoundList.Create]
+29/3/2004 21:03:58: TSoundList criado com sucesso.
+29/3/2004 21:04:05: Chamando: [TWindow.Create]
+29/3/2004 21:04:05: Resolução da janela: 640x480.
+29/3/2004 21:04:05: Chamando: [TWindow.Run]
+29/3/2004 21:04:05: Classe TWindow registrada com sucesso.
+29/3/2004 21:04:05: TWindow instanciado com sucesso.
+29/3/2004 21:04:06: Arquivo encontrado: Sound.wav
+29/3/2004 21:04:06: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 21:04:06: Arquivo encontrado: explode2.wav
+29/3/2004 21:04:06: Chamando: [TGraphics.Create]
+29/3/2004 21:04:06: TGraphics criado com sucesso.
+29/3/2004 21:04:06: Chamando: [TWindow.Create]
+29/3/2004 21:04:06: Direct3D8 criado com sucesso.
+29/3/2004 21:04:06: Adaptador de modo de display encontrado.
+29/3/2004 21:05:42: Chamando: [TWindow.Create]
+29/3/2004 21:12:16: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 21:12:16: Chamando: [TApplication.Create]
+29/3/2004 21:12:17: TApplication criado com sucesso.
+29/3/2004 21:12:17: Chamando: [TSoundList.Create]
+29/3/2004 21:12:17: TSoundList criado com sucesso.
+29/3/2004 21:12:19: Chamando: [TWindow.Create]
+29/3/2004 21:12:19: Resolução da janela: 640x480.
+29/3/2004 21:12:19: Chamando: [TWindow.Run]
+29/3/2004 21:12:19: Classe TWindow registrada com sucesso.
+29/3/2004 21:12:19: TWindow instanciado com sucesso.
+29/3/2004 21:12:19: Arquivo encontrado: Sound.wav
+29/3/2004 21:12:19: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 21:12:19: Arquivo encontrado: explode2.wav
+29/3/2004 21:12:19: Chamando: [TGraphics.Create]
+29/3/2004 21:12:19: TGraphics criado com sucesso.
+29/3/2004 21:12:19: Chamando: [TWindow.Create]
+29/3/2004 21:12:19: Direct3D8 criado com sucesso.
+29/3/2004 21:12:19: Adaptador de modo de display encontrado.
+29/3/2004 21:10:05: Chamando: [TWindow.Create]
+29/3/2004 21:30:43: --- Powered by IskaTreK - Copyright(c) 2004 ---
+29/3/2004 21:30:43: Chamando: [TApplication.Create]
+29/3/2004 21:30:43: TApplication criado com sucesso.
+29/3/2004 21:30:43: Chamando: [TSoundList.Create]
+29/3/2004 21:30:43: TSoundList criado com sucesso.
+29/3/2004 21:30:45: Chamando: [TWindow.Create]
+29/3/2004 21:30:45: Resolução da janela: 640x480.
+29/3/2004 21:30:45: Chamando: [TWindow.Run]
+29/3/2004 21:30:45: Classe TWindow registrada com sucesso.
+29/3/2004 21:30:45: TWindow instanciado com sucesso.
+29/3/2004 21:30:46: Arquivo encontrado: Sound.wav
+29/3/2004 21:30:46: Arquivo encontrado: SingleGunShot.wav
+29/3/2004 21:30:46: Arquivo encontrado: explode2.wav
+29/3/2004 21:30:46: Chamando: [TGraphics.Create]
+29/3/2004 21:30:46: TGraphics criado com sucesso.
+29/3/2004 21:30:46: Chamando: [TWindow.Create]
+29/3/2004 21:30:46: Direct3D8 criado com sucesso.
+29/3/2004 21:30:46: Adaptador de modo de display encontrado.
+29/3/2004 21:27:33: Chamando: [TWindow.Create]
+30/3/2004 23:31:38: --- Powered by IskaTreK - Copyright(c) 2004 ---
+30/3/2004 23:31:38: Chamando: [TApplication.Create]
+30/3/2004 23:31:38: TApplication criado com sucesso.
+30/3/2004 23:31:38: Chamando: [TSoundList.Create]
+30/3/2004 23:31:38: TSoundList criado com sucesso.
+30/3/2004 23:31:39: Chamando: [TWindow.Create]
+30/3/2004 23:31:39: Resolução da janela: 640x480.
+30/3/2004 23:31:39: Chamando: [TWindow.Run]
+30/3/2004 23:31:39: Classe TWindow registrada com sucesso.
+30/3/2004 23:31:39: TWindow instanciado com sucesso.
+30/3/2004 23:31:39: Arquivo encontrado: Sound.wav
+30/3/2004 23:31:39: Arquivo encontrado: SingleGunShot.wav
+30/3/2004 23:31:39: Arquivo encontrado: explode2.wav
+30/3/2004 23:31:39: Chamando: [TGraphics.Create]
+30/3/2004 23:31:39: TGraphics criado com sucesso.
+30/3/2004 23:31:39: Chamando: [TWindow.Create]
+30/3/2004 23:31:39: Direct3D8 criado com sucesso.
+30/3/2004 23:31:39: Adaptador de modo de display encontrado.
+30/3/2004 23:31:41: Chamando: [TWindow.Create]
+1/4/2004 10:45:29: --- Powered by IskaTreK - Copyright(c) 2004 ---
+1/4/2004 10:45:29: Chamando: [TApplication.Create]
+1/4/2004 10:45:29: TApplication criado com sucesso.
+1/4/2004 10:45:29: Chamando: [TSoundList.Create]
+1/4/2004 10:45:29: TSoundList criado com sucesso.
+1/4/2004 10:45:30: Chamando: [TWindow.Create]
+1/4/2004 10:45:30: Resolução da janela: 640x480.
+1/4/2004 10:45:30: Chamando: [TWindow.Run]
+1/4/2004 10:45:30: Classe TWindow registrada com sucesso.
+1/4/2004 10:45:30: TWindow instanciado com sucesso.
+1/4/2004 10:45:30: Arquivo encontrado: Sound.wav
+1/4/2004 10:45:31: Arquivo encontrado: SingleGunShot.wav
+1/4/2004 10:45:31: Arquivo encontrado: explode2.wav
+1/4/2004 10:45:31: Chamando: [TGraphics.Create]
+1/4/2004 10:45:31: TGraphics criado com sucesso.
+1/4/2004 10:45:31: Chamando: [TWindow.Create]
+1/4/2004 10:45:31: Direct3D8 criado com sucesso.
+1/4/2004 10:45:31: Adaptador de modo de display encontrado.
+1/4/2004 10:46:18: Chamando: [TWindow.Create]
+1/4/2004 12:20:24: --- Powered by IskaTreK - Copyright(c) 2004 ---
+1/4/2004 12:20:24: Chamando: [TApplication.Create]
+1/4/2004 12:20:24: TApplication criado com sucesso.
+1/4/2004 12:20:24: Chamando: [TSoundList.Create]
+1/4/2004 12:20:24: TSoundList criado com sucesso.
+1/4/2004 12:20:26: Chamando: [TWindow.Create]
+1/4/2004 12:20:26: Resolução da janela: 640x480.
+1/4/2004 12:20:26: Chamando: [TWindow.Run]
+1/4/2004 12:20:26: Classe TWindow registrada com sucesso.
+1/4/2004 12:20:26: TWindow instanciado com sucesso.
+1/4/2004 12:20:26: Arquivo encontrado: Sound.wav
+1/4/2004 12:20:26: Arquivo encontrado: SingleGunShot.wav
+1/4/2004 12:20:26: Arquivo encontrado: explode2.wav
+1/4/2004 12:20:26: Chamando: [TGraphics.Create]
+1/4/2004 12:20:26: TGraphics criado com sucesso.
+1/4/2004 12:20:26: Chamando: [TWindow.Create]
+1/4/2004 12:20:26: Direct3D8 criado com sucesso.
+1/4/2004 12:20:26: Adaptador de modo de display encontrado.
+1/4/2004 12:22:26: Chamando: [TWindow.Create]
+1/4/2004 12:34:30: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Bin\CompletoeTotal.exe" ---
+1/4/2004 12:34:30: Chamando: [TApplication.Create]
+1/4/2004 12:34:30: TApplication criado com sucesso.
+1/4/2004 12:34:30: Chamando: [TSoundList.Create]
+1/4/2004 12:34:30: TSoundList criado com sucesso.
+1/4/2004 12:34:32: Chamando: [TWindow.Create]
+1/4/2004 12:34:32: Resolução da janela: 640x480.
+1/4/2004 12:34:32: Chamando: [TWindow.Run]
+1/4/2004 12:34:32: Classe TWindow registrada com sucesso.
+1/4/2004 12:34:32: TWindow instanciado com sucesso.
+1/4/2004 12:34:32: Arquivo encontrado: "Sound.wav"
+1/4/2004 12:34:32: Arquivo encontrado: "SingleGunShot.wav"
+1/4/2004 12:34:32: Arquivo encontrado: "explode2.wav"
+1/4/2004 12:34:32: Chamando: [TGraphics.Create]
+1/4/2004 12:34:32: TGraphics criado com sucesso.
+1/4/2004 12:34:32: Chamando: [TWindow.Create]
+1/4/2004 12:34:32: Direct3D8 criado com sucesso.
+1/4/2004 12:34:32: Adaptador de modo de display encontrado.
+1/4/2004 12:35:32: Arquivo encontrado: "1.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "Fundo1.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "player2.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "Tiro2.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "Enemy.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "Testando.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "inimigo_hit1.bmp"
+1/4/2004 12:35:32: Arquivo encontrado: "expl_inimigo1.bmp"
+1/4/2004 12:35:32: Chamando: [TWindow.Create]
+1/4/2004 16:03:03: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Arquivos de programas\Borland\Delphi7\Projects\CompletoeTotal\Bin\CompletoeTotal.exe" ---
+1/4/2004 16:03:03: Chamando: [TApplication.Create]
+1/4/2004 16:03:03: TApplication criado com sucesso.
+1/4/2004 16:03:03: Chamando: [TSoundList.Create]
+1/4/2004 16:03:03: TSoundList criado com sucesso.
+1/4/2004 16:03:04: Chamando: [TWindow.Create]
+1/4/2004 16:03:04: Resolução da janela: 640x480.
+1/4/2004 16:03:04: Chamando: [TWindow.Run]
+1/4/2004 16:03:04: Classe TWindow registrada com sucesso.
+1/4/2004 16:03:04: TWindow instanciado com sucesso.
+1/4/2004 16:03:04: Arquivo encontrado: "Sound.wav"
+1/4/2004 16:03:04: Arquivo encontrado: "SingleGunShot.wav"
+1/4/2004 16:03:05: Arquivo encontrado: "explode2.wav"
+1/4/2004 16:03:05: Chamando: [TGraphics.Create]
+1/4/2004 16:03:05: TGraphics criado com sucesso.
+1/4/2004 16:03:05: Chamando: [TWindow.Create]
+1/4/2004 16:03:05: Direct3D8 criado com sucesso.
+1/4/2004 16:03:05: Adaptador de modo de display encontrado.
+1/4/2004 16:00:53: Arquivo encontrado: "1.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "Fundo1.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "player2.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "Tiro2.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "Enemy.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "Testando.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "inimigo_hit1.bmp"
+1/4/2004 16:00:53: Arquivo encontrado: "expl_inimigo1.bmp"
+1/4/2004 16:00:53: Chamando: [TWindow.Create]
+22/12/2007 8:53:05 PM: --- Powered by IskaTreK - Copyright(c) 2004 --- 
+ --- Arquivo: "C:\Users\Ivan Paulovich\Desktop\CompletoeTotal\Bin\CompletoeTotal.exe" ---
+22/12/2007 8:53:05 PM: Chamando: [TApplication.Create]
+22/12/2007 8:53:05 PM: TApplication criado com sucesso.
+22/12/2007 8:53:05 PM: Chamando: [TSoundList.Create]
+22/12/2007 8:53:05 PM: TSoundList criado com sucesso.
+22/12/2007 8:53:06 PM: Chamando: [TWindow.Create]
+22/12/2007 8:53:06 PM: Resolução da janela: 640x480.
+22/12/2007 8:53:06 PM: Chamando: [TWindow.Run]
+22/12/2007 8:53:06 PM: Classe TWindow registrada com sucesso.
+22/12/2007 8:53:06 PM: TWindow instanciado com sucesso.
+22/12/2007 8:53:06 PM: Arquivo encontrado: "Sound.wav"
+22/12/2007 8:53:06 PM: Arquivo encontrado: "SingleGunShot.wav"
+22/12/2007 8:53:06 PM: Arquivo encontrado: "explode2.wav"
+22/12/2007 8:53:06 PM: Chamando: [TGraphics.Create]
+22/12/2007 8:53:06 PM: TGraphics criado com sucesso.
+22/12/2007 8:53:06 PM: Chamando: [TWindow.Create]
+22/12/2007 8:53:06 PM: Direct3D8 criado com sucesso.
+22/12/2007 8:53:06 PM: Adaptador de modo de display encontrado.
+22/12/2007 8:52:47 PM: Arquivo encontrado: "1.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "Fundo1.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "player2.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "Tiro2.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "Enemy.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "Testando.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "inimigo_hit1.bmp"
+22/12/2007 8:52:47 PM: Arquivo encontrado: "expl_inimigo1.bmp"
+22/12/2007 8:52:47 PM: Chamando: [TWindow.Create]

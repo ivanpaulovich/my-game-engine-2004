@@ -1,0 +1,87 @@
+(*******************************************************)
+(*                                                     *)
+(*       Engine Paulovich DirectX                      *)
+(*       Win32-DirectX API Unit                        *)
+(*                                                     *)
+(*       Copyright (c) 2003-2004, Ivan Paulovich       *)
+(*                                                     *)
+(*       iskatrek@hotmail.com  uin#89160524            *)
+(*                                                     *)
+(*       File: Leiame.txt                              *)
+(*                                                     *)
+(*******************************************************)
+
+Demonstrações de uso da Engine Paulovich DirectX.
+
+Window.exe - Simples tela, fundamental para uma aplicação
+	com a Engine.
+
+SpriteBasic.exe - Background randômico, e um sprite de 
+	avião como jogador.
+	
+	Teclas: [Setas] locomovem
+
+SpriteCollide.exe - Background randômico, sprite de avião 
+	como jogador, outro sprite de avião como inimigos,
+	sprite de tiro como tiro.
+	
+	Teclas: [Setas] locomovem
+		[Espaço] atira
+
+Sprite.exe - Background randômico, sprite de avião como 
+	jogador, outro sprite de avião como inimigos,
+	sprite de tiro como tiro, sprite de submarino como
+	um submarino, sprite de radar como radar, sprite 
+	vermelho, sprite preto como cores.
+	
+	Teclas: [Setas] locomovem
+		[Espaço] atira
+
+SpriteShoot.exe - Background de deserto, sprite de avião
+	como jogador, outro sprite de avião como inimigos,
+	sprite de tiro como tiro. (aguarde até a aparição
+	de inimigos, max. de 30 segs).
+
+	Teclas: [Setas] locomovem
+		[Espaço] atira
+
+Tile.exe - Background randômico, e um sprite de bomberman 
+	como jogador.
+
+	Teclas: [Setas] locomovem
+
+
+	As seguintes dlls são extensões para o funcionamento dos
+	aplicativos acima. Elas devem estar no diretório dos exemplos
+	ou na pasta System do seu Windows.
+	
+	text3Ddmo.dll, D3DX8ab.dll, 
+	D3DX8abD.dll, D3DX81ab.dll
+	
+
+obs. - Em todos os demos, a tecla [Esc] finaliza o programa,
+	a tecla [F2] pausa a aplicação e a tecla [F3] retorna
+	ao exemplo.
+     - As imagens foram retiradas da internet. E não possuo
+	nenhum fim lucrativo com estes exemplos, por isso peço
+	que os criadores não impliquem comigo, mas caso alguém 
+	ache que devo retirar alguma imagem dos exemplos que 
+	entre contato nos endereços de email e icq acima.
+     - Não me responsabilizo com nenhum dano que porventura 
+	estes exemplos possam causar a seu computador. Claro 
+	que os exemplos referidos foram criados e testados 
+	por mim, e nenhum deles irá realizar nenhuma função 
+	que possa desconfigurar de má fé, o seu computador.
+
+
+Obrigado a todos por testar os meus exemplos, qualque dúvida ou 
+	sugestão sinta-se à vontade para me mandar um e-mail ou
+	mensagem instantânea, terei o maior prazer em ajudar na 
+	medida do possível em relação a DirectX.
+
+
+[]s,
+Ivan Paulovich
+
+---------------------------------------------------------
+iskatrek@hotmail.com  uin#89160524

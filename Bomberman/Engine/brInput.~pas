@@ -1,0 +1,454 @@
+(*******************************************************)
+(*                                                     *)
+(*       Engine Paulovich DirectX                      *)
+(*       Win32-DirectX API Unit                        *)
+(*                                                     *)
+(*       Copyright (c) 2003-2004, Ivan Paulovich       *)
+(*                                                     *)
+(*       iskatrek@hotmail.com  uin#89160524            *)
+(*                                                     *)
+(*       Unit: brInput                                 *)
+(*                                                     *)
+(*******************************************************)
+
+unit brInput;
+
+interface
+
+uses
+  Windows, DirectInput8, SysUtils;
+
+type
+
+  TTimedInput = record
+    Time: dWord;
+    Used: boolean;
+  end;
+
+  TInput = class
+  private
+    DI8: IDirectInput8;
+    DIK8: IDirectInputDevice8;
+    DIM8: IDirectInputDevice8;
+    DIJ8: IDirectInputDevice8;
+    DIMEvent: THandle;
+    DIMou0Clicked: Boolean;
+    DIMou1Clicked: Boolean;
+    DIJ8Caps: TDIDevCaps;
+    function EnumJoysticksCallback(_didi: PDIDeviceInstance;
+      _ref: pointer): Integer;
+    function EnumAxesCallback(var _didoi: TDIDeviceObjectInstance;
+      _ref: pointer): Integer;
+  public
+    constructor Create;
+    function Run: Integer;
+    procedure Clear;
+    function InitMouse(hWnd: HWnd): Boolean;
+    function MouseAcquire(Acquire: Boolean): Boolean;
+    function MouseState(var _x, _y: longint; var _0u, _0d, _0z,
+      _1u, _1d, _1z: Longint): Boolean;
+    function InitJoystick(hWnd: HWnd): Boolean;
+    function JoystickState(var _data: TDIJoyState2): Boolean;
+    function InitKeyboard(hWnd: HWnd): Boolean;
+    function KeyboardAcquire(Acquire: Boolean): Boolean;
+    function KeyboardState: Boolean;
+    function KeyDown(Key: Byte): Boolean;
+  end;
+
+var
+  Input: TInput = nil;
+
+procedure TimedInputReset(var Ti: TTimedInput);
+function TimedInputRefresh(var Ti: TTimedInput;
+  _time, _timeout: dWord;
+  _condition: boolean): Longint;
+  
+implementation
+
+uses
+  brForms;
+
+const
+  DIMBufSize = 16;
+  DIMTimeOut = 250;
+
+  DIJoyRange = 32768;
+
+var
+  DIMButSwapped: Boolean = False;
+  DIM0Released: DWord = 0;
+  DIM1Released: DWord = 0;
+
+  DIKeyBuffer: array[0..255] of Byte;
+
+procedure TimedInputReset(var Ti: TTimedInput);
+begin
+  Ti.Time := 0;
+  Ti.Used := False;
+end;
+
+function TimedInputRefresh(var Ti: TTimedInput;
+  _time, _timeout: dWord;
+  _condition: boolean): longint;
+
+begin
+  Result := 0;
+  if (Ti.Time = 0) and (_condition) then
+  begin
+    Ti.Time := _time;
+    Exit;
+  end;
+
+  if (Ti.Time <> 0) then
+    if (_condition) then
+    begin
+      if (_time - Ti.Time >= _timeout) then
+      begin
+        Ti.Used := true;
+        while (_time - Ti.Time >= _timeout) do
+        begin
+          inc(Result);
+          inc(Ti.Time, _timeout)
+        end;
+      end;
+    end
+    else
+    begin
+      if not Ti.Used then
+        Inc(Result);
+      Ti.Used := false;
+      Ti.Time := 0;
+    end;
+end;
+
+function GlobalEnumJoysticksCallback(_didi: PDIDeviceInstance;
+  _ref: pointer): integer; stdcall;
+begin
+  Input.EnumJoysticksCallback(_didi, _ref);
+end;
+
+function GlobalEnumAxesCallback(var _didoi: TDIDeviceObjectInstance;
+  _ref: pointer): integer; stdcall;
+
+begin
+  Input.EnumAxesCallback(_didoi, _ref);
+end;
+
+constructor TInput.Create;
+begin
+  if Assigned(Input) then
+    raise ELogError.Create(Format(ERROR_EXISTS, ['TInput']))
+  else
+    SaveLog(Format(EVENT_CREATE, ['TInput']));
+  DI8 := nil;
+  DIK8 := nil;
+  DIM8 := nil;
+  DIJ8 := nil;
+end;
+
+function TInput.Run: Integer;
+begin
+  Clear;
+
+  if Failed(DirectInput8Create(hInstance, DIRECTINPUT_VERSION, IID_IDirectInput8,
+    DI8, nil)) then
+    Result := E_FAIL
+  else
+    Result := S_OK;
+end;
+
+procedure TInput.Clear;
+begin
+  if Assigned(DI8) then
+  begin
+    if Assigned(DIK8) then
+    begin
+      DIK8.Unacquire;
+      DIK8 := nil;
+    end;
+    if Assigned(DIM8) then
+    begin
+      DIM8.Unacquire;
+      DIM8 := nil;
+    end;
+    if Assigned(DIJ8) then
+    begin
+      DIJ8.Unacquire;
+      DIJ8 := nil;
+    end;
+    DI8 := nil;
+  end;
+end;
+
+function TInput.InitMouse(hWnd: HWnd): Boolean;
+var
+  _prop: TDIPropDWord;
+begin
+  Result := false;
+
+  // Are mouse buttons swapped ?
+  DIMButSwapped := GetSystemMetrics(SM_SWAPBUTTON) <> 0;
+
+  // Create a IDirectInputDevice interface for the Mouse.
+  if failed(DI8.CreateDevice(GUID_SysMouse, DIM8, nil)) then exit;
+
+  // Set the device's data format.
+  if failed(DIM8.SetDataFormat(@c_dfDIMouse)) then exit;
+
+  // Set the cooperative level.
+  if failed(DIM8.SetCooperativeLevel(hWnd, DISCL_FOREGROUND or
+    DISCL_EXCLUSIVE)) then exit;
+
+  // Create a event for the mouse.
+  DIMEvent := CreateEvent(nil, false, false, nil);
+  if DIMEvent = 0 then exit;
+
+  // Assign event.
+  if failed(DIM8.SetEventNotification(DIMEvent)) then exit;
+
+  // Set buffer's description.
+  with _prop do begin
+    diph.dwSize := SizeOf(TDIPropDWord);
+    diph.dwHeaderSize := SizeOf(TDIPropHeader);
+    diph.dwObj := 0;
+    diph.dwHow := DIPH_DEVICE;
+    dwData := DIMBufSize;
+  end;
+
+  // Assign buffer.
+  if failed(DIM8.SetProperty(DIPROP_BUFFERSIZE, _prop.diph)) then exit;
+
+  // All right.
+  Result := true;
+end;
+
+function TInput.MouseAcquire(Acquire: Boolean): Boolean;
+var
+  Hr: HRESULT;
+begin
+  if not Acquire then
+    Hr := DIM8.Unacquire
+  else
+    Hr := DIM8.Acquire;
+  Result := not Failed(Hr);
+end;
+
+function TInput.MouseState(var _x, _y: longint; var _0u, _0d, _0z,
+  _1u, _1d, _1z: Longint): Boolean;
+var
+  _hr: HRESULT;
+  _od: TDIDeviceObjectData;
+  _0, _1: Boolean;
+  _time: DWord;
+  _elements: DWord;
+begin
+  Result := false;
+
+  _x := 0; _y := 0;
+  _0u := 0; _0d := 0;
+  _1u := 0; _1d := 0;
+  _0z := 0; _1z := 0;
+
+  // Read event by event.
+  repeat
+    _elements := 1;
+    _hr := DIM8.GetDeviceData(SizeOf(TDIDeviceObjectData),
+      @_od, _elements, 0);
+    if _hr = DIERR_INPUTLOST then
+    begin
+      _hr := DIM8.Acquire;
+      if not failed(_hr)
+        then _hr := DIM8.GetDeviceData(SizeOf(TDIDeviceObjectData),
+          @_od, _elements, 0);
+    end;
+    if (failed(_hr)) then exit;
+    Result := true;
+    if (_elements = 0) then exit;
+
+    // Analize event data.
+    _0 := false;
+    _1 := false;
+    case _od.dwOfs of
+      DIMOFS_X: _x := _x + longint(_od.dwData);
+      DIMOFS_Y: _y := _y + longint(_od.dwData);
+      DIMOFS_BUTTON0: if DIMButSwapped
+        then _1 := true else _0 := true;
+      DIMOFS_BUTTON1: if DIMButSwapped
+        then _0 := true else _1 := true;
+    end;
+
+    // Button 0 clicked or released ?
+    if _0 = true then
+    begin
+      DIMou0Clicked := (_od.dwData and $80 = $80);
+      if not DIMou0Clicked then
+      begin
+        inc(_0u);
+            // Double-click check
+        _time := GetTickCount;
+        if (_time - DIM0Released < DIMTimeOut) then
+        begin
+          DIM0Released := 0;
+          inc(_0z);
+        end else DIM0Released := _time;
+      end else inc(_0d);
+    end;
+
+    // Button 1 clicked or released ?
+    if _1 = true then
+    begin
+      DIMou1Clicked := (_od.dwData and $80 = $80);
+      if not DIMou1Clicked then
+      begin
+        inc(_1u);
+            // Double-click check
+        _time := GetTickCount;
+        if (_time - DIM1Released < DIMTimeOut) then
+        begin
+          DIM1Released := 0;
+          inc(_1z);
+        end else DIM1Released := _time;
+      end else inc(_1d);
+    end;
+  until _elements = 0;
+end;
+
+function TInput.EnumJoysticksCallback(_didi: PDIDeviceInstance;
+  _ref: pointer): integer;
+
+begin
+  Result := DIENUM_CONTINUE;
+  if failed(DI8.CreateDevice(_didi.guidInstance, DIJ8, nil)) then exit;
+  Result := DIENUM_STOP;
+end;
+
+function TInput.EnumAxesCallback(var _didoi: TDIDeviceObjectInstance;
+  _ref: pointer): integer;
+
+var _diprg: TDIPropRange;
+
+begin
+  Result := DIENUM_CONTINUE;
+
+  _diprg.diph.dwSize := sizeof(TDIPropRange);
+  _diprg.diph.dwHeaderSize := sizeof(TDIPropHeader);
+  _diprg.diph.dwHow := DIPH_BYID;
+  _diprg.diph.dwObj := _didoi.dwType;
+  _diprg.lMin := -DIJoyRange;
+  _diprg.lMax := DIJoyRange;
+
+  if failed(DIJ8.SetProperty(DIPROP_RANGE, _diprg.diph))
+    then Result := DIENUM_STOP;
+end;
+
+function TInput.InitJoystick(hWnd: HWnd): Boolean;
+
+begin
+  Result := false;
+
+  // Find joystick and create the device.
+  DI8.EnumDevices(DI8DEVCLASS_GAMECTRL, @GlobalEnumJoysticksCallback,
+    nil, DIEDFL_ATTACHEDONLY);
+  if DIJ8 = nil then
+    Exit;
+
+  // Set joystick Data Format.
+  if failed(DIJ8.SetDataFormat(@c_dfDIJoystick2)) then
+  begin
+    DIJ8 := nil;
+    Exit;
+  end;
+
+  // Set joystick cooperative level.
+  if failed(DIJ8.SetCooperativeLevel(hWnd,
+    DISCL_EXCLUSIVE or DISCL_FOREGROUND)) then
+  begin
+    DIJ8 := nil;
+    Exit;
+  end;
+
+  // Get joystick capabilities.
+  DIJ8CAPS.dwSize := sizeof(TDIDevCaps);
+  if Failed(DIJ8.GetCapabilities(DIJ8CAPS)) then
+  begin
+    DIJ8 := nil;
+    Exit;
+  end;
+
+  // Customize the device properties.
+  if failed(DIJ8.EnumObjects(GlobalEnumAxesCallback,
+    nil, DIDFT_AXIS)) then
+  begin
+    DIJ8 := nil;
+    Exit;
+  end;
+
+  // All right.
+  Result := true;
+end;
+
+function TInput.JoystickState(var _data: TDIJoyState2): Boolean;
+begin
+  Result := false;
+
+  // Poll the device to read the current state.
+  if failed(DIJ8.Poll) then
+    if DIJ8.Acquire = DIERR_INPUTLOST then
+      if failed(DIJ8.Acquire) then exit;
+
+  // Retrieve data.
+  Result := not failed(DIJ8.GetDeviceState(sizeof(TDIJoyState2),
+    @_data));
+end;
+
+function TInput.InitKeyboard(hWnd: HWnd): Boolean;
+begin
+  Result := false;
+
+  if Failed(DI8.CreateDevice(GUID_SysKeyboard, DIK8, NIL)) then Exit;
+
+  if Failed(DIK8.SetDataFormat(@c_dfDIKeyboard)) then Exit;
+
+  if Failed(DIK8.SetCooperativeLevel(HWnd, DISCL_FOREGROUND or
+                                     DISCL_NONEXCLUSIVE)) then Exit;
+
+  Result := True;
+end;
+
+function TInput.KeyboardAcquire(Acquire: Boolean): Boolean;
+var
+  Hr : hResult;
+begin
+  if not Acquire then
+    Hr := DIK8.Unacquire
+  else
+    Hr := DIK8.Acquire;
+  Result := not Failed(Hr);
+end;
+
+function TInput.KeyboardState: Boolean;
+var
+  Hr : hResult;
+begin
+  Hr := DIK8.GetDeviceState(SizeOf(DIKeyBuffer), @DIKeyBuffer);
+
+  if Hr = DIERR_INPUTLOST then
+    begin
+      Hr := DIK8.Acquire;
+      if not Failed(Hr)
+        then Hr := DIK8.GetDeviceState(SizeOf(DIKeyBuffer),
+                                        @DIKeyBuffer);
+    end;
+
+  Result := not Failed(Hr);
+end;
+
+function TInput.KeyDown(Key: Byte): Boolean;
+begin
+  Result := (DIKeyBuffer[Key] and $80 = $80);
+end;
+
+begin
+  ZeroMemory(@DIKeyBuffer, SizeOf(DIKeyBuffer));
+end.
+
